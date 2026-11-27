@@ -48,24 +48,6 @@ Incorporated places come from the Census Bureau's population estimates (2025). C
 
 \#1 is the largest, densest or oldest. Ties share a rank.
 
-### Founding years
-
-Places have no single official founding date, so each card says what its year stands for:
-
-| Label | Cards | Meaning |
-| --- | --- | --- |
-| founded | 295 | the Wikipedia infobox says "Founded" |
-| settled | 220 | first settlement, platting and the like |
-| established | 63 | a date with no label, or Wikidata's "inception" |
-| incorporated | 350 | the only date available is incorporation or a charter, often well after settlement |
-| (none) | 95 | the Founded row is hidden |
-
-Founding ranks compare these mixed kinds of date, so treat them as approximate. The rules are in `scripts/founding.js`. To correct or add a year, put it in `data/founding-fixes.json`, keyed by the place's Census GEOID, and rebuild:
-
-```json
-{ "0820000": { "year": 1858, "kind": "founded" } }
-```
-
 ### County, elevation and nickname
 
 - **County:** for incorporated places, from the Census place-by-county rows, most residents first. For census-designated places, from where the outline falls on the county map. A county holding under 5% is left out.
