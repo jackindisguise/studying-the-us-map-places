@@ -1,0 +1,100 @@
+<div class="stage"><div class="land">{{Map}}<div class="ring"></div></div><div class="ask">{{State}}</div></div>
+<script>
+	(function () {
+		var s = document.querySelector(".stage");
+		if (!s) return;
+		function boxFit(vw, vh, b, k) {
+			var bw = b[2] - b[0],
+				bh = b[3] - b[1],
+				side = Math.min((vw * k) / bw, (vh * k) / bh);
+			if (b[4])
+				side = Math.min(
+					side,
+					(b[5] ? Math.min(vw, vh) : Math.max(vw, vh)) / b[4],
+				);
+			side = Math.max(side, vw, vh);
+			return {
+				side: side,
+				left: vw / 2 - (b[0] + bw / 2) * side,
+				top: vh / 2 - (b[1] + bh / 2) * side,
+			};
+		}
+		function g() {
+			var im = s.querySelector("img[data-box]");
+			if (!im) return;
+			var b = im.getAttribute("data-box").split(",").map(Number),
+				r = boxFit(s.clientWidth, s.clientHeight, b, 0.92),
+				t = im.style;
+			s.style.overflow = "hidden";
+			t.position = "absolute";
+			t.maxWidth = "none";
+			t.maxHeight = "none";
+			t.objectFit = "fill";
+			t.width = t.height = r.side + "px";
+			t.left = r.left + "px";
+			t.top = r.top + "px";
+			// The city's own area lies exactly over the map.
+			var own = s.querySelector("img.city");
+			if (own) own.style.cssText = t.cssText;
+			// A ring around a city too small to spot: p is its centre and size, as shares of the map.
+			var p = im.getAttribute("data-city").split(",").map(Number),
+				m = s.querySelector(".ring").style;
+			m.left = r.left + p[0] * r.side + "px";
+			m.top = r.top + p[1] * r.side + "px";
+			m.display = p[2] * r.side < 30 ? "block" : "none";
+			// The zoom box starts top-left; if it would cover the place, it moves to another corner.
+			var z = s.querySelector("img.zoom");
+			if (!z) return;
+			z.style.top = z.style.left = "";
+			var x = r.left + p[0] * r.side,
+				y = r.top + p[1] * r.side,
+				w = z.offsetWidth,
+				h = z.offsetHeight,
+				e = z.offsetLeft,
+				corners = [[e, z.offsetTop], [s.clientWidth - w - e, 52], [e, s.clientHeight - 0 - h - e]];
+			for (var i = 0; i < corners.length; i++) {
+				var c = corners[i];
+				if (x < c[0] - 24 || x > c[0] + w + 24 || y < c[1] - 24 || y > c[1] + h + 24) {
+					z.style.left = c[0] + "px";
+					z.style.top = c[1] + "px";
+					break;
+				}
+			}
+		}
+		if (s.querySelector(".details")) {
+			var n = /night/i.test(
+					document.body.className + document.documentElement.className,
+				),
+				c = n ? "#1c2228" : "#f7fafc";
+			document.documentElement.style.background = c;
+			document.body.style.background = c;
+		}
+		function f() {
+			var d =
+				window.matchMedia &&
+				window.matchMedia("(hover:hover) and (pointer:fine)").matches;
+			if (d) {
+				s.style.height = "";
+				s.style.paddingBottom = "";
+				return;
+			}
+			var h = Math.max(
+				window.innerHeight || 0,
+				document.documentElement.clientHeight || 0,
+				(window.visualViewport && window.visualViewport.height) || 0,
+			);
+			s.style.height = h + "px";
+			s.style.paddingBottom = "0";
+		}
+		function h() {
+			f();
+			g();
+		}
+		h();
+		window.addEventListener("resize", h);
+		window.addEventListener("orientationchange", h);
+		window.addEventListener("load", h);
+		setTimeout(h, 150);
+		setTimeout(h, 600);
+	})();
+</script>

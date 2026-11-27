@@ -1,0 +1,11004 @@
+{
+ "1004130": [
+  {
+   "item": "Q755632",
+   "title": "Bear, Delaware",
+   "inception": []
+  }
+ ],
+ "1009850": [
+  {
+   "item": "Q754431",
+   "title": "Brookside, Delaware",
+   "inception": []
+  }
+ ],
+ "1021200": [
+  {
+   "item": "Q33518",
+   "title": "Dover, Delaware",
+   "inception": [
+    {
+     "date": "1683-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1024540": [
+  {
+   "item": "Q755400",
+   "title": "Elsmere, Delaware",
+   "inception": [
+    {
+     "date": "1909-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1029090": [
+  {
+   "item": "Q755587",
+   "title": "Georgetown, Delaware",
+   "inception": [
+    {
+     "date": "1791-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1029350": [
+  {
+   "item": "Q755788",
+   "title": "Glasgow, Delaware",
+   "inception": []
+  }
+ ],
+ "1035850": [
+  {
+   "item": "Q254769",
+   "title": "Hockessin, Delaware",
+   "inception": []
+  }
+ ],
+ "1047030": [
+  {
+   "item": "Q756141",
+   "title": "Middletown, Delaware",
+   "inception": [
+    {
+     "date": "1861-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1047420": [
+  {
+   "item": "Q755600",
+   "title": "Milford, Delaware",
+   "inception": [
+    {
+     "date": "1680-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1047940": [
+  {
+   "item": "Q753693",
+   "title": "Millsboro, Delaware",
+   "inception": []
+  }
+ ],
+ "1050670": [
+  {
+   "item": "Q506586",
+   "title": "Newark, Delaware",
+   "inception": [
+    {
+     "date": "1694-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1064320": [
+  {
+   "item": "Q755663",
+   "title": "Seaford, Delaware",
+   "inception": []
+  }
+ ],
+ "1067310": [
+  {
+   "item": "Q755736",
+   "title": "Smyrna, Delaware",
+   "inception": []
+  }
+ ],
+ "1077580": [
+  {
+   "item": "Q174224",
+   "title": "Wilmington, Delaware",
+   "inception": [
+    {
+     "date": "1638-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1200410": [
+  {
+   "item": "Q4705552",
+   "title": "Alafaya, Florida",
+   "inception": []
+  }
+ ],
+ "1201700": [
+  {
+   "item": "Q619686",
+   "title": "Apopka, Florida",
+   "inception": [
+    {
+     "date": "1882-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1207300": [
+  {
+   "item": "Q29422",
+   "title": "Boca Raton, Florida",
+   "inception": [
+    {
+     "date": "1925-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1207525": [
+  {
+   "item": "Q892635",
+   "title": "Bonita Springs, Florida",
+   "inception": [
+    {
+     "date": "1999-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1207875": [
+  {
+   "item": "Q896048",
+   "title": "Boynton Beach, Florida",
+   "inception": [
+    {
+     "date": "1895-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1207950": [
+  {
+   "item": "Q582121",
+   "title": "Bradenton, Florida",
+   "inception": [
+    {
+     "date": "1842-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1208150": [
+  {
+   "item": "Q898109",
+   "title": "Brandon, Florida",
+   "inception": [
+    {
+     "date": "1857-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1210275": [
+  {
+   "item": "Q462789",
+   "title": "Cape Coral, Florida",
+   "inception": [
+    {
+     "date": "1957-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1212875": [
+  {
+   "item": "Q244146",
+   "title": "Clearwater, Florida",
+   "inception": [
+    {
+     "date": "1891-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1212925": [
+  {
+   "item": "Q531446",
+   "title": "Clermont, Florida",
+   "inception": [
+    {
+     "date": "1875-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1213275": [
+  {
+   "item": "Q988906",
+   "title": "Coconut Creek, Florida",
+   "inception": [
+    {
+     "date": "1967-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1214400": [
+  {
+   "item": "Q505557",
+   "title": "Coral Springs, Florida",
+   "inception": [
+    {
+     "date": "1963-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1214895": [
+  {
+   "item": "Q2464084",
+   "title": "Country Club, Florida",
+   "inception": []
+  }
+ ],
+ "1216475": [
+  {
+   "item": "Q985438",
+   "title": "Davie, Florida",
+   "inception": [
+    {
+     "date": "1909-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1216525": [
+  {
+   "item": "Q490595",
+   "title": "Daytona Beach, Florida",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1216725": [
+  {
+   "item": "Q584849",
+   "title": "Deerfield Beach, Florida",
+   "inception": []
+  }
+ ],
+ "1217100": [
+  {
+   "item": "Q824100",
+   "title": "Delray Beach, Florida",
+   "inception": [
+    {
+     "date": "1884-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1217200": [
+  {
+   "item": "Q1898798",
+   "title": "Deltona, Florida",
+   "inception": [
+    {
+     "date": "1962-11-18T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1224000": [
+  {
+   "item": "Q165972",
+   "title": "Fort Lauderdale, Florida",
+   "inception": [
+    {
+     "date": "1911-03-27T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1224125": [
+  {
+   "item": "Q506451",
+   "title": "Fort Myers, Florida",
+   "inception": [
+    {
+     "date": "1886-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1224300": [
+  {
+   "item": "Q584340",
+   "title": "Fort Pierce, Florida",
+   "inception": [
+    {
+     "date": "1901-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1224562": [
+  {
+   "item": "Q514636",
+   "title": "Fontainebleau, Florida",
+   "inception": []
+  }
+ ],
+ "1225175": [
+  {
+   "item": "Q487999",
+   "title": "Gainesville, Florida",
+   "inception": [
+    {
+     "date": "1853-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1230000": [
+  {
+   "item": "Q49276",
+   "title": "Hialeah, Florida",
+   "inception": []
+  }
+ ],
+ "1232000": [
+  {
+   "item": "Q234453",
+   "title": "Hollywood, Florida",
+   "inception": [
+    {
+     "date": "1921-02-18T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1232275": [
+  {
+   "item": "Q280557",
+   "title": "Homestead, Florida",
+   "inception": [
+    {
+     "date": "1913-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1232610": [
+  {
+   "item": "Q5903504",
+   "title": "Horizon West, Florida",
+   "inception": []
+  }
+ ],
+ "1235000": [
+  {
+   "item": "Q16568",
+   "title": "Jacksonville, Florida",
+   "inception": [
+    {
+     "date": "1791-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1235875": [
+  {
+   "item": "Q986329",
+   "title": "Jupiter, Florida",
+   "inception": []
+  }
+ ],
+ "1236062": [
+  {
+   "item": "Q2443471",
+   "title": "Kendale Lakes, Florida",
+   "inception": []
+  }
+ ],
+ "1236100": [
+  {
+   "item": "Q2361035",
+   "title": "Kendall, Florida",
+   "inception": []
+  }
+ ],
+ "1236950": [
+  {
+   "item": "Q583894",
+   "title": "Kissimmee, Florida",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1238250": [
+  {
+   "item": "Q639452",
+   "title": "Lakeland, Florida",
+   "inception": [
+    {
+     "date": "1875-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1239425": [
+  {
+   "item": "Q932577",
+   "title": "Largo, Florida",
+   "inception": []
+  }
+ ],
+ "1239925": [
+  {
+   "item": "Q960225",
+   "title": "Lehigh Acres, Florida",
+   "inception": []
+  }
+ ],
+ "1243125": [
+  {
+   "item": "Q989468",
+   "title": "Margate, Florida",
+   "inception": []
+  }
+ ],
+ "1243975": [
+  {
+   "item": "Q949779",
+   "title": "Melbourne, Florida",
+   "inception": [
+    {
+     "date": "1867-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1245025": [
+  {
+   "item": "Q201516",
+   "title": "Miami Beach, Florida",
+   "inception": [
+    {
+     "date": "1915-03-26T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1245060": [
+  {
+   "item": "Q721455",
+   "title": "Miami Gardens, Florida",
+   "inception": [
+    {
+     "date": "2003-05-13T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1245975": [
+  {
+   "item": "Q745168",
+   "title": "Miramar, Florida",
+   "inception": []
+  }
+ ],
+ "1249450": [
+  {
+   "item": "Q980428",
+   "title": "North Miami, Florida",
+   "inception": [
+    {
+     "date": "1890-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1249675": [
+  {
+   "item": "Q2155370",
+   "title": "North Port, Florida",
+   "inception": [
+    {
+     "date": "1959-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1250750": [
+  {
+   "item": "Q918195",
+   "title": "Ocala, Florida",
+   "inception": [
+    {
+     "date": "1845-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1251075": [
+  {
+   "item": "Q2155347",
+   "title": "Ocoee, Florida",
+   "inception": []
+  }
+ ],
+ "1253000": [
+  {
+   "item": "Q49233",
+   "title": "Orlando, Florida",
+   "inception": [
+    {
+     "date": "1875-08-12T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1254000": [
+  {
+   "item": "Q816809",
+   "title": "Palm Bay, Florida",
+   "inception": [
+    {
+     "date": "1960-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1254075": [
+  {
+   "item": "Q994159",
+   "title": "Palm Beach Gardens, Florida",
+   "inception": [
+    {
+     "date": "1959-06-20T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1254200": [
+  {
+   "item": "Q610463",
+   "title": "Palm Coast, Florida",
+   "inception": [
+    {
+     "date": "1969-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1254350": [
+  {
+   "item": "Q1964822",
+   "title": "Palm Harbor, Florida",
+   "inception": []
+  }
+ ],
+ "1255775": [
+  {
+   "item": "Q370972",
+   "title": "Pembroke Pines, Florida",
+   "inception": [
+    {
+     "date": "1956-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1255925": [
+  {
+   "item": "Q486306",
+   "title": "Pensacola, Florida",
+   "inception": [
+    {
+     "date": "1559-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1256825": [
+  {
+   "item": "Q3294011",
+   "title": "Pine Hills, Florida",
+   "inception": []
+  }
+ ],
+ "1256975": [
+  {
+   "item": "Q2151669",
+   "title": "Pinellas Park, Florida",
+   "inception": []
+  }
+ ],
+ "1257425": [
+  {
+   "item": "Q984677",
+   "title": "Plantation, Florida",
+   "inception": [
+    {
+     "date": "1953-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1257900": [
+  {
+   "item": "Q2269797",
+   "title": "Poinciana, Florida",
+   "inception": []
+  }
+ ],
+ "1258050": [
+  {
+   "item": "Q671458",
+   "title": "Pompano Beach, Florida",
+   "inception": [
+    {
+     "date": "1880-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1258350": [
+  {
+   "item": "Q1022776",
+   "title": "Port Charlotte, Florida",
+   "inception": []
+  }
+ ],
+ "1258575": [
+  {
+   "item": "Q985301",
+   "title": "Port Orange, Florida",
+   "inception": [
+    {
+     "date": "1867-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1258715": [
+  {
+   "item": "Q667749",
+   "title": "Port St. Lucie, Florida",
+   "inception": [
+    {
+     "date": "1961-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1260950": [
+  {
+   "item": "Q1828539",
+   "title": "Riverview, Florida",
+   "inception": []
+  }
+ ],
+ "1262625": [
+  {
+   "item": "Q928701",
+   "title": "St. Cloud, Florida",
+   "inception": [
+    {
+     "date": "1909-04-16T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1263000": [
+  {
+   "item": "Q49236",
+   "title": "St. Petersburg, Florida",
+   "inception": [
+    {
+     "date": "1876-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1263650": [
+  {
+   "item": "Q786770",
+   "title": "Sanford, Florida",
+   "inception": []
+  }
+ ],
+ "1264175": [
+  {
+   "item": "Q491540",
+   "title": "Sarasota, Florida",
+   "inception": [
+    {
+     "date": "1763-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1268350": [
+  {
+   "item": "Q2321558",
+   "title": "Spring Hill, Florida",
+   "inception": []
+  }
+ ],
+ "1269700": [
+  {
+   "item": "Q506375",
+   "title": "Sunrise, Florida",
+   "inception": []
+  }
+ ],
+ "1270600": [
+  {
+   "item": "Q37043",
+   "title": "Tallahassee, Florida",
+   "inception": [
+    {
+     "date": "1824-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1270675": [
+  {
+   "item": "Q921201",
+   "title": "Tamarac, Florida",
+   "inception": [
+    {
+     "date": "1963-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1271000": [
+  {
+   "item": "Q49255",
+   "title": "Tampa, Florida",
+   "inception": [
+    {
+     "date": "1823-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1271569": [
+  {
+   "item": "Q2428996",
+   "title": "The Hammocks, Florida",
+   "inception": []
+  }
+ ],
+ "1271625": [
+  {
+   "item": "Q279537",
+   "title": "The Villages, Florida",
+   "inception": []
+  }
+ ],
+ "1272145": [
+  {
+   "item": "Q3294005",
+   "title": "Town 'n' Country, Florida",
+   "inception": []
+  }
+ ],
+ "1275812": [
+  {
+   "item": "Q992652",
+   "title": "Wellington, Florida",
+   "inception": [
+    {
+     "date": "1972-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1275875": [
+  {
+   "item": "Q1916993",
+   "title": "Wesley Chapel, Florida",
+   "inception": []
+  }
+ ],
+ "1276075": [
+  {
+   "item": "Q1362680",
+   "title": "Westchester, Florida",
+   "inception": []
+  }
+ ],
+ "1276582": [
+  {
+   "item": "Q990644",
+   "title": "Weston, Florida",
+   "inception": [
+    {
+     "date": "1996-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1276600": [
+  {
+   "item": "Q163749",
+   "title": "West Palm Beach, Florida",
+   "inception": [
+    {
+     "date": "1884-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1278275": [
+  {
+   "item": "Q1778769",
+   "title": "Winter Haven, Florida",
+   "inception": [
+    {
+     "date": "1884-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1301052": [
+  {
+   "item": "Q285599",
+   "title": "Albany, Georgia",
+   "inception": [
+    {
+     "date": "1836-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1303440": [
+  {
+   "item": "Q127387080",
+   "title": "Athens-Clarke County unified government (balance), Georgia",
+   "inception": []
+  },
+  {
+   "item": "Q203263",
+   "title": "Athens, Georgia",
+   "inception": [
+    {
+     "date": "1806-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1304000": [
+  {
+   "item": "Q23556",
+   "title": "Atlanta",
+   "inception": [
+    {
+     "date": "1845-12-29T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1304204": [
+  {
+   "item": "Q127387064",
+   "title": "Augusta-Richmond County consolidated government (balance), Georgia",
+   "inception": []
+  },
+  {
+   "item": "Q181962",
+   "title": "Augusta, Georgia",
+   "inception": [
+    {
+     "date": "1736-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1310944": [
+  {
+   "item": "Q154462",
+   "title": "Brookhaven, Georgia",
+   "inception": [
+    {
+     "date": "2012-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1319000": [
+  {
+   "item": "Q239870",
+   "title": "Columbus, Georgia",
+   "inception": [
+    {
+     "date": "1828-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1324768": [
+  {
+   "item": "Q1208436",
+   "title": "Dunwoody, Georgia",
+   "inception": [
+    {
+     "date": "2008-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1342425": [
+  {
+   "item": "Q1191460",
+   "title": "Johns Creek, Georgia",
+   "inception": [
+    {
+     "date": "2006-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1348288": [
+  {
+   "item": "Q2656942",
+   "title": "Mableton, Georgia",
+   "inception": []
+  }
+ ],
+ "1349756": [
+  {
+   "item": "Q852684",
+   "title": "Marietta, Georgia",
+   "inception": [
+    {
+     "date": "1834-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1367284": [
+  {
+   "item": "Q585176",
+   "title": "Roswell, Georgia",
+   "inception": [
+    {
+     "date": "1854-02-16T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1368516": [
+  {
+   "item": "Q914884",
+   "title": "Sandy Springs, Georgia",
+   "inception": [
+    {
+     "date": "2005-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1369000": [
+  {
+   "item": "Q83813",
+   "title": "Savannah, Georgia",
+   "inception": [
+    {
+     "date": "1733-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1371492": [
+  {
+   "item": "Q958676",
+   "title": "Smyrna, Georgia",
+   "inception": [
+    {
+     "date": "1832-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1372122": [
+  {
+   "item": "Q7567323",
+   "title": "South Fulton, Georgia",
+   "inception": [
+    {
+     "date": "2017-05-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1373784": [
+  {
+   "item": "Q28456847",
+   "title": "Stonecrest, Georgia",
+   "inception": []
+  }
+ ],
+ "1378800": [
+  {
+   "item": "Q1010240",
+   "title": "Valdosta, Georgia",
+   "inception": []
+  }
+ ],
+ "1380508": [
+  {
+   "item": "Q2003323",
+   "title": "Warner Robins, Georgia",
+   "inception": [
+    {
+     "date": "1942-09-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1506290": [
+  {
+   "item": "Q4243048",
+   "title": "East Honolulu, Hawaii",
+   "inception": []
+  }
+ ],
+ "1507470": [
+  {
+   "item": "Q2102831",
+   "title": "ʻEwa Gentry, Hawaii",
+   "inception": []
+  }
+ ],
+ "1514650": [
+  {
+   "item": "Q216258",
+   "title": "Hilo, Hawaii",
+   "inception": []
+  }
+ ],
+ "1522700": [
+  {
+   "item": "Q1012975",
+   "title": "Kahului, Hawaii",
+   "inception": []
+  }
+ ],
+ "1523150": [
+  {
+   "item": "Q532459",
+   "title": "Kailua, Hawaii",
+   "inception": []
+  }
+ ],
+ "1528250": [
+  {
+   "item": "Q1484530",
+   "title": "Kāneʻohe, Hawaii",
+   "inception": []
+  }
+ ],
+ "1551050": [
+  {
+   "item": "Q2003096",
+   "title": "Mililani, Hawaii",
+   "inception": []
+  }
+ ],
+ "1562600": [
+  {
+   "item": "Q572052",
+   "title": "Pearl City, Hawaii",
+   "inception": []
+  }
+ ],
+ "1579700": [
+  {
+   "item": "Q637246",
+   "title": "Waipahu, Hawaii",
+   "inception": []
+  }
+ ],
+ "1608830": [
+  {
+   "item": "Q35775",
+   "title": "Boise, Idaho",
+   "inception": [
+    {
+     "date": "1863-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1612250": [
+  {
+   "item": "Q849592",
+   "title": "Caldwell, Idaho",
+   "inception": [
+    {
+     "date": "1883-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1616750": [
+  {
+   "item": "Q499681",
+   "title": "Coeur d'Alene, Idaho",
+   "inception": [
+    {
+     "date": "1878-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1639700": [
+  {
+   "item": "Q496360",
+   "title": "Idaho Falls, Idaho",
+   "inception": [
+    {
+     "date": "1864-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1652120": [
+  {
+   "item": "Q1085274",
+   "title": "Meridian, Idaho",
+   "inception": [
+    {
+     "date": "1893-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1656260": [
+  {
+   "item": "Q622633",
+   "title": "Nampa, Idaho",
+   "inception": [
+    {
+     "date": "1886-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1664090": [
+  {
+   "item": "Q320729",
+   "title": "Pocatello, Idaho",
+   "inception": [
+    {
+     "date": "1889-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1664810": [
+  {
+   "item": "Q737345",
+   "title": "Post Falls, Idaho",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1667420": [
+  {
+   "item": "Q818311",
+   "title": "Rexburg, Idaho",
+   "inception": [
+    {
+     "date": "1883-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1682810": [
+  {
+   "item": "Q548384",
+   "title": "Twin Falls, Idaho",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1702154": [
+  {
+   "item": "Q997132",
+   "title": "Arlington Heights, Illinois",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1703012": [
+  {
+   "item": "Q22595",
+   "title": "Aurora, Illinois",
+   "inception": [
+    {
+     "date": "1835-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1705573": [
+  {
+   "item": "Q578072",
+   "title": "Berwyn, Illinois",
+   "inception": [
+    {
+     "date": "1908-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1706613": [
+  {
+   "item": "Q577802",
+   "title": "Bloomington, Illinois",
+   "inception": [
+    {
+     "date": "1857-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1707133": [
+  {
+   "item": "Q891359",
+   "title": "Bolingbrook, Illinois",
+   "inception": []
+  }
+ ],
+ "1712385": [
+  {
+   "item": "Q577964",
+   "title": "Champaign, Illinois",
+   "inception": [
+    {
+     "date": "1855-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1714000": [
+  {
+   "item": "Q1297",
+   "title": "Chicago",
+   "inception": [
+    {
+     "date": "1837-03-04T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1714351": [
+  {
+   "item": "Q578221",
+   "title": "Cicero, Illinois",
+   "inception": [
+    {
+     "date": "1867-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1718823": [
+  {
+   "item": "Q506325",
+   "title": "Decatur, Illinois",
+   "inception": [
+    {
+     "date": "1823-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1719642": [
+  {
+   "item": "Q386961",
+   "title": "Des Plaines, Illinois",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1723074": [
+  {
+   "item": "Q499887",
+   "title": "Elgin, Illinois",
+   "inception": [
+    {
+     "date": "1835-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1854-04-24T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1724582": [
+  {
+   "item": "Q462799",
+   "title": "Evanston, Illinois",
+   "inception": [
+    {
+     "date": "1836-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1738570": [
+  {
+   "item": "Q40345",
+   "title": "Joliet, Illinois",
+   "inception": [
+    {
+     "date": "1833-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1751089": [
+  {
+   "item": "Q995793",
+   "title": "Mount Prospect, Illinois",
+   "inception": []
+  }
+ ],
+ "1751622": [
+  {
+   "item": "Q243007",
+   "title": "Naperville, Illinois",
+   "inception": [
+    {
+     "date": "1831-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1857-02-07T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1890-03-17T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1753234": [
+  {
+   "item": "Q575407",
+   "title": "Normal, Illinois",
+   "inception": [
+    {
+     "date": "1865-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1754885": [
+  {
+   "item": "Q331397",
+   "title": "Oak Park, Illinois",
+   "inception": [
+    {
+     "date": "1835-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1757225": [
+  {
+   "item": "Q998726",
+   "title": "Palatine, Illinois",
+   "inception": [
+    {
+     "date": "1866-04-02T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1759000": [
+  {
+   "item": "Q233129",
+   "title": "Peoria, Illinois",
+   "inception": [
+    {
+     "date": "1680-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1765000": [
+  {
+   "item": "Q233892",
+   "title": "Rockford, Illinois",
+   "inception": [
+    {
+     "date": "1834-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1852-01-03T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1768003": [
+  {
+   "item": "Q988162",
+   "title": "Schaumburg, Illinois",
+   "inception": []
+  }
+ ],
+ "1770122": [
+  {
+   "item": "Q985536",
+   "title": "Skokie, Illinois",
+   "inception": [
+    {
+     "date": "1833-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1772000": [
+  {
+   "item": "Q28515",
+   "title": "Springfield, Illinois",
+   "inception": [
+    {
+     "date": "1821-04-10T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1840-02-03T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1775484": [
+  {
+   "item": "Q1761214",
+   "title": "Tinley Park, Illinois",
+   "inception": [
+    {
+     "date": "1892-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1779293": [
+  {
+   "item": "Q578289",
+   "title": "Waukegan, Illinois",
+   "inception": [
+    {
+     "date": "1859-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1781048": [
+  {
+   "item": "Q575315",
+   "title": "Wheaton, Illinois",
+   "inception": [
+    {
+     "date": "1831-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1801468": [
+  {
+   "item": "Q491461",
+   "title": "Anderson, Indiana",
+   "inception": []
+  }
+ ],
+ "1805860": [
+  {
+   "item": "Q490385",
+   "title": "Bloomington, Indiana",
+   "inception": [
+    {
+     "date": "1818-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1810342": [
+  {
+   "item": "Q537853",
+   "title": "Carmel, Indiana",
+   "inception": [
+    {
+     "date": "1874-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1814734": [
+  {
+   "item": "Q941870",
+   "title": "Columbus, Indiana",
+   "inception": [
+    {
+     "date": "1820-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1820728": [
+  {
+   "item": "Q2008706",
+   "title": "Elkhart, Indiana",
+   "inception": []
+  }
+ ],
+ "1822000": [
+  {
+   "item": "Q486459",
+   "title": "Evansville, Indiana",
+   "inception": [
+    {
+     "date": "1817-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1823278": [
+  {
+   "item": "Q2284046",
+   "title": "Fishers, Indiana",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1825000": [
+  {
+   "item": "Q49268",
+   "title": "Fort Wayne, Indiana",
+   "inception": [
+    {
+     "date": "1794-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1827000": [
+  {
+   "item": "Q184116",
+   "title": "Gary, Indiana",
+   "inception": [
+    {
+     "date": "1906-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1829898": [
+  {
+   "item": "Q1778780",
+   "title": "Greenwood, Indiana",
+   "inception": []
+  }
+ ],
+ "1831000": [
+  {
+   "item": "Q856860",
+   "title": "Hammond, Indiana",
+   "inception": [
+    {
+     "date": "1884-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1836003": [
+  {
+   "item": "Q6346",
+   "title": "Indianapolis",
+   "inception": [
+    {
+     "date": "1821-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  },
+  {
+   "item": "Q14688478",
+   "title": "Indianapolis (balance)",
+   "inception": []
+  }
+ ],
+ "1838358": [
+  {
+   "item": "Q977206",
+   "title": "Jeffersonville, Indiana",
+   "inception": []
+  }
+ ],
+ "1840392": [
+  {
+   "item": "Q913209",
+   "title": "Kokomo, Indiana",
+   "inception": [
+    {
+     "date": "1855-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1840788": [
+  {
+   "item": "Q638187",
+   "title": "Lafayette, Indiana",
+   "inception": [
+    {
+     "date": "1853-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1842426": [
+  {
+   "item": "Q1806779",
+   "title": "Lawrence, Indiana",
+   "inception": []
+  }
+ ],
+ "1849932": [
+  {
+   "item": "Q990691",
+   "title": "Mishawaka, Indiana",
+   "inception": [
+    {
+     "date": "1833-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1851876": [
+  {
+   "item": "Q932981",
+   "title": "Muncie, Indiana",
+   "inception": [
+    {
+     "date": "1827-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1854180": [
+  {
+   "item": "Q1645069",
+   "title": "Noblesville, Indiana",
+   "inception": [
+    {
+     "date": "1823-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1871000": [
+  {
+   "item": "Q486877",
+   "title": "South Bend, Indiana",
+   "inception": [
+    {
+     "date": "1865-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1875428": [
+  {
+   "item": "Q492478",
+   "title": "Terre Haute, Indiana",
+   "inception": [
+    {
+     "date": "1811-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1901855": [
+  {
+   "item": "Q470273",
+   "title": "Ames, Iowa",
+   "inception": [
+    {
+     "date": "1864-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1902305": [
+  {
+   "item": "Q556989",
+   "title": "Ankeny, Iowa",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1912000": [
+  {
+   "item": "Q486439",
+   "title": "Cedar Rapids, Iowa",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1916860": [
+  {
+   "item": "Q695565",
+   "title": "Council Bluffs, Iowa",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1919000": [
+  {
+   "item": "Q26887",
+   "title": "Davenport, Iowa",
+   "inception": [
+    {
+     "date": "1836-05-14T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "1921000": [
+  {
+   "item": "Q39709",
+   "title": "Des Moines, Iowa",
+   "inception": [
+    {
+     "date": "1843-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1922395": [
+  {
+   "item": "Q493794",
+   "title": "Dubuque, Iowa",
+   "inception": []
+  }
+ ],
+ "1938595": [
+  {
+   "item": "Q487977",
+   "title": "Iowa City, Iowa",
+   "inception": [
+    {
+     "date": "1839-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1973335": [
+  {
+   "item": "Q489255",
+   "title": "Sioux City, Iowa",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "1982425": [
+  {
+   "item": "Q496381",
+   "title": "Waterloo, Iowa",
+   "inception": []
+  }
+ ],
+ "1983910": [
+  {
+   "item": "Q923861",
+   "title": "West Des Moines, Iowa",
+   "inception": [
+    {
+     "date": "1893-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2036000": [
+  {
+   "item": "Q486472",
+   "title": "Kansas City, Kansas",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2038900": [
+  {
+   "item": "Q493840",
+   "title": "Lawrence, Kansas",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2039350": [
+  {
+   "item": "Q992536",
+   "title": "Lenexa, Kansas",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2044250": [
+  {
+   "item": "Q856841",
+   "title": "Manhattan, Kansas",
+   "inception": [
+    {
+     "date": "1855-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2052575": [
+  {
+   "item": "Q593022",
+   "title": "Olathe, Kansas",
+   "inception": [
+    {
+     "date": "1857-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2053775": [
+  {
+   "item": "Q500481",
+   "title": "Overland Park, Kansas",
+   "inception": [
+    {
+     "date": "1960-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2062700": [
+  {
+   "item": "Q1650620",
+   "title": "Salina, Kansas",
+   "inception": [
+    {
+     "date": "1858-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2064500": [
+  {
+   "item": "Q986627",
+   "title": "Shawnee, Kansas",
+   "inception": []
+  }
+ ],
+ "2079000": [
+  {
+   "item": "Q49266",
+   "title": "Wichita, Kansas",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2108902": [
+  {
+   "item": "Q694545",
+   "title": "Bowling Green, Kentucky",
+   "inception": [
+    {
+     "date": "1798-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2117848": [
+  {
+   "item": "Q747599",
+   "title": "Covington, Kentucky",
+   "inception": [
+    {
+     "date": "1815-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2124274": [
+  {
+   "item": "Q946319",
+   "title": "Elizabethtown, Kentucky",
+   "inception": [
+    {
+     "date": "1797-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2127982": [
+  {
+   "item": "Q985560",
+   "title": "Florence, Kentucky",
+   "inception": [
+    {
+     "date": "1830-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2130700": [
+  {
+   "item": "Q877247",
+   "title": "Georgetown, Kentucky",
+   "inception": [
+    {
+     "date": "1784-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2148006": [
+  {
+   "item": "Q6689436",
+   "title": "Louisville/Jefferson County metro government (balance), Kentucky",
+   "inception": []
+  }
+ ],
+ "2156136": [
+  {
+   "item": "Q988752",
+   "title": "Nicholasville, Kentucky",
+   "inception": []
+  }
+ ],
+ "2158620": [
+  {
+   "item": "Q494295",
+   "title": "Owensboro, Kentucky",
+   "inception": [
+    {
+     "date": "1797-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2165226": [
+  {
+   "item": "Q757390",
+   "title": "Richmond, Kentucky",
+   "inception": [
+    {
+     "date": "1798-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2200975": [
+  {
+   "item": "Q985351",
+   "title": "Alexandria, Louisiana",
+   "inception": [
+    {
+     "date": "1818-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2205000": [
+  {
+   "item": "Q28218",
+   "title": "Baton Rouge, Louisiana",
+   "inception": [
+    {
+     "date": "1719-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1699-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2208920": [
+  {
+   "item": "Q877897",
+   "title": "Bossier City, Louisiana",
+   "inception": [
+    {
+     "date": "1907-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2239475": [
+  {
+   "item": "Q991464",
+   "title": "Kenner, Louisiana",
+   "inception": [
+    {
+     "date": "1855-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2240735": [
+  {
+   "item": "Q128891",
+   "title": "Lafayette, Louisiana",
+   "inception": [
+    {
+     "date": "1821-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2241155": [
+  {
+   "item": "Q864106",
+   "title": "Lake Charles, Louisiana",
+   "inception": [
+    {
+     "date": "1861-03-07T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "2250115": [
+  {
+   "item": "Q126661",
+   "title": "Metairie, Louisiana",
+   "inception": []
+  }
+ ],
+ "2251410": [
+  {
+   "item": "Q947115",
+   "title": "Monroe, Louisiana",
+   "inception": [
+    {
+     "date": "1785-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2255000": [
+  {
+   "item": "Q34404",
+   "title": "New Orleans",
+   "inception": [
+    {
+     "date": "1718-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2270000": [
+  {
+   "item": "Q80517",
+   "title": "Shreveport, Louisiana",
+   "inception": [
+    {
+     "date": "1836-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2302060": [
+  {
+   "item": "Q758545",
+   "title": "Auburn, Maine",
+   "inception": []
+  }
+ ],
+ "2302100": [
+  {
+   "item": "Q28206",
+   "title": "Augusta, Maine",
+   "inception": [
+    {
+     "date": "1628-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2302795": [
+  {
+   "item": "Q327012",
+   "title": "Bangor, Maine",
+   "inception": []
+  }
+ ],
+ "2304860": [
+  {
+   "item": "Q856938",
+   "title": "Biddeford, Maine",
+   "inception": [
+    {
+     "date": "1616-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2338740": [
+  {
+   "item": "Q501170",
+   "title": "Lewiston, Maine",
+   "inception": []
+  }
+ ],
+ "2360545": [
+  {
+   "item": "Q49201",
+   "title": "Portland, Maine",
+   "inception": [
+    {
+     "date": "1632-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2365725": [
+  {
+   "item": "Q3887931",
+   "title": "Sanford (CDP), Maine",
+   "inception": []
+  },
+  {
+   "item": "Q2018200",
+   "title": "Sanford, Maine",
+   "inception": [
+    {
+     "date": "1739-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2382105": [
+  {
+   "item": "Q663724",
+   "title": "Westbrook, Maine",
+   "inception": [
+    {
+     "date": "1814-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2401600": [
+  {
+   "item": "Q28271",
+   "title": "Annapolis, Maryland",
+   "inception": [
+    {
+     "date": "1649-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2402825": [
+  {
+   "item": "Q753733",
+   "title": "Aspen Hill, Maryland",
+   "inception": []
+  }
+ ],
+ "2404000": [
+  {
+   "item": "Q5092",
+   "title": "Baltimore",
+   "inception": [
+    {
+     "date": "1729-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2405950": [
+  {
+   "item": "Q753325",
+   "title": "Bel Air South, Maryland",
+   "inception": []
+  }
+ ],
+ "2407125": [
+  {
+   "item": "Q584451",
+   "title": "Bethesda, Maryland",
+   "inception": []
+  }
+ ],
+ "2408775": [
+  {
+   "item": "Q755142",
+   "title": "Bowie, Maryland",
+   "inception": [
+    {
+     "date": "1882-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2418750": [
+  {
+   "item": "Q668676",
+   "title": "College Park, Maryland",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2419125": [
+  {
+   "item": "Q397905",
+   "title": "Columbia, Maryland",
+   "inception": [
+    {
+     "date": "1967-06-21T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "2423975": [
+  {
+   "item": "Q754390",
+   "title": "Dundalk, Maryland",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2426000": [
+  {
+   "item": "Q730938",
+   "title": "Ellicott City, Maryland",
+   "inception": [
+    {
+     "date": "1772-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2430325": [
+  {
+   "item": "Q472675",
+   "title": "Frederick, Maryland",
+   "inception": [
+    {
+     "date": "1745-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2431175": [
+  {
+   "item": "Q752719",
+   "title": "Gaithersburg, Maryland",
+   "inception": [
+    {
+     "date": "1802-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2432025": [
+  {
+   "item": "Q755901",
+   "title": "Germantown, Maryland",
+   "inception": []
+  }
+ ],
+ "2432650": [
+  {
+   "item": "Q754452",
+   "title": "Glen Burnie, Maryland",
+   "inception": [
+    {
+     "date": "1812-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2436075": [
+  {
+   "item": "Q755559",
+   "title": "Hagerstown, Maryland",
+   "inception": [
+    {
+     "date": "1762-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2445900": [
+  {
+   "item": "Q755275",
+   "title": "Laurel, Maryland",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2467675": [
+  {
+   "item": "Q327022",
+   "title": "Rockville, Maryland",
+   "inception": [
+    {
+     "date": "1700-01-01T00:00:00Z",
+     "precision": 7
+    }
+   ]
+  }
+ ],
+ "2469925": [
+  {
+   "item": "Q755566",
+   "title": "Salisbury, Maryland",
+   "inception": [
+    {
+     "date": "1732-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2471150": [
+  {
+   "item": "Q755156",
+   "title": "Severn, Maryland",
+   "inception": []
+  }
+ ],
+ "2472450": [
+  {
+   "item": "Q755741",
+   "title": "Silver Spring, Maryland",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2478425": [
+  {
+   "item": "Q755615",
+   "title": "Towson, Maryland",
+   "inception": [
+    {
+     "date": "1750-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2481175": [
+  {
+   "item": "Q755056",
+   "title": "Waldorf, Maryland",
+   "inception": []
+  }
+ ],
+ "2483775": [
+  {
+   "item": "Q7991947",
+   "title": "Wheaton, Maryland",
+   "inception": [
+    {
+     "date": "1700-01-01T00:00:00Z",
+     "precision": 8
+    }
+   ]
+  }
+ ],
+ "2503690": [
+  {
+   "item": "Q808535",
+   "title": "Barnstable, Massachusetts",
+   "inception": [
+    {
+     "date": "1637-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2509000": [
+  {
+   "item": "Q49193",
+   "title": "Brockton, Massachusetts",
+   "inception": [
+    {
+     "date": "1700-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2511000": [
+  {
+   "item": "Q49111",
+   "title": "Cambridge, Massachusetts",
+   "inception": [
+    {
+     "date": "1630-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2513660": [
+  {
+   "item": "Q1650454",
+   "title": "Chicopee, Massachusetts",
+   "inception": [
+    {
+     "date": "1640-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2521990": [
+  {
+   "item": "Q54151",
+   "title": "Everett, Massachusetts",
+   "inception": [
+    {
+     "date": "1630-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2523000": [
+  {
+   "item": "Q49194",
+   "title": "Fall River, Massachusetts",
+   "inception": [
+    {
+     "date": "1670-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2524960": [
+  {
+   "item": "Q988568",
+   "title": "Framingham, Massachusetts",
+   "inception": [
+    {
+     "date": "1650-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2529405": [
+  {
+   "item": "Q54132",
+   "title": "Haverhill, Massachusetts",
+   "inception": [
+    {
+     "date": "1640-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2534550": [
+  {
+   "item": "Q49163",
+   "title": "Lawrence, Massachusetts",
+   "inception": [
+    {
+     "date": "1655-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2537000": [
+  {
+   "item": "Q49162",
+   "title": "Lowell, Massachusetts",
+   "inception": [
+    {
+     "date": "1653-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2537490": [
+  {
+   "item": "Q49188",
+   "title": "Lynn, Massachusetts",
+   "inception": [
+    {
+     "date": "1629-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2537875": [
+  {
+   "item": "Q54149",
+   "title": "Malden, Massachusetts",
+   "inception": [
+    {
+     "date": "1640-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2539835": [
+  {
+   "item": "Q54145",
+   "title": "Medford, Massachusetts",
+   "inception": [
+    {
+     "date": "1630-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2545000": [
+  {
+   "item": "Q49147",
+   "title": "New Bedford, Massachusetts",
+   "inception": [
+    {
+     "date": "1640-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2545560": [
+  {
+   "item": "Q49196",
+   "title": "Newton, Massachusetts",
+   "inception": [
+    {
+     "date": "1688-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2552490": [
+  {
+   "item": "Q54136",
+   "title": "Peabody, Massachusetts",
+   "inception": [
+    {
+     "date": "1626-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2555745": [
+  {
+   "item": "Q49143",
+   "title": "Quincy, Massachusetts",
+   "inception": [
+    {
+     "date": "1625-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2556585": [
+  {
+   "item": "Q54154",
+   "title": "Revere, Massachusetts",
+   "inception": [
+    {
+     "date": "1630-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2562535": [
+  {
+   "item": "Q49199",
+   "title": "Somerville, Massachusetts",
+   "inception": [
+    {
+     "date": "1630-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2567000": [
+  {
+   "item": "Q49158",
+   "title": "Springfield, Massachusetts",
+   "inception": [
+    {
+     "date": "1636-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2569170": [
+  {
+   "item": "Q127506",
+   "title": "Taunton, Massachusetts",
+   "inception": [
+    {
+     "date": "1637-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2572600": [
+  {
+   "item": "Q49190",
+   "title": "Waltham, Massachusetts",
+   "inception": [
+    {
+     "date": "1634-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2578972": [
+  {
+   "item": "Q54195",
+   "title": "Weymouth, Massachusetts",
+   "inception": [
+    {
+     "date": "1623-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2582000": [
+  {
+   "item": "Q49179",
+   "title": "Worcester, Massachusetts",
+   "inception": [
+    {
+     "date": "1673-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1722-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1848-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2603000": [
+  {
+   "item": "Q485172",
+   "title": "Ann Arbor, Michigan",
+   "inception": [
+    {
+     "date": "1824-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2605920": [
+  {
+   "item": "Q810998",
+   "title": "Battle Creek, Michigan",
+   "inception": [
+    {
+     "date": "1831-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2621000": [
+  {
+   "item": "Q430464",
+   "title": "Dearborn, Michigan",
+   "inception": [
+    {
+     "date": "1786-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2622000": [
+  {
+   "item": "Q12439",
+   "title": "Detroit",
+   "inception": [
+    {
+     "date": "1701-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2627440": [
+  {
+   "item": "Q989919",
+   "title": "Farmington Hills, Michigan",
+   "inception": []
+  }
+ ],
+ "2629000": [
+  {
+   "item": "Q490584",
+   "title": "Flint, Michigan",
+   "inception": [
+    {
+     "date": "1818-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2634000": [
+  {
+   "item": "Q184587",
+   "title": "Grand Rapids, Michigan",
+   "inception": [
+    {
+     "date": "1826-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1850-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2642160": [
+  {
+   "item": "Q167155",
+   "title": "Kalamazoo, Michigan",
+   "inception": [
+    {
+     "date": "1829-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2642820": [
+  {
+   "item": "Q1362669",
+   "title": "Kentwood, Michigan",
+   "inception": [
+    {
+     "date": "1967-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2646000": [
+  {
+   "item": "Q28237",
+   "title": "Lansing, Michigan",
+   "inception": [
+    {
+     "date": "1835-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2649000": [
+  {
+   "item": "Q853552",
+   "title": "Livonia, Michigan",
+   "inception": [
+    {
+     "date": "1950-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2659440": [
+  {
+   "item": "Q993575",
+   "title": "Novi, Michigan",
+   "inception": [
+    {
+     "date": "1832-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2665440": [
+  {
+   "item": "Q847596",
+   "title": "Pontiac, Michigan",
+   "inception": [
+    {
+     "date": "1818-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2669035": [
+  {
+   "item": "Q993444",
+   "title": "Rochester Hills, Michigan",
+   "inception": []
+  }
+ ],
+ "2670040": [
+  {
+   "item": "Q529165",
+   "title": "Royal Oak, Michigan",
+   "inception": [
+    {
+     "date": "1891-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2670760": [
+  {
+   "item": "Q1022954",
+   "title": "St. Clair Shores, Michigan",
+   "inception": [
+    {
+     "date": "1710-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2674900": [
+  {
+   "item": "Q988159",
+   "title": "Southfield, Michigan",
+   "inception": [
+    {
+     "date": "1823-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2676460": [
+  {
+   "item": "Q927243",
+   "title": "Sterling Heights, Michigan",
+   "inception": [
+    {
+     "date": "1968-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2679000": [
+  {
+   "item": "Q988136",
+   "title": "Taylor, Michigan",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2680700": [
+  {
+   "item": "Q990271",
+   "title": "Troy, Michigan",
+   "inception": []
+  }
+ ],
+ "2684000": [
+  {
+   "item": "Q499401",
+   "title": "Warren, Michigan",
+   "inception": [
+    {
+     "date": "1830-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2686000": [
+  {
+   "item": "Q969300",
+   "title": "Westland, Michigan",
+   "inception": [
+    {
+     "date": "1966-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2688940": [
+  {
+   "item": "Q1022953",
+   "title": "Wyoming, Michigan",
+   "inception": [
+    {
+     "date": "1959-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2701900": [
+  {
+   "item": "Q621377",
+   "title": "Apple Valley, Minnesota",
+   "inception": [
+    {
+     "date": "1860-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2708794": [
+  {
+   "item": "Q736586",
+   "title": "Burnsville, Minnesota",
+   "inception": [
+    {
+     "date": "1855-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2713114": [
+  {
+   "item": "Q984534",
+   "title": "Coon Rapids, Minnesota",
+   "inception": []
+  }
+ ],
+ "2717000": [
+  {
+   "item": "Q485708",
+   "title": "Duluth, Minnesota",
+   "inception": [
+    {
+     "date": "1679-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2717288": [
+  {
+   "item": "Q936730",
+   "title": "Eagan, Minnesota",
+   "inception": [
+    {
+     "date": "1860-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2718116": [
+  {
+   "item": "Q985558",
+   "title": "Eden Prairie, Minnesota",
+   "inception": [
+    {
+     "date": "1858-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2718188": [
+  {
+   "item": "Q957763",
+   "title": "Edina, Minnesota",
+   "inception": [
+    {
+     "date": "1888-12-18T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "2735180": [
+  {
+   "item": "Q983776",
+   "title": "Lakeville, Minnesota",
+   "inception": [
+    {
+     "date": "1850-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2740166": [
+  {
+   "item": "Q983741",
+   "title": "Maple Grove, Minnesota",
+   "inception": [
+    {
+     "date": "1858-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2743252": [
+  {
+   "item": "Q923384",
+   "title": "Minnetonka, Minnesota",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2754880": [
+  {
+   "item": "Q486479",
+   "title": "Rochester, Minnesota",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2756896": [
+  {
+   "item": "Q736834",
+   "title": "St. Cloud, Minnesota",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2758000": [
+  {
+   "item": "Q28848",
+   "title": "Saint Paul, Minnesota",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2771428": [
+  {
+   "item": "Q862672",
+   "title": "Woodbury, Minnesota",
+   "inception": [
+    {
+     "date": "1967-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2806220": [
+  {
+   "item": "Q490720",
+   "title": "Biloxi, Mississippi",
+   "inception": [
+    {
+     "date": "1720-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2829700": [
+  {
+   "item": "Q490587",
+   "title": "Gulfport, Mississippi",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2831020": [
+  {
+   "item": "Q384464",
+   "title": "Hattiesburg, Mississippi",
+   "inception": [
+    {
+     "date": "1882-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2836000": [
+  {
+   "item": "Q28198",
+   "title": "Jackson, Mississippi",
+   "inception": [
+    {
+     "date": "1822-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2844520": [
+  {
+   "item": "Q979251",
+   "title": "Madison, Mississippi",
+   "inception": [
+    {
+     "date": "1988-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2846640": [
+  {
+   "item": "Q118152",
+   "title": "Meridian, Mississippi",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2854040": [
+  {
+   "item": "Q867475",
+   "title": "Olive Branch, Mississippi",
+   "inception": []
+  }
+ ],
+ "2855760": [
+  {
+   "item": "Q1998349",
+   "title": "Pearl, Mississippi",
+   "inception": [
+    {
+     "date": "1865-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2869280": [
+  {
+   "item": "Q768007",
+   "title": "Southaven, Mississippi",
+   "inception": [
+    {
+     "date": "1980-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2906652": [
+  {
+   "item": "Q379010",
+   "title": "Blue Springs, Missouri",
+   "inception": [
+    {
+     "date": "1880-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2915670": [
+  {
+   "item": "Q59670",
+   "title": "Columbia, Missouri",
+   "inception": [
+    {
+     "date": "1821-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2924778": [
+  {
+   "item": "Q636684",
+   "title": "Florissant, Missouri",
+   "inception": [
+    {
+     "date": "1785-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2935000": [
+  {
+   "item": "Q24603",
+   "title": "Independence, Missouri",
+   "inception": [
+    {
+     "date": "1827-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2937592": [
+  {
+   "item": "Q317865",
+   "title": "Joplin, Missouri",
+   "inception": [
+    {
+     "date": "1873-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2938000": [
+  {
+   "item": "Q41819",
+   "title": "Kansas City, Missouri",
+   "inception": [
+    {
+     "date": "1853-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2941348": [
+  {
+   "item": "Q959502",
+   "title": "Lee's Summit, Missouri",
+   "inception": [
+    {
+     "date": "1865-10-28T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "2954074": [
+  {
+   "item": "Q959924",
+   "title": "O'Fallon, Missouri",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2964082": [
+  {
+   "item": "Q773432",
+   "title": "St. Charles, Missouri",
+   "inception": [
+    {
+     "date": "1765-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2964550": [
+  {
+   "item": "Q745120",
+   "title": "St. Joseph, Missouri",
+   "inception": [
+    {
+     "date": "1843-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2965000": [
+  {
+   "item": "Q38022",
+   "title": "St. Louis",
+   "inception": [
+    {
+     "date": "1764-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2965126": [
+  {
+   "item": "Q963597",
+   "title": "St. Peters, Missouri",
+   "inception": [
+    {
+     "date": "1910-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "2970000": [
+  {
+   "item": "Q135615",
+   "title": "Springfield, Missouri",
+   "inception": [
+    {
+     "date": "1838-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3001675": [
+  {
+   "item": "Q483539",
+   "title": "Anaconda, Montana",
+   "inception": [
+    {
+     "date": "1883-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3004975": [
+  {
+   "item": "Q815570",
+   "title": "Belgrade, Montana",
+   "inception": [
+    {
+     "date": "1882-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3006550": [
+  {
+   "item": "Q166304",
+   "title": "Billings, Montana",
+   "inception": [
+    {
+     "date": "1877-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3008950": [
+  {
+   "item": "Q569678",
+   "title": "Bozeman, Montana",
+   "inception": [
+    {
+     "date": "1864-08-09T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3011397": [
+  {
+   "item": "Q49347613",
+   "title": "Butte-Silver Bow (balance), Montana",
+   "inception": []
+  }
+ ],
+ "3025075": [
+  {
+   "item": "Q651357",
+   "title": "Evergreen, Montana",
+   "inception": []
+  }
+ ],
+ "3032800": [
+  {
+   "item": "Q466190",
+   "title": "Great Falls, Montana",
+   "inception": [
+    {
+     "date": "1883-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3035600": [
+  {
+   "item": "Q38733",
+   "title": "Helena, Montana",
+   "inception": [
+    {
+     "date": "1864-10-30T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3040075": [
+  {
+   "item": "Q853175",
+   "title": "Kalispell, Montana",
+   "inception": []
+  }
+ ],
+ "3050200": [
+  {
+   "item": "Q189602",
+   "title": "Missoula, Montana",
+   "inception": [
+    {
+     "date": "1866-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3079825": [
+  {
+   "item": "Q26446",
+   "title": "Whitefish, Montana",
+   "inception": []
+  }
+ ],
+ "3103950": [
+  {
+   "item": "Q643040",
+   "title": "Bellevue, Nebraska",
+   "inception": [
+    {
+     "date": "1822-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3110110": [
+  {
+   "item": "Q932391",
+   "title": "Columbus, Nebraska",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3117670": [
+  {
+   "item": "Q653613",
+   "title": "Fremont, Nebraska",
+   "inception": [
+    {
+     "date": "1871-06-17T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3119595": [
+  {
+   "item": "Q461826",
+   "title": "Grand Island, Nebraska",
+   "inception": [
+    {
+     "date": "1857-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3121415": [
+  {
+   "item": "Q959512",
+   "title": "Hastings, Nebraska",
+   "inception": []
+  }
+ ],
+ "3125055": [
+  {
+   "item": "Q846044",
+   "title": "Kearney, Nebraska",
+   "inception": []
+  }
+ ],
+ "3128000": [
+  {
+   "item": "Q28260",
+   "title": "Lincoln, Nebraska",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3134615": [
+  {
+   "item": "Q959951",
+   "title": "Norfolk, Nebraska",
+   "inception": [
+    {
+     "date": "1866-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3137000": [
+  {
+   "item": "Q43199",
+   "title": "Omaha, Nebraska",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3138295": [
+  {
+   "item": "Q960468",
+   "title": "Papillion, Nebraska",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3206500": [
+  {
+   "item": "Q858801",
+   "title": "Boulder City, Nevada",
+   "inception": [
+    {
+     "date": "1931-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3209700": [
+  {
+   "item": "Q40881",
+   "title": "Carson City, Nevada",
+   "inception": [
+    {
+     "date": "1858-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3222500": [
+  {
+   "item": "Q945084",
+   "title": "Elko, Nevada",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3223770": [
+  {
+   "item": "Q1344696",
+   "title": "Enterprise, Nevada",
+   "inception": [
+    {
+     "date": "1996-12-01T00:00:00Z",
+     "precision": 10
+    }
+   ]
+  }
+ ],
+ "3224900": [
+  {
+   "item": "Q1948662",
+   "title": "Fernley, Nevada",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3231900": [
+  {
+   "item": "Q49267",
+   "title": "Henderson, Nevada",
+   "inception": [
+    {
+     "date": "1941-09-15T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3240000": [
+  {
+   "item": "Q23768",
+   "title": "Las Vegas",
+   "inception": [
+    {
+     "date": "1905-05-15T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3246000": [
+  {
+   "item": "Q991218",
+   "title": "Mesquite, Nevada",
+   "inception": [
+    {
+     "date": "1880-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3251800": [
+  {
+   "item": "Q143782",
+   "title": "North Las Vegas, Nevada",
+   "inception": [
+    {
+     "date": "1919-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3254600": [
+  {
+   "item": "Q984542",
+   "title": "Paradise, Nevada",
+   "inception": []
+  }
+ ],
+ "3260600": [
+  {
+   "item": "Q49225",
+   "title": "Reno, Nevada",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3268400": [
+  {
+   "item": "Q211629",
+   "title": "Sparks, Nevada",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3268585": [
+  {
+   "item": "Q992507",
+   "title": "Spring Valley, Nevada",
+   "inception": [
+    {
+     "date": "1981-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3271400": [
+  {
+   "item": "Q993749",
+   "title": "Sunrise Manor, Nevada",
+   "inception": [
+    {
+     "date": "1957-05-01T00:00:00Z",
+     "precision": 10
+    }
+   ]
+  }
+ ],
+ "3312900": [
+  {
+   "item": "Q951659",
+   "title": "Claremont, New Hampshire",
+   "inception": [
+    {
+     "date": "1762-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3314200": [
+  {
+   "item": "Q28249",
+   "title": "Concord, New Hampshire",
+   "inception": [
+    {
+     "date": "1733-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3317860": [
+  {
+   "item": "Q48834155",
+   "title": "Derry (CDP), New Hampshire",
+   "inception": []
+  }
+ ],
+ "3339300": [
+  {
+   "item": "Q767364",
+   "title": "Keene, New Hampshire",
+   "inception": [
+    {
+     "date": "1736-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3340180": [
+  {
+   "item": "Q993431",
+   "title": "Laconia, New Hampshire",
+   "inception": [
+    {
+     "date": "1855-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3341300": [
+  {
+   "item": "Q993523",
+   "title": "Lebanon, New Hampshire",
+   "inception": [
+    {
+     "date": "1761-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3345140": [
+  {
+   "item": "Q48370",
+   "title": "Manchester, New Hampshire",
+   "inception": [
+    {
+     "date": "1722-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3350260": [
+  {
+   "item": "Q48274",
+   "title": "Nashua, New Hampshire",
+   "inception": [
+    {
+     "date": "1746-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3362900": [
+  {
+   "item": "Q49191",
+   "title": "Portsmouth, New Hampshire",
+   "inception": [
+    {
+     "date": "1630-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3365140": [
+  {
+   "item": "Q985354",
+   "title": "Rochester, New Hampshire",
+   "inception": [
+    {
+     "date": "1749-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3403580": [
+  {
+   "item": "Q812589",
+   "title": "Bayonne, New Jersey",
+   "inception": [
+    {
+     "date": "1861-04-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3410000": [
+  {
+   "item": "Q138367",
+   "title": "Camden, New Jersey",
+   "inception": [
+    {
+     "date": "1626-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3413690": [
+  {
+   "item": "Q254428",
+   "title": "Clifton, New Jersey",
+   "inception": []
+  }
+ ],
+ "3419390": [
+  {
+   "item": "Q988515",
+   "title": "East Orange, New Jersey",
+   "inception": []
+  }
+ ],
+ "3421000": [
+  {
+   "item": "Q138311",
+   "title": "Elizabeth, New Jersey",
+   "inception": [
+    {
+     "date": "1665-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3432250": [
+  {
+   "item": "Q138578",
+   "title": "Hoboken, New Jersey",
+   "inception": [
+    {
+     "date": "1849-04-09T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3436000": [
+  {
+   "item": "Q26339",
+   "title": "Jersey City, New Jersey",
+   "inception": [
+    {
+     "date": "1609-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3438580": [
+  {
+   "item": "Q14705694",
+   "title": "Lakewood (CDP), New Jersey",
+   "inception": []
+  }
+ ],
+ "3451000": [
+  {
+   "item": "Q25395",
+   "title": "Newark, New Jersey",
+   "inception": [
+    {
+     "date": "1666-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3451210": [
+  {
+   "item": "Q138338",
+   "title": "New Brunswick, New Jersey",
+   "inception": [
+    {
+     "date": "1730-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3456550": [
+  {
+   "item": "Q170433",
+   "title": "Passaic, New Jersey",
+   "inception": [
+    {
+     "date": "1679-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3457000": [
+  {
+   "item": "Q138391",
+   "title": "Paterson, New Jersey",
+   "inception": [
+    {
+     "date": "1792-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3458200": [
+  {
+   "item": "Q985592",
+   "title": "Perth Amboy, New Jersey",
+   "inception": [
+    {
+     "date": "1683-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3459190": [
+  {
+   "item": "Q544890",
+   "title": "Plainfield, New Jersey",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3473110": [
+  {
+   "item": "Q7820392",
+   "title": "Toms River (CDP), New Jersey",
+   "inception": []
+  }
+ ],
+ "3474000": [
+  {
+   "item": "Q25330",
+   "title": "Trenton, New Jersey",
+   "inception": [
+    {
+     "date": "1719-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3474630": [
+  {
+   "item": "Q588834",
+   "title": "Union City, New Jersey",
+   "inception": []
+  }
+ ],
+ "3476070": [
+  {
+   "item": "Q153881",
+   "title": "Vineland, New Jersey",
+   "inception": []
+  }
+ ],
+ "3479610": [
+  {
+   "item": "Q950205",
+   "title": "West New York, New Jersey",
+   "inception": []
+  }
+ ],
+ "3501780": [
+  {
+   "item": "Q467617",
+   "title": "Alamogordo, New Mexico",
+   "inception": [
+    {
+     "date": "1898-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3502000": [
+  {
+   "item": "Q34804",
+   "title": "Albuquerque, New Mexico",
+   "inception": [
+    {
+     "date": "1706-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3512150": [
+  {
+   "item": "Q852577",
+   "title": "Carlsbad, New Mexico",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3516420": [
+  {
+   "item": "Q985559",
+   "title": "Clovis, New Mexico",
+   "inception": [
+    {
+     "date": "1906-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3539380": [
+  {
+   "item": "Q33264",
+   "title": "Las Cruces, New Mexico",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3563460": [
+  {
+   "item": "Q33555",
+   "title": "Rio Rancho, New Mexico",
+   "inception": [
+    {
+     "date": "1961-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3564930": [
+  {
+   "item": "Q33561",
+   "title": "Roswell, New Mexico",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3570500": [
+  {
+   "item": "Q38555",
+   "title": "Santa Fe, New Mexico",
+   "inception": [
+    {
+     "date": "1610-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3574520": [
+  {
+   "item": "Q611587",
+   "title": "South Valley, New Mexico",
+   "inception": []
+  }
+ ],
+ "3601000": [
+  {
+   "item": "Q24861",
+   "title": "Albany, New York",
+   "inception": [
+    {
+     "date": "1686-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3611000": [
+  {
+   "item": "Q40435",
+   "title": "Buffalo, New York",
+   "inception": [
+    {
+     "date": "1832-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3642081": [
+  {
+   "item": "Q3452134",
+   "title": "Levittown, New York",
+   "inception": []
+  }
+ ],
+ "3649121": [
+  {
+   "item": "Q835831",
+   "title": "Mount Vernon, New York",
+   "inception": [
+    {
+     "date": "1892-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3650617": [
+  {
+   "item": "Q744948",
+   "title": "New Rochelle, New York",
+   "inception": [
+    {
+     "date": "1688-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1899-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3663000": [
+  {
+   "item": "Q49218",
+   "title": "Rochester, New York",
+   "inception": [
+    {
+     "date": "1817-03-21T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1788-07-08T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1834-04-28T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3665508": [
+  {
+   "item": "Q331380",
+   "title": "Schenectady, New York",
+   "inception": [
+    {
+     "date": "1765-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3673000": [
+  {
+   "item": "Q128069",
+   "title": "Syracuse, New York",
+   "inception": [
+    {
+     "date": "1848-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3675021": [
+  {
+   "item": "Q7820741",
+   "title": "Tonawanda (CDP), New York",
+   "inception": []
+  }
+ ],
+ "3675484": [
+  {
+   "item": "Q600301",
+   "title": "Troy, New York",
+   "inception": [
+    {
+     "date": "1787-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3676540": [
+  {
+   "item": "Q2495519",
+   "title": "Utica, New York",
+   "inception": [
+    {
+     "date": "1734-01-02T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3681677": [
+  {
+   "item": "Q462177",
+   "title": "White Plains, New York",
+   "inception": [
+    {
+     "date": "1683-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3684000": [
+  {
+   "item": "Q128114",
+   "title": "Yonkers, New York",
+   "inception": [
+    {
+     "date": "1646-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3701520": [
+  {
+   "item": "Q1876560",
+   "title": "Apex, North Carolina",
+   "inception": [
+    {
+     "date": "1873-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3702140": [
+  {
+   "item": "Q648501",
+   "title": "Asheville, North Carolina",
+   "inception": [
+    {
+     "date": "1797-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3710740": [
+  {
+   "item": "Q852665",
+   "title": "Cary, North Carolina",
+   "inception": [
+    {
+     "date": "1750-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3711800": [
+  {
+   "item": "Q671812",
+   "title": "Chapel Hill, North Carolina",
+   "inception": [
+    {
+     "date": "1793-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3712000": [
+  {
+   "item": "Q16565",
+   "title": "Charlotte, North Carolina",
+   "inception": [
+    {
+     "date": "1768-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3714100": [
+  {
+   "item": "Q1030184",
+   "title": "Concord, North Carolina",
+   "inception": [
+    {
+     "date": "1796-04-01T00:00:00Z",
+     "precision": 10
+    }
+   ]
+  }
+ ],
+ "3719000": [
+  {
+   "item": "Q49229",
+   "title": "Durham, North Carolina",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3722920": [
+  {
+   "item": "Q331104",
+   "title": "Fayetteville, North Carolina",
+   "inception": [
+    {
+     "date": "1762-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3725580": [
+  {
+   "item": "Q943775",
+   "title": "Gastonia, North Carolina",
+   "inception": []
+  }
+ ],
+ "3728000": [
+  {
+   "item": "Q49238",
+   "title": "Greensboro, North Carolina",
+   "inception": [
+    {
+     "date": "1808-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3728080": [
+  {
+   "item": "Q1989904",
+   "title": "Greenville, North Carolina",
+   "inception": [
+    {
+     "date": "1786-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3731400": [
+  {
+   "item": "Q631194",
+   "title": "High Point, North Carolina",
+   "inception": []
+  }
+ ],
+ "3732260": [
+  {
+   "item": "Q2030155",
+   "title": "Holly Springs, North Carolina",
+   "inception": [
+    {
+     "date": "1800-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3733120": [
+  {
+   "item": "Q2028183",
+   "title": "Huntersville, North Carolina",
+   "inception": []
+  }
+ ],
+ "3734200": [
+  {
+   "item": "Q986369",
+   "title": "Jacksonville, North Carolina",
+   "inception": [
+    {
+     "date": "1757-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3735200": [
+  {
+   "item": "Q2029146",
+   "title": "Kannapolis, North Carolina",
+   "inception": [
+    {
+     "date": "1906-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3744220": [
+  {
+   "item": "Q2027955",
+   "title": "Mooresville, North Carolina",
+   "inception": []
+  }
+ ],
+ "3755000": [
+  {
+   "item": "Q41087",
+   "title": "Raleigh, North Carolina",
+   "inception": [
+    {
+     "date": "1770-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3770540": [
+  {
+   "item": "Q2022236",
+   "title": "Wake Forest, North Carolina",
+   "inception": [
+    {
+     "date": "1880-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3774440": [
+  {
+   "item": "Q659400",
+   "title": "Wilmington, North Carolina",
+   "inception": []
+  }
+ ],
+ "3775000": [
+  {
+   "item": "Q49227",
+   "title": "Winston-Salem, North Carolina",
+   "inception": [
+    {
+     "date": "1766-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3807200": [
+  {
+   "item": "Q37066",
+   "title": "Bismarck, North Dakota",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3819620": [
+  {
+   "item": "Q853559",
+   "title": "Dickinson, North Dakota",
+   "inception": [
+    {
+     "date": "1882-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3825700": [
+  {
+   "item": "Q34109",
+   "title": "Fargo, North Dakota",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3832060": [
+  {
+   "item": "Q34144",
+   "title": "Grand Forks, North Dakota",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1870-06-15T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3840580": [
+  {
+   "item": "Q1052658",
+   "title": "Jamestown, North Dakota",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3849900": [
+  {
+   "item": "Q28419",
+   "title": "Mandan, North Dakota",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3853380": [
+  {
+   "item": "Q487201",
+   "title": "Minot, North Dakota",
+   "inception": [
+    {
+     "date": "1886-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3882660": [
+  {
+   "item": "Q1996092",
+   "title": "Wahpeton, North Dakota",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3886220": [
+  {
+   "item": "Q1999172",
+   "title": "Williston, North Dakota",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3901000": [
+  {
+   "item": "Q163132",
+   "title": "Akron, Ohio",
+   "inception": [
+    {
+     "date": "1825-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3912000": [
+  {
+   "item": "Q491239",
+   "title": "Canton, Ohio",
+   "inception": [
+    {
+     "date": "1805-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3915000": [
+  {
+   "item": "Q43196",
+   "title": "Cincinnati",
+   "inception": [
+    {
+     "date": "1788-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3916000": [
+  {
+   "item": "Q37320",
+   "title": "Cleveland",
+   "inception": [
+    {
+     "date": "1796-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1796-07-22T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "3918000": [
+  {
+   "item": "Q16567",
+   "title": "Columbus, Ohio",
+   "inception": [
+    {
+     "date": "1812-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3919778": [
+  {
+   "item": "Q531958",
+   "title": "Cuyahoga Falls, Ohio",
+   "inception": [
+    {
+     "date": "1812-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3921000": [
+  {
+   "item": "Q34739",
+   "title": "Dayton, Ohio",
+   "inception": [
+    {
+     "date": "1796-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3925256": [
+  {
+   "item": "Q932561",
+   "title": "Elyria, Ohio",
+   "inception": [
+    {
+     "date": "1817-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3933012": [
+  {
+   "item": "Q852673",
+   "title": "Hamilton, Ohio",
+   "inception": [
+    {
+     "date": "1794-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3940040": [
+  {
+   "item": "Q866307",
+   "title": "Kettering, Ohio",
+   "inception": [
+    {
+     "date": "1955-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3944856": [
+  {
+   "item": "Q609698",
+   "title": "Lorain, Ohio",
+   "inception": [
+    {
+     "date": "1807-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3949840": [
+  {
+   "item": "Q985515",
+   "title": "Middletown, Ohio",
+   "inception": [
+    {
+     "date": "1833-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3954040": [
+  {
+   "item": "Q986689",
+   "title": "Newark, Ohio",
+   "inception": [
+    {
+     "date": "1802-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3961000": [
+  {
+   "item": "Q862711",
+   "title": "Parma, Ohio",
+   "inception": [
+    {
+     "date": "1816-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3974118": [
+  {
+   "item": "Q40325",
+   "title": "Springfield, Ohio",
+   "inception": [
+    {
+     "date": "1801-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3977000": [
+  {
+   "item": "Q49239",
+   "title": "Toledo, Ohio",
+   "inception": [
+    {
+     "date": "1833-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "3988000": [
+  {
+   "item": "Q216820",
+   "title": "Youngstown, Ohio",
+   "inception": [
+    {
+     "date": "1796-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4009050": [
+  {
+   "item": "Q835810",
+   "title": "Broken Arrow, Oklahoma",
+   "inception": [
+    {
+     "date": "1902-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4023200": [
+  {
+   "item": "Q862645",
+   "title": "Edmond, Oklahoma",
+   "inception": [
+    {
+     "date": "1889-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4023950": [
+  {
+   "item": "Q984361",
+   "title": "Enid, Oklahoma",
+   "inception": [
+    {
+     "date": "1893-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4041850": [
+  {
+   "item": "Q503336",
+   "title": "Lawton, Oklahoma",
+   "inception": [
+    {
+     "date": "1901-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4048350": [
+  {
+   "item": "Q985298",
+   "title": "Midwest City, Oklahoma",
+   "inception": [
+    {
+     "date": "1943-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4049200": [
+  {
+   "item": "Q917458",
+   "title": "Moore, Oklahoma",
+   "inception": [
+    {
+     "date": "1889-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4052500": [
+  {
+   "item": "Q40347",
+   "title": "Norman, Oklahoma",
+   "inception": [
+    {
+     "date": "1889-04-22T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "4055000": [
+  {
+   "item": "Q34863",
+   "title": "Oklahoma City",
+   "inception": [
+    {
+     "date": "1889-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4070300": [
+  {
+   "item": "Q852714",
+   "title": "Stillwater, Oklahoma",
+   "inception": [
+    {
+     "date": "1884-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4075000": [
+  {
+   "item": "Q44989",
+   "title": "Tulsa, Oklahoma",
+   "inception": [
+    {
+     "date": "1836-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4101000": [
+  {
+   "item": "Q516817",
+   "title": "Albany, Oregon",
+   "inception": [
+    {
+     "date": "1846-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4101650": [
+  {
+   "item": "Q2272266",
+   "title": "Aloha, Oregon",
+   "inception": []
+  }
+ ],
+ "4105350": [
+  {
+   "item": "Q81856",
+   "title": "Beaverton, Oregon",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4105800": [
+  {
+   "item": "Q671288",
+   "title": "Bend, Oregon",
+   "inception": [
+    {
+     "date": "1905-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4115800": [
+  {
+   "item": "Q748474",
+   "title": "Corvallis, Oregon",
+   "inception": [
+    {
+     "date": "1845-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4123850": [
+  {
+   "item": "Q171224",
+   "title": "Eugene, Oregon",
+   "inception": [
+    {
+     "date": "1846-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4131250": [
+  {
+   "item": "Q81844",
+   "title": "Gresham, Oregon",
+   "inception": [
+    {
+     "date": "1905-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4134100": [
+  {
+   "item": "Q81824",
+   "title": "Hillsboro, Oregon",
+   "inception": [
+    {
+     "date": "1841-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4147000": [
+  {
+   "item": "Q836663",
+   "title": "Medford, Oregon",
+   "inception": [
+    {
+     "date": "1884-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4159000": [
+  {
+   "item": "Q6106",
+   "title": "Portland, Oregon",
+   "inception": []
+  }
+ ],
+ "4164900": [
+  {
+   "item": "Q43919",
+   "title": "Salem, Oregon",
+   "inception": [
+    {
+     "date": "1842-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4169600": [
+  {
+   "item": "Q40268",
+   "title": "Springfield, Oregon",
+   "inception": [
+    {
+     "date": "1885-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4173650": [
+  {
+   "item": "Q1444136",
+   "title": "Tigard, Oregon",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4202000": [
+  {
+   "item": "Q142811",
+   "title": "Allentown, Pennsylvania",
+   "inception": [
+    {
+     "date": "1762-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4206088": [
+  {
+   "item": "Q164380",
+   "title": "Bethlehem, Pennsylvania",
+   "inception": [
+    {
+     "date": "1741-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4224000": [
+  {
+   "item": "Q234061",
+   "title": "Erie, Pennsylvania",
+   "inception": [
+    {
+     "date": "1795-04-18T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "4232800": [
+  {
+   "item": "Q25280",
+   "title": "Harrisburg, Pennsylvania",
+   "inception": [
+    {
+     "date": "1719-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4241216": [
+  {
+   "item": "Q320514",
+   "title": "Lancaster, Pennsylvania",
+   "inception": [
+    {
+     "date": "1730-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4242928": [
+  {
+   "item": "Q1183907",
+   "title": "Levittown, Pennsylvania",
+   "inception": [
+    {
+     "date": "1952-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4260000": [
+  {
+   "item": "Q1345",
+   "title": "Philadelphia",
+   "inception": [
+    {
+     "date": "1682-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4261000": [
+  {
+   "item": "Q1342",
+   "title": "Pittsburgh",
+   "inception": [
+    {
+     "date": "1758-11-26T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1816-03-18T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1794-04-22T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "4263624": [
+  {
+   "item": "Q237896",
+   "title": "Reading, Pennsylvania",
+   "inception": [
+    {
+     "date": "1748-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4269000": [
+  {
+   "item": "Q271395",
+   "title": "Scranton, Pennsylvania",
+   "inception": []
+  }
+ ],
+ "4287048": [
+  {
+   "item": "Q821105",
+   "title": "York, Pennsylvania",
+   "inception": [
+    {
+     "date": "1741-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4414140": [
+  {
+   "item": "Q54273",
+   "title": "Central Falls, Rhode Island",
+   "inception": []
+  }
+ ],
+ "4419180": [
+  {
+   "item": "Q49197",
+   "title": "Cranston, Rhode Island",
+   "inception": [
+    {
+     "date": "1754-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4422960": [
+  {
+   "item": "Q54268",
+   "title": "East Providence, Rhode Island",
+   "inception": [
+    {
+     "date": "1862-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4449960": [
+  {
+   "item": "Q54264",
+   "title": "Newport, Rhode Island",
+   "inception": [
+    {
+     "date": "1639-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4454640": [
+  {
+   "item": "Q49200",
+   "title": "Pawtucket, Rhode Island",
+   "inception": [
+    {
+     "date": "1671-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4459000": [
+  {
+   "item": "Q18383",
+   "title": "Providence, Rhode Island",
+   "inception": [
+    {
+     "date": "1636-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4472500": [
+  {
+   "item": "Q3476807",
+   "title": "Valley Falls, Rhode Island",
+   "inception": []
+  }
+ ],
+ "4474300": [
+  {
+   "item": "Q49195",
+   "title": "Warwick, Rhode Island",
+   "inception": [
+    {
+     "date": "1642-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4476820": [
+  {
+   "item": "Q4247108",
+   "title": "Westerly (CDP), Rhode Island",
+   "inception": []
+  }
+ ],
+ "4480780": [
+  {
+   "item": "Q54276",
+   "title": "Woonsocket, Rhode Island",
+   "inception": [
+    {
+     "date": "1867-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4513330": [
+  {
+   "item": "Q47716",
+   "title": "Charleston, South Carolina",
+   "inception": [
+    {
+     "date": "1670-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4529815": [
+  {
+   "item": "Q1537768",
+   "title": "Goose Creek, South Carolina",
+   "inception": [
+    {
+     "date": "1961-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4530850": [
+  {
+   "item": "Q574192",
+   "title": "Greenville, South Carolina",
+   "inception": [
+    {
+     "date": "1831-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4530985": [
+  {
+   "item": "Q647464",
+   "title": "Greer, South Carolina",
+   "inception": [
+    {
+     "date": "1876-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4548535": [
+  {
+   "item": "Q1010216",
+   "title": "Mount Pleasant, South Carolina",
+   "inception": []
+  }
+ ],
+ "4550875": [
+  {
+   "item": "Q847538",
+   "title": "North Charleston, South Carolina",
+   "inception": [
+    {
+     "date": "1972-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4561405": [
+  {
+   "item": "Q960774",
+   "title": "Rock Hill, South Carolina",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4570270": [
+  {
+   "item": "Q947304",
+   "title": "Summerville, South Carolina",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4570405": [
+  {
+   "item": "Q1010203",
+   "title": "Sumter, South Carolina",
+   "inception": [
+    {
+     "date": "1845-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4600100": [
+  {
+   "item": "Q236713",
+   "title": "Aberdeen, South Dakota",
+   "inception": [
+    {
+     "date": "1880-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4606620": [
+  {
+   "item": "Q2152746",
+   "title": "Box Elder, South Dakota",
+   "inception": [
+    {
+     "date": "1907-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4607580": [
+  {
+   "item": "Q1650462",
+   "title": "Brookings, South Dakota",
+   "inception": [
+    {
+     "date": "1857-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4631060": [
+  {
+   "item": "Q1988967",
+   "title": "Huron, South Dakota",
+   "inception": [
+    {
+     "date": "1883-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4643100": [
+  {
+   "item": "Q1988986",
+   "title": "Mitchell, South Dakota",
+   "inception": []
+  }
+ ],
+ "4652980": [
+  {
+   "item": "Q213325",
+   "title": "Rapid City, South Dakota",
+   "inception": [
+    {
+     "date": "1876-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4659020": [
+  {
+   "item": "Q131335",
+   "title": "Sioux Falls, South Dakota",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4660020": [
+  {
+   "item": "Q568764",
+   "title": "Spearfish, South Dakota",
+   "inception": [
+    {
+     "date": "1876-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4669300": [
+  {
+   "item": "Q1065503",
+   "title": "Watertown, South Dakota",
+   "inception": [
+    {
+     "date": "1879-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4703440": [
+  {
+   "item": "Q809451",
+   "title": "Bartlett, Tennessee",
+   "inception": [
+    {
+     "date": "1829-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4714000": [
+  {
+   "item": "Q186702",
+   "title": "Chattanooga, Tennessee",
+   "inception": [
+    {
+     "date": "1839-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4715160": [
+  {
+   "item": "Q328941",
+   "title": "Clarksville, Tennessee",
+   "inception": [
+    {
+     "date": "1785-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4715400": [
+  {
+   "item": "Q962118",
+   "title": "Cleveland, Tennessee",
+   "inception": [
+    {
+     "date": "1837-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4716420": [
+  {
+   "item": "Q1940361",
+   "title": "Collierville, Tennessee",
+   "inception": [
+    {
+     "date": "1836-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4716540": [
+  {
+   "item": "Q5675279",
+   "title": "Columbia, Tennessee",
+   "inception": [
+    {
+     "date": "1808-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4727740": [
+  {
+   "item": "Q984264",
+   "title": "Franklin, Tennessee",
+   "inception": [
+    {
+     "date": "1799-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4728540": [
+  {
+   "item": "Q2464943",
+   "title": "Gallatin, Tennessee",
+   "inception": [
+    {
+     "date": "1802-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4733280": [
+  {
+   "item": "Q335955",
+   "title": "Hendersonville, Tennessee",
+   "inception": [
+    {
+     "date": "1784-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4737640": [
+  {
+   "item": "Q985409",
+   "title": "Jackson, Tennessee",
+   "inception": [
+    {
+     "date": "1821-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4738320": [
+  {
+   "item": "Q770571",
+   "title": "Johnson City, Tennessee",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4739560": [
+  {
+   "item": "Q241814",
+   "title": "Kingsport, Tennessee",
+   "inception": [
+    {
+     "date": "1822-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4740000": [
+  {
+   "item": "Q185582",
+   "title": "Knoxville, Tennessee",
+   "inception": [
+    {
+     "date": "1786-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4741520": [
+  {
+   "item": "Q1520670",
+   "title": "Lebanon, Tennessee",
+   "inception": [
+    {
+     "date": "1801-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4748000": [
+  {
+   "item": "Q16563",
+   "title": "Memphis, Tennessee",
+   "inception": [
+    {
+     "date": "1819-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4751560": [
+  {
+   "item": "Q501766",
+   "title": "Murfreesboro, Tennessee",
+   "inception": [
+    {
+     "date": "1811-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4752006": [
+  {
+   "item": "Q6966932",
+   "title": "Nashville-Davidson (balance), Tennessee",
+   "inception": []
+  }
+ ],
+ "4769420": [
+  {
+   "item": "Q996433",
+   "title": "Smyrna, Tennessee",
+   "inception": [
+    {
+     "date": "1855-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4770580": [
+  {
+   "item": "Q1495814",
+   "title": "Spring Hill, Tennessee",
+   "inception": [
+    {
+     "date": "1808-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4801000": [
+  {
+   "item": "Q128295",
+   "title": "Abilene, Texas",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4801924": [
+  {
+   "item": "Q33147",
+   "title": "Allen, Texas",
+   "inception": [
+    {
+     "date": "1953-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4803000": [
+  {
+   "item": "Q51691",
+   "title": "Amarillo, Texas",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4804000": [
+  {
+   "item": "Q17943",
+   "title": "Arlington, Texas",
+   "inception": [
+    {
+     "date": "1876-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4804462": [
+  {
+   "item": "Q982138",
+   "title": "Atascocita, Texas",
+   "inception": []
+  }
+ ],
+ "4805000": [
+  {
+   "item": "Q16559",
+   "title": "Austin, Texas",
+   "inception": [
+    {
+     "date": "1835-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4806128": [
+  {
+   "item": "Q812646",
+   "title": "Baytown, Texas",
+   "inception": []
+  }
+ ],
+ "4807000": [
+  {
+   "item": "Q128282",
+   "title": "Beaumont, Texas",
+   "inception": [
+    {
+     "date": "1835-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4810768": [
+  {
+   "item": "Q51693",
+   "title": "Brownsville, Texas",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4810912": [
+  {
+   "item": "Q695556",
+   "title": "Bryan, Texas",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4811428": [
+  {
+   "item": "Q981820",
+   "title": "Burleson, Texas",
+   "inception": []
+  }
+ ],
+ "4813024": [
+  {
+   "item": "Q128261",
+   "title": "Carrollton, Texas",
+   "inception": [
+    {
+     "date": "1913-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4813552": [
+  {
+   "item": "Q980040",
+   "title": "Cedar Park, Texas",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4813684": [
+  {
+   "item": "Q620310",
+   "title": "Celina, Texas",
+   "inception": []
+  }
+ ],
+ "4815976": [
+  {
+   "item": "Q695511",
+   "title": "College Station, Texas",
+   "inception": []
+  }
+ ],
+ "4816432": [
+  {
+   "item": "Q260282",
+   "title": "Conroe, Texas",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4817000": [
+  {
+   "item": "Q49242",
+   "title": "Corpus Christi, Texas",
+   "inception": [
+    {
+     "date": "1839-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4819000": [
+  {
+   "item": "Q16557",
+   "title": "Dallas",
+   "inception": [
+    {
+     "date": "1841-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4819972": [
+  {
+   "item": "Q128306",
+   "title": "Denton, Texas",
+   "inception": [
+    {
+     "date": "1866-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4820092": [
+  {
+   "item": "Q981771",
+   "title": "DeSoto, Texas",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4822660": [
+  {
+   "item": "Q978246",
+   "title": "Edinburg, Texas",
+   "inception": [
+    {
+     "date": "1908-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4824000": [
+  {
+   "item": "Q16562",
+   "title": "El Paso, Texas",
+   "inception": [
+    {
+     "date": "1680-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4824768": [
+  {
+   "item": "Q26483",
+   "title": "Euless, Texas",
+   "inception": []
+  }
+ ],
+ "4826232": [
+  {
+   "item": "Q976183",
+   "title": "Flower Mound, Texas",
+   "inception": []
+  }
+ ],
+ "4827000": [
+  {
+   "item": "Q16558",
+   "title": "Fort Worth, Texas",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4827684": [
+  {
+   "item": "Q128269",
+   "title": "Frisco, Texas",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4827876": [
+  {
+   "item": "Q920528",
+   "title": "Fulshear, Texas",
+   "inception": []
+  }
+ ],
+ "4828068": [
+  {
+   "item": "Q135744",
+   "title": "Galveston, Texas",
+   "inception": [
+    {
+     "date": "1785-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4829000": [
+  {
+   "item": "Q49274",
+   "title": "Garland, Texas",
+   "inception": [
+    {
+     "date": "1891-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4829336": [
+  {
+   "item": "Q990898",
+   "title": "Georgetown, Texas",
+   "inception": [
+    {
+     "date": "1848-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4830464": [
+  {
+   "item": "Q51694",
+   "title": "Grand Prairie, Texas",
+   "inception": [
+    {
+     "date": "1863-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4830644": [
+  {
+   "item": "Q185216",
+   "title": "Grapevine, Texas",
+   "inception": [
+    {
+     "date": "1844-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4832372": [
+  {
+   "item": "Q868869",
+   "title": "Harlingen, Texas",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4835000": [
+  {
+   "item": "Q16555",
+   "title": "Houston",
+   "inception": [
+    {
+     "date": "1836-08-01T00:00:00Z",
+     "precision": 10
+    }
+   ]
+  }
+ ],
+ "4837000": [
+  {
+   "item": "Q51690",
+   "title": "Irving, Texas",
+   "inception": [
+    {
+     "date": "1903-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4839148": [
+  {
+   "item": "Q128228",
+   "title": "Killeen, Texas",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4839952": [
+  {
+   "item": "Q277669",
+   "title": "Kyle, Texas",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4841464": [
+  {
+   "item": "Q16868",
+   "title": "Laredo, Texas",
+   "inception": [
+    {
+     "date": "1755-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4841980": [
+  {
+   "item": "Q982639",
+   "title": "League City, Texas",
+   "inception": [
+    {
+     "date": "1961-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4842016": [
+  {
+   "item": "Q982054",
+   "title": "Leander, Texas",
+   "inception": []
+  }
+ ],
+ "4842508": [
+  {
+   "item": "Q26495",
+   "title": "Lewisville, Texas",
+   "inception": []
+  }
+ ],
+ "4843012": [
+  {
+   "item": "Q979944",
+   "title": "Little Elm, Texas",
+   "inception": []
+  }
+ ],
+ "4843888": [
+  {
+   "item": "Q852645",
+   "title": "Longview, Texas",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4845000": [
+  {
+   "item": "Q49273",
+   "title": "Lubbock, Texas",
+   "inception": [
+    {
+     "date": "1890-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4845384": [
+  {
+   "item": "Q51698",
+   "title": "McAllen, Texas",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4845744": [
+  {
+   "item": "Q51697",
+   "title": "McKinney, Texas",
+   "inception": [
+    {
+     "date": "1848-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4846452": [
+  {
+   "item": "Q974040",
+   "title": "Mansfield, Texas",
+   "inception": [
+    {
+     "date": "1856-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4847892": [
+  {
+   "item": "Q51696",
+   "title": "Mesquite, Texas",
+   "inception": [
+    {
+     "date": "1878-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4848072": [
+  {
+   "item": "Q128321",
+   "title": "Midland, Texas",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4848768": [
+  {
+   "item": "Q239877",
+   "title": "Mission, Texas",
+   "inception": [
+    {
+     "date": "1910-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4848804": [
+  {
+   "item": "Q980055",
+   "title": "Missouri City, Texas",
+   "inception": []
+  }
+ ],
+ "4850820": [
+  {
+   "item": "Q574612",
+   "title": "New Braunfels, Texas",
+   "inception": [
+    {
+     "date": "1845-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4852356": [
+  {
+   "item": "Q26489",
+   "title": "North Richland Hills, Texas",
+   "inception": [
+    {
+     "date": "1953-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4853388": [
+  {
+   "item": "Q128361",
+   "title": "Odessa, Texas",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4856000": [
+  {
+   "item": "Q51695",
+   "title": "Pasadena, Texas",
+   "inception": [
+    {
+     "date": "1893-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4856348": [
+  {
+   "item": "Q982550",
+   "title": "Pearland, Texas",
+   "inception": [
+    {
+     "date": "1894-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4857176": [
+  {
+   "item": "Q772596",
+   "title": "Pflugerville, Texas",
+   "inception": []
+  }
+ ],
+ "4857200": [
+  {
+   "item": "Q982364",
+   "title": "Pharr, Texas",
+   "inception": [
+    {
+     "date": "1916-02-22T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "4858016": [
+  {
+   "item": "Q51689",
+   "title": "Plano, Texas",
+   "inception": [
+    {
+     "date": "1873-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4858820": [
+  {
+   "item": "Q45400",
+   "title": "Port Arthur, Texas",
+   "inception": []
+  }
+ ],
+ "4861796": [
+  {
+   "item": "Q128375",
+   "title": "Richardson, Texas",
+   "inception": [
+    {
+     "date": "1840-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4862828": [
+  {
+   "item": "Q383014",
+   "title": "Rockwall, Texas",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4863500": [
+  {
+   "item": "Q128334",
+   "title": "Round Rock, Texas",
+   "inception": [
+    {
+     "date": "1851-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4863572": [
+  {
+   "item": "Q976950",
+   "title": "Rowlett, Texas",
+   "inception": [
+    {
+     "date": "1952-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4864472": [
+  {
+   "item": "Q925598",
+   "title": "San Angelo, Texas",
+   "inception": []
+  }
+ ],
+ "4865000": [
+  {
+   "item": "Q975",
+   "title": "San Antonio",
+   "inception": [
+    {
+     "date": "1718-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4865600": [
+  {
+   "item": "Q982353",
+   "title": "San Marcos, Texas",
+   "inception": [
+    {
+     "date": "1808-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4867496": [
+  {
+   "item": "Q982379",
+   "title": "Sherman, Texas",
+   "inception": [
+    {
+     "date": "1846-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4869596": [
+  {
+   "item": "Q981346",
+   "title": "Spring, Texas",
+   "inception": []
+  }
+ ],
+ "4870808": [
+  {
+   "item": "Q93340",
+   "title": "Sugar Land, Texas",
+   "inception": [
+    {
+     "date": "1908-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4872176": [
+  {
+   "item": "Q427075",
+   "title": "Temple, Texas",
+   "inception": [
+    {
+     "date": "1881-06-29T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "4872392": [
+  {
+   "item": "Q912475",
+   "title": "Texas City, Texas",
+   "inception": [
+    {
+     "date": "1911-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4872656": [
+  {
+   "item": "Q982421",
+   "title": "The Woodlands, Texas",
+   "inception": [
+    {
+     "date": "1974-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4874144": [
+  {
+   "item": "Q499169",
+   "title": "Tyler, Texas",
+   "inception": [
+    {
+     "date": "1846-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4875428": [
+  {
+   "item": "Q784496",
+   "title": "Victoria, Texas",
+   "inception": []
+  }
+ ],
+ "4876000": [
+  {
+   "item": "Q128244",
+   "title": "Waco, Texas",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4876816": [
+  {
+   "item": "Q645475",
+   "title": "Waxahachie, Texas",
+   "inception": [
+    {
+     "date": "1850-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4879000": [
+  {
+   "item": "Q128349",
+   "title": "Wichita Falls, Texas",
+   "inception": []
+  }
+ ],
+ "4880356": [
+  {
+   "item": "Q620323",
+   "title": "Wylie, Texas",
+   "inception": []
+  }
+ ],
+ "4920120": [
+  {
+   "item": "Q482888",
+   "title": "Draper, Utah",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4920810": [
+  {
+   "item": "Q483165",
+   "title": "Eagle Mountain, Utah",
+   "inception": [
+    {
+     "date": "1996-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4934970": [
+  {
+   "item": "Q129935",
+   "title": "Herriman, Utah",
+   "inception": [
+    {
+     "date": "1851-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4943660": [
+  {
+   "item": "Q52474",
+   "title": "Layton, Utah",
+   "inception": [
+    {
+     "date": "1850-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4945860": [
+  {
+   "item": "Q482657",
+   "title": "Logan, Utah",
+   "inception": [
+    {
+     "date": "1859-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4950150": [
+  {
+   "item": "Q1829357",
+   "title": "Millcreek, Utah",
+   "inception": [
+    {
+     "date": "2016-12-28T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "4953230": [
+  {
+   "item": "Q482822",
+   "title": "Murray, Utah",
+   "inception": [
+    {
+     "date": "1848-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4955980": [
+  {
+   "item": "Q52471",
+   "title": "Ogden, Utah",
+   "inception": [
+    {
+     "date": "1846-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4957300": [
+  {
+   "item": "Q52468",
+   "title": "Orem, Utah",
+   "inception": [
+    {
+     "date": "1877-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4962470": [
+  {
+   "item": "Q23443",
+   "title": "Provo, Utah",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4965330": [
+  {
+   "item": "Q52472",
+   "title": "St. George, Utah",
+   "inception": [
+    {
+     "date": "1861-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4967000": [
+  {
+   "item": "Q23337",
+   "title": "Salt Lake City",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4967440": [
+  {
+   "item": "Q52470",
+   "title": "Sandy, Utah",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4967825": [
+  {
+   "item": "Q482618",
+   "title": "Saratoga Springs, Utah",
+   "inception": [
+    {
+     "date": "1997-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4970850": [
+  {
+   "item": "Q52467",
+   "title": "South Jordan, Utah",
+   "inception": [
+    {
+     "date": "1859-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4975360": [
+  {
+   "item": "Q52475",
+   "title": "Taylorsville, Utah",
+   "inception": [
+    {
+     "date": "1848-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4982950": [
+  {
+   "item": "Q52466",
+   "title": "West Jordan, Utah",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "4983470": [
+  {
+   "item": "Q52465",
+   "title": "West Valley City, Utah",
+   "inception": [
+    {
+     "date": "1980-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5003175": [
+  {
+   "item": "Q26071",
+   "title": "Barre (city), Vermont",
+   "inception": [
+    {
+     "date": "1895-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5004225": [
+  {
+   "item": "Q816044",
+   "title": "Bellows Falls, Vermont",
+   "inception": [
+    {
+     "date": "1909-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5004750": [
+  {
+   "item": "Q4889874",
+   "title": "Bennington (CDP), Vermont",
+   "inception": []
+  }
+ ],
+ "5007975": [
+  {
+   "item": "Q596445",
+   "title": "Brattleboro (CDP), Vermont",
+   "inception": []
+  }
+ ],
+ "5010675": [
+  {
+   "item": "Q31058",
+   "title": "Burlington, Vermont",
+   "inception": [
+    {
+     "date": "1783-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5024400": [
+  {
+   "item": "Q648356",
+   "title": "Essex Junction, Vermont",
+   "inception": [
+    {
+     "date": "1892-11-15T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5044275": [
+  {
+   "item": "Q6841750",
+   "title": "Middlebury (CDP), Vermont",
+   "inception": []
+  }
+ ],
+ "5046000": [
+  {
+   "item": "Q26426",
+   "title": "Montpelier, Vermont",
+   "inception": [
+    {
+     "date": "1787-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5048850": [
+  {
+   "item": "Q1012011",
+   "title": "Newport (city), Vermont",
+   "inception": [
+    {
+     "date": "1918-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5061225": [
+  {
+   "item": "Q25893",
+   "title": "Rutland (city), Vermont",
+   "inception": []
+  }
+ ],
+ "5061675": [
+  {
+   "item": "Q1787559",
+   "title": "St. Albans (city), Vermont",
+   "inception": [
+    {
+     "date": "1783-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5066175": [
+  {
+   "item": "Q26065",
+   "title": "South Burlington, Vermont",
+   "inception": [
+    {
+     "date": "1865-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5085150": [
+  {
+   "item": "Q993232",
+   "title": "Winooski, Vermont",
+   "inception": []
+  }
+ ],
+ "5101000": [
+  {
+   "item": "Q88",
+   "title": "Alexandria, Virginia",
+   "inception": [
+    {
+     "date": "1749-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5103000": [
+  {
+   "item": "Q49279759",
+   "title": "Arlington, Virginia",
+   "inception": []
+  }
+ ],
+ "5114440": [
+  {
+   "item": "Q1374678",
+   "title": "Centreville, Virginia",
+   "inception": []
+  }
+ ],
+ "5116000": [
+  {
+   "item": "Q49222",
+   "title": "Chesapeake, Virginia",
+   "inception": [
+    {
+     "date": "1963-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5121088": [
+  {
+   "item": "Q976180",
+   "title": "Dale City, Virginia",
+   "inception": []
+  }
+ ],
+ "5135000": [
+  {
+   "item": "Q342043",
+   "title": "Hampton, Virginia",
+   "inception": [
+    {
+     "date": "1610-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5135624": [
+  {
+   "item": "Q511935",
+   "title": "Harrisonburg, Virginia",
+   "inception": [
+    {
+     "date": "1779-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5147672": [
+  {
+   "item": "Q844012",
+   "title": "Lynchburg, Virginia",
+   "inception": [
+    {
+     "date": "1786-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5156000": [
+  {
+   "item": "Q335017",
+   "title": "Newport News, Virginia",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5157000": [
+  {
+   "item": "Q49231",
+   "title": "Norfolk, Virginia",
+   "inception": [
+    {
+     "date": "1682-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5164000": [
+  {
+   "item": "Q342803",
+   "title": "Portsmouth, Virginia",
+   "inception": [
+    {
+     "date": "1752-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5166672": [
+  {
+   "item": "Q1375280",
+   "title": "Reston, Virginia",
+   "inception": [
+    {
+     "date": "1964-04-10T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5167000": [
+  {
+   "item": "Q43421",
+   "title": "Richmond, Virginia",
+   "inception": [
+    {
+     "date": "1607-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5168000": [
+  {
+   "item": "Q501796",
+   "title": "Roanoke, Virginia",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5176432": [
+  {
+   "item": "Q342428",
+   "title": "Suffolk, Virginia",
+   "inception": [
+    {
+     "date": "1742-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5182000": [
+  {
+   "item": "Q49259",
+   "title": "Virginia Beach, Virginia",
+   "inception": [
+    {
+     "date": "1906-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5303180": [
+  {
+   "item": "Q661595",
+   "title": "Auburn, Washington",
+   "inception": [
+    {
+     "date": "1891-06-13T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5305210": [
+  {
+   "item": "Q214164",
+   "title": "Bellevue, Washington",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5305280": [
+  {
+   "item": "Q430267",
+   "title": "Bellingham, Washington",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5307380": [
+  {
+   "item": "Q303046",
+   "title": "Bothell, Washington",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5308850": [
+  {
+   "item": "Q984825",
+   "title": "Burien, Washington",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1993-02-28T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5322640": [
+  {
+   "item": "Q392599",
+   "title": "Everett, Washington",
+   "inception": []
+  }
+ ],
+ "5323515": [
+  {
+   "item": "Q821112",
+   "title": "Federal Way, Washington",
+   "inception": [
+    {
+     "date": "1929-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5335275": [
+  {
+   "item": "Q844033",
+   "title": "Kennewick, Washington",
+   "inception": [
+    {
+     "date": "1904-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5335415": [
+  {
+   "item": "Q844008",
+   "title": "Kent, Washington",
+   "inception": [
+    {
+     "date": "1890-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5335940": [
+  {
+   "item": "Q936768",
+   "title": "Kirkland, Washington",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5336745": [
+  {
+   "item": "Q970086",
+   "title": "Lacey, Washington",
+   "inception": []
+  }
+ ],
+ "5338038": [
+  {
+   "item": "Q983791",
+   "title": "Lakewood, Washington",
+   "inception": [
+    {
+     "date": "1833-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5343955": [
+  {
+   "item": "Q970001",
+   "title": "Marysville, Washington",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5351300": [
+  {
+   "item": "Q42735",
+   "title": "Olympia, Washington",
+   "inception": [
+    {
+     "date": "1859-01-28T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5353545": [
+  {
+   "item": "Q844016",
+   "title": "Pasco, Washington",
+   "inception": [
+    {
+     "date": "1891-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5357535": [
+  {
+   "item": "Q223718",
+   "title": "Redmond, Washington",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5357745": [
+  {
+   "item": "Q679952",
+   "title": "Renton, Washington",
+   "inception": [
+    {
+     "date": "1875-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5358235": [
+  {
+   "item": "Q693638",
+   "title": "Richland, Washington",
+   "inception": [
+    {
+     "date": "1905-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5361115": [
+  {
+   "item": "Q988209",
+   "title": "Sammamish, Washington",
+   "inception": [
+    {
+     "date": "1999-08-31T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5363000": [
+  {
+   "item": "Q5083",
+   "title": "Seattle",
+   "inception": [
+    {
+     "date": "1851-11-13T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5363960": [
+  {
+   "item": "Q983657",
+   "title": "Shoreline, Washington",
+   "inception": [
+    {
+     "date": "1995-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5365922": [
+  {
+   "item": "Q1503540",
+   "title": "South Hill, Washington",
+   "inception": []
+  }
+ ],
+ "5367000": [
+  {
+   "item": "Q187805",
+   "title": "Spokane, Washington",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5367167": [
+  {
+   "item": "Q988065",
+   "title": "Spokane Valley, Washington",
+   "inception": [
+    {
+     "date": "2003-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5370000": [
+  {
+   "item": "Q199797",
+   "title": "Tacoma, Washington",
+   "inception": [
+    {
+     "date": "1875-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5374060": [
+  {
+   "item": "Q234053",
+   "title": "Vancouver, Washington",
+   "inception": [
+    {
+     "date": "1825-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5380010": [
+  {
+   "item": "Q499203",
+   "title": "Yakima, Washington",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5405332": [
+  {
+   "item": "Q813745",
+   "title": "Beckley, West Virginia",
+   "inception": [
+    {
+     "date": "1838-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5414600": [
+  {
+   "item": "Q44564",
+   "title": "Charleston, West Virginia",
+   "inception": [
+    {
+     "date": "1786-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5426452": [
+  {
+   "item": "Q2001693",
+   "title": "Fairmont, West Virginia",
+   "inception": []
+  }
+ ],
+ "5439460": [
+  {
+   "item": "Q241808",
+   "title": "Huntington, West Virginia",
+   "inception": [
+    {
+     "date": "1871-02-27T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5455756": [
+  {
+   "item": "Q653636",
+   "title": "Morgantown, West Virginia",
+   "inception": [
+    {
+     "date": "1772-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5462140": [
+  {
+   "item": "Q329485",
+   "title": "Parkersburg, West Virginia",
+   "inception": [
+    {
+     "date": "1810-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5485156": [
+  {
+   "item": "Q1873442",
+   "title": "Weirton, West Virginia",
+   "inception": [
+    {
+     "date": "1947-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5486452": [
+  {
+   "item": "Q838112",
+   "title": "Wheeling, West Virginia",
+   "inception": [
+    {
+     "date": "1769-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1774-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5502375": [
+  {
+   "item": "Q94928",
+   "title": "Appleton, Wisconsin",
+   "inception": [
+    {
+     "date": "1848-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5522300": [
+  {
+   "item": "Q122563",
+   "title": "Eau Claire, Wisconsin",
+   "inception": []
+  }
+ ],
+ "5531000": [
+  {
+   "item": "Q47430",
+   "title": "Green Bay, Wisconsin",
+   "inception": [
+    {
+     "date": "1634-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5537825": [
+  {
+   "item": "Q257536",
+   "title": "Janesville, Wisconsin",
+   "inception": [
+    {
+     "date": "1853-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5539225": [
+  {
+   "item": "Q462161",
+   "title": "Kenosha, Wisconsin",
+   "inception": [
+    {
+     "date": "1835-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5548000": [
+  {
+   "item": "Q43788",
+   "title": "Madison, Wisconsin",
+   "inception": [
+    {
+     "date": "1836-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5553000": [
+  {
+   "item": "Q37836",
+   "title": "Milwaukee",
+   "inception": [
+    {
+     "date": "1846-01-31T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5560500": [
+  {
+   "item": "Q936741",
+   "title": "Oshkosh, Wisconsin",
+   "inception": [
+    {
+     "date": "1818-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5566000": [
+  {
+   "item": "Q40340",
+   "title": "Racine, Wisconsin",
+   "inception": [
+    {
+     "date": "1699-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5584250": [
+  {
+   "item": "Q94919",
+   "title": "Waukesha, Wisconsin",
+   "inception": [
+    {
+     "date": "1839-03-08T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "5585300": [
+  {
+   "item": "Q389483",
+   "title": "West Allis, Wisconsin",
+   "inception": []
+  }
+ ],
+ "5613150": [
+  {
+   "item": "Q223177",
+   "title": "Casper, Wyoming",
+   "inception": []
+  }
+ ],
+ "5613900": [
+  {
+   "item": "Q39042",
+   "title": "Cheyenne, Wyoming",
+   "inception": [
+    {
+     "date": "1867-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5625620": [
+  {
+   "item": "Q871241",
+   "title": "Evanston, Wyoming",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5631855": [
+  {
+   "item": "Q919040",
+   "title": "Gillette, Wyoming",
+   "inception": [
+    {
+     "date": "1892-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5633740": [
+  {
+   "item": "Q983538",
+   "title": "Green River, Wyoming",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5640120": [
+  {
+   "item": "Q871285",
+   "title": "Jackson, Wyoming",
+   "inception": []
+  }
+ ],
+ "5645050": [
+  {
+   "item": "Q327515",
+   "title": "Laramie, Wyoming",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5666220": [
+  {
+   "item": "Q603240",
+   "title": "Riverton, Wyoming",
+   "inception": [
+    {
+     "date": "1906-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "5667235": [
+  {
+   "item": "Q378071",
+   "title": "Rock Springs, Wyoming",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0680644": [
+  {
+   "item": "Q616562",
+   "title": "Tulare, California",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0602364": [
+  {
+   "item": "Q621372",
+   "title": "Apple Valley, California",
+   "inception": [
+    {
+     "date": "1988-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0636546": [
+  {
+   "item": "Q621549",
+   "title": "Inglewood, California",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0669196": [
+  {
+   "item": "Q643953",
+   "title": "Santa Maria, California",
+   "inception": [
+    {
+     "date": "1874-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0613588": [
+  {
+   "item": "Q658402",
+   "title": "Citrus Heights, California",
+   "inception": [
+    {
+     "date": "1997-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0618100": [
+  {
+   "item": "Q668546",
+   "title": "Davis, California",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0622020": [
+  {
+   "item": "Q671314",
+   "title": "Elk Grove, California",
+   "inception": [
+    {
+     "date": "1850-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0632548": [
+  {
+   "item": "Q688596",
+   "title": "Hawthorne, California",
+   "inception": [
+    {
+     "date": "1922-07-12T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0639496": [
+  {
+   "item": "Q752671",
+   "title": "Lake Forest, California",
+   "inception": [
+    {
+     "date": "1991-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0659962": [
+  {
+   "item": "Q753830",
+   "title": "Redlands, California",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0444270": [
+  {
+   "item": "Q762743",
+   "title": "Marana, Arizona",
+   "inception": [
+    {
+     "date": "1977-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0633434": [
+  {
+   "item": "Q773516",
+   "title": "Hesperia, California",
+   "inception": [
+    {
+     "date": "1988-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0603666": [
+  {
+   "item": "Q804878",
+   "title": "Baldwin Park, California",
+   "inception": [
+    {
+     "date": "1880-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0604982": [
+  {
+   "item": "Q815979",
+   "title": "Bellflower, California",
+   "inception": [
+    {
+     "date": "1957-09-03T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0629504": [
+  {
+   "item": "Q837097",
+   "title": "Gilroy, California",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0620018": [
+  {
+   "item": "Q837109",
+   "title": "Dublin, California",
+   "inception": [
+    {
+     "date": "1982-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0686328": [
+  {
+   "item": "Q837129",
+   "title": "Woodland, California",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0684550": [
+  {
+   "item": "Q838759",
+   "title": "Westminster, California",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0639892": [
+  {
+   "item": "Q838757",
+   "title": "Lakewood, California",
+   "inception": [
+    {
+     "date": "1954-04-16T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0608786": [
+  {
+   "item": "Q838762",
+   "title": "Buena Park, California",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0673080": [
+  {
+   "item": "Q838772",
+   "title": "South Gate, California",
+   "inception": [
+    {
+     "date": "1923-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0650076": [
+  {
+   "item": "Q838787",
+   "title": "Murrieta, California",
+   "inception": [
+    {
+     "date": "1991-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0678120": [
+  {
+   "item": "Q838785",
+   "title": "Temecula, California",
+   "inception": [
+    {
+     "date": "1989-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0636448": [
+  {
+   "item": "Q838789",
+   "title": "Indio, California",
+   "inception": [
+    {
+     "date": "1873-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0610046": [
+  {
+   "item": "Q846040",
+   "title": "Camarillo, California",
+   "inception": [
+    {
+     "date": "1898-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0608142": [
+  {
+   "item": "Q846426",
+   "title": "Brentwood, California",
+   "inception": [
+    {
+     "date": "1837-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0681554": [
+  {
+   "item": "Q850823",
+   "title": "Vacaville, California",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0613214": [
+  {
+   "item": "Q852721",
+   "title": "Chino Hills, California",
+   "inception": [
+    {
+     "date": "1991-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0673262": [
+  {
+   "item": "Q927122",
+   "title": "South San Francisco, California",
+   "inception": [
+    {
+     "date": "1908-09-19T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0647766": [
+  {
+   "item": "Q927510",
+   "title": "Milpitas, California",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0639248": [
+  {
+   "item": "Q948086",
+   "title": "Laguna Niguel, California",
+   "inception": [
+    {
+     "date": "1989-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0458150": [
+  {
+   "item": "Q985299",
+   "title": "Queen Creek, Arizona",
+   "inception": [
+    {
+     "date": "1990-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0645484": [
+  {
+   "item": "Q986109",
+   "title": "Manteca, California",
+   "inception": [
+    {
+     "date": "1861-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0407940": [
+  {
+   "item": "Q986528",
+   "title": "Buckeye, Arizona",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0659444": [
+  {
+   "item": "Q986928",
+   "title": "Rancho Cordova, California",
+   "inception": [
+    {
+     "date": "2003-07-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0621230": [
+  {
+   "item": "Q3046621",
+   "title": "Eastvale, California",
+   "inception": [
+    {
+     "date": "2010-10-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0646842": [
+  {
+   "item": "Q3476276",
+   "title": "Menifee, California",
+   "inception": [
+    {
+     "date": "2008-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0637692": [
+  {
+   "item": "Q3736036",
+   "title": "Jurupa Valley, California",
+   "inception": [
+    {
+     "date": "2011-07-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0666000": [
+  {
+   "item": "Q16552",
+   "title": "San Diego",
+   "inception": [
+    {
+     "date": "1769-07-16T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0668000": [
+  {
+   "item": "Q16553",
+   "title": "San Jose, California",
+   "inception": [
+    {
+     "date": "1777-11-29T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0455000": [
+  {
+   "item": "Q16556",
+   "title": "Phoenix, Arizona",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0643000": [
+  {
+   "item": "Q16739",
+   "title": "Long Beach, California",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0653000": [
+  {
+   "item": "Q17042",
+   "title": "Oakland, California",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0664000": [
+  {
+   "item": "Q18013",
+   "title": "Sacramento, California",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0477000": [
+  {
+   "item": "Q18575",
+   "title": "Tucson, Arizona",
+   "inception": [
+    {
+     "date": "1775-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0151000": [
+  {
+   "item": "Q29364",
+   "title": "Montgomery, Alabama",
+   "inception": [
+    {
+     "date": "1817-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0236400": [
+  {
+   "item": "Q29445",
+   "title": "Juneau, Alaska",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0667000": [
+  {
+   "item": "Q62",
+   "title": "San Francisco",
+   "inception": [
+    {
+     "date": "1776-01-01T00:00:00Z",
+     "precision": 9
+    },
+    {
+     "date": "1850-09-09T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1776-06-29T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0644000": [
+  {
+   "item": "Q65",
+   "title": "Los Angeles",
+   "inception": [
+    {
+     "date": "1781-09-04T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0541000": [
+  {
+   "item": "Q33405",
+   "title": "Little Rock, Arkansas",
+   "inception": [
+    {
+     "date": "1821-06-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0203000": [
+  {
+   "item": "Q39450",
+   "title": "Anchorage, Alaska",
+   "inception": [
+    {
+     "date": "1914-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0608954": [
+  {
+   "item": "Q39561",
+   "title": "Burbank, California",
+   "inception": [
+    {
+     "date": "1887-05-01T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0627000": [
+  {
+   "item": "Q43301",
+   "title": "Fresno, California",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0238970": [
+  {
+   "item": "Q43981",
+   "title": "Ketchikan, Alaska",
+   "inception": [
+    {
+     "date": "1900-08-25T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0670000": [
+  {
+   "item": "Q47164",
+   "title": "Santa Monica, California",
+   "inception": [
+    {
+     "date": "1769-08-03T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0655282": [
+  {
+   "item": "Q47265",
+   "title": "Palo Alto, California",
+   "inception": [
+    {
+     "date": "1894-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0636770": [
+  {
+   "item": "Q49219",
+   "title": "Irvine, California",
+   "inception": [
+    {
+     "date": "1971-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0626000": [
+  {
+   "item": "Q49220",
+   "title": "Fremont, California",
+   "inception": [
+    {
+     "date": "1956-01-23T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0465000": [
+  {
+   "item": "Q49221",
+   "title": "Scottsdale, Arizona",
+   "inception": [
+    {
+     "date": "1894-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0662000": [
+  {
+   "item": "Q49243",
+   "title": "Riverside, California",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0675000": [
+  {
+   "item": "Q49240",
+   "title": "Stockton, California",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0602000": [
+  {
+   "item": "Q49247",
+   "title": "Anaheim, California",
+   "inception": [
+    {
+     "date": "1857-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0669000": [
+  {
+   "item": "Q49244",
+   "title": "Santa Ana, California",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0603526": [
+  {
+   "item": "Q49256",
+   "title": "Bakersfield, California",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0446000": [
+  {
+   "item": "Q49261",
+   "title": "Mesa, Arizona",
+   "inception": [
+    {
+     "date": "1878-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0613392": [
+  {
+   "item": "Q49270",
+   "title": "Chula Vista, California",
+   "inception": [
+    {
+     "date": "1911-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0412000": [
+  {
+   "item": "Q49272",
+   "title": "Chandler, Arizona",
+   "inception": [
+    {
+     "date": "1912-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0629000": [
+  {
+   "item": "Q50054",
+   "title": "Garden Grove, California",
+   "inception": [
+    {
+     "date": "1874-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0427820": [
+  {
+   "item": "Q51682",
+   "title": "Glendale, Arizona",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0471510": [
+  {
+   "item": "Q51687",
+   "title": "Surprise, Arizona",
+   "inception": [
+    {
+     "date": "1937-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0473000": [
+  {
+   "item": "Q51685",
+   "title": "Tempe, Arizona",
+   "inception": [
+    {
+     "date": "1879-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0404720": [
+  {
+   "item": "Q79449",
+   "title": "Avondale, Arizona",
+   "inception": []
+  }
+ ],
+ "0668252": [
+  {
+   "item": "Q169943",
+   "title": "San Mateo, California",
+   "inception": []
+  }
+ ],
+ "0677000": [
+  {
+   "item": "Q208459",
+   "title": "Sunnyvale, California",
+   "inception": []
+  }
+ ],
+ "0654652": [
+  {
+   "item": "Q209338",
+   "title": "Oxnard, California",
+   "inception": []
+  }
+ ],
+ "0621712": [
+  {
+   "item": "Q369947",
+   "title": "El Cajon, California",
+   "inception": []
+  }
+ ],
+ "0617918": [
+  {
+   "item": "Q370925",
+   "title": "Daly City, California",
+   "inception": []
+  }
+ ],
+ "0631960": [
+  {
+   "item": "Q375185",
+   "title": "Hanford, California",
+   "inception": []
+  }
+ ],
+ "0649670": [
+  {
+   "item": "Q486860",
+   "title": "Mountain View, California",
+   "inception": []
+  }
+ ],
+ "0615044": [
+  {
+   "item": "Q487119",
+   "title": "Compton, California",
+   "inception": []
+  }
+ ],
+ "0664224": [
+  {
+   "item": "Q488125",
+   "title": "Salinas, California",
+   "inception": []
+  }
+ ],
+ "0653896": [
+  {
+   "item": "Q488134",
+   "title": "Ontario, California",
+   "inception": []
+  }
+ ],
+ "0680000": [
+  {
+   "item": "Q489197",
+   "title": "Torrance, California",
+   "inception": []
+  }
+ ],
+ "0611194": [
+  {
+   "item": "Q491099",
+   "title": "Carlsbad, California",
+   "inception": []
+  }
+ ],
+ "0662938": [
+  {
+   "item": "Q491340",
+   "title": "Roseville, California",
+   "inception": []
+  }
+ ],
+ "0616350": [
+  {
+   "item": "Q494707",
+   "title": "Corona, California",
+   "inception": []
+  }
+ ],
+ "0684200": [
+  {
+   "item": "Q494728",
+   "title": "West Covina, California",
+   "inception": []
+  }
+ ],
+ "0602252": [
+  {
+   "item": "Q495357",
+   "title": "Antioch, California",
+   "inception": []
+  }
+ ],
+ "0659451": [
+  {
+   "item": "Q495365",
+   "title": "Rancho Cucamonga, California",
+   "inception": []
+  }
+ ],
+ "0660102": [
+  {
+   "item": "Q505549",
+   "title": "Redwood City, California",
+   "inception": []
+  }
+ ],
+ "0648256": [
+  {
+   "item": "Q506428",
+   "title": "Mission Viejo, California",
+   "inception": []
+  }
+ ],
+ "0665084": [
+  {
+   "item": "Q675070",
+   "title": "San Clemente, California",
+   "inception": []
+  }
+ ],
+ "0657792": [
+  {
+   "item": "Q747444",
+   "title": "Pleasanton, California",
+   "inception": []
+  }
+ ],
+ "0681344": [
+  {
+   "item": "Q747466",
+   "title": "Upland, California",
+   "inception": []
+  }
+ ],
+ "0600884": [
+  {
+   "item": "Q752681",
+   "title": "Alhambra, California",
+   "inception": []
+  }
+ ],
+ "0604758": [
+  {
+   "item": "Q813431",
+   "title": "Beaumont, California",
+   "inception": []
+  }
+ ],
+ "0505320": [
+  {
+   "item": "Q818364",
+   "title": "Bentonville, Arkansas",
+   "inception": []
+  }
+ ],
+ "0685292": [
+  {
+   "item": "Q838791",
+   "title": "Whittier, California",
+   "inception": []
+  }
+ ],
+ "0660018": [
+  {
+   "item": "Q840678",
+   "title": "Redondo Beach, California",
+   "inception": []
+  }
+ ],
+ "0681204": [
+  {
+   "item": "Q846402",
+   "title": "Union City, California",
+   "inception": []
+  }
+ ],
+ "0644574": [
+  {
+   "item": "Q849619",
+   "title": "Lynwood, California",
+   "inception": []
+  }
+ ],
+ "0645022": [
+  {
+   "item": "Q851000",
+   "title": "Madera, California",
+   "inception": []
+  }
+ ],
+ "0668084": [
+  {
+   "item": "Q851034",
+   "title": "San Leandro, California",
+   "inception": []
+  }
+ ],
+ "0642202": [
+  {
+   "item": "Q852647",
+   "title": "Lodi, California",
+   "inception": []
+  }
+ ],
+ "0680854": [
+  {
+   "item": "Q917513",
+   "title": "Tustin, California",
+   "inception": []
+  }
+ ],
+ "0682996": [
+  {
+   "item": "Q924241",
+   "title": "Vista, California",
+   "inception": []
+  }
+ ],
+ "0658240": [
+  {
+   "item": "Q927173",
+   "title": "Porterville, California",
+   "inception": []
+  }
+ ],
+ "0639290": [
+  {
+   "item": "Q948071",
+   "title": "La Habra, California",
+   "inception": []
+  }
+ ],
+ "0639486": [
+  {
+   "item": "Q948102",
+   "title": "Lake Elsinore, California",
+   "inception": []
+  }
+ ],
+ "0633182": [
+  {
+   "item": "Q948188",
+   "title": "Hemet, California",
+   "inception": []
+  }
+ ],
+ "0680238": [
+  {
+   "item": "Q953409",
+   "title": "Tracy, California",
+   "inception": []
+  }
+ ],
+ "0656700": [
+  {
+   "item": "Q983609",
+   "title": "Perris, California",
+   "inception": []
+  }
+ ],
+ "0624638": [
+  {
+   "item": "Q984155",
+   "title": "Folsom, California",
+   "inception": []
+  }
+ ],
+ "0662364": [
+  {
+   "item": "Q984599",
+   "title": "Rocklin, California",
+   "inception": []
+  }
+ ],
+ "0680812": [
+  {
+   "item": "Q1011205",
+   "title": "Turlock, California",
+   "inception": []
+  }
+ ],
+ "0636000": [
+  {
+   "item": "Q5917",
+   "title": "Huntington Beach, California",
+   "inception": []
+  }
+ ],
+ "0454050": [
+  {
+   "item": "Q51686",
+   "title": "Peoria, Arizona",
+   "inception": []
+  }
+ ],
+ "0427400": [
+  {
+   "item": "Q51684",
+   "title": "Gilbert, Arizona",
+   "inception": []
+  }
+ ],
+ "0650258": [
+  {
+   "item": "Q60537",
+   "title": "Napa, California",
+   "inception": []
+  }
+ ],
+ "0535710": [
+  {
+   "item": "Q61455",
+   "title": "Jonesboro, Arkansas",
+   "inception": []
+  }
+ ],
+ "0505290": [
+  {
+   "item": "Q79374",
+   "title": "Benton, Arkansas",
+   "inception": [
+    {
+     "date": "1833-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0238420": [
+  {
+   "item": "Q79422",
+   "title": "Kenai, Alaska",
+   "inception": [
+    {
+     "date": "1960-05-10T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0439370": [
+  {
+   "item": "Q79435",
+   "title": "Lake Havasu City, Arizona",
+   "inception": [
+    {
+     "date": "1978-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0233140": [
+  {
+   "item": "Q79441",
+   "title": "Homer, Alaska",
+   "inception": [
+    {
+     "date": "1964-03-13T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0428380": [
+  {
+   "item": "Q79457",
+   "title": "Goodyear, Arizona",
+   "inception": [
+    {
+     "date": "1946-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0560410": [
+  {
+   "item": "Q79497",
+   "title": "Rogers, Arkansas",
+   "inception": [
+    {
+     "date": "1881-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0121184": [
+  {
+   "item": "Q79519",
+   "title": "Dothan, Alabama",
+   "inception": [
+    {
+     "date": "1885-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0524550": [
+  {
+   "item": "Q79535",
+   "title": "Fort Smith, Arkansas",
+   "inception": [
+    {
+     "date": "1817-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0177256": [
+  {
+   "item": "Q79580",
+   "title": "Tuscaloosa, Alabama",
+   "inception": [
+    {
+     "date": "1819-12-13T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0224230": [
+  {
+   "item": "Q79638",
+   "title": "Fairbanks, Alaska",
+   "inception": [
+    {
+     "date": "1901-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0566080": [
+  {
+   "item": "Q79724",
+   "title": "Springdale, Arkansas",
+   "inception": [
+    {
+     "date": "1838-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0103076": [
+  {
+   "item": "Q79728",
+   "title": "Auburn, Alabama",
+   "inception": [
+    {
+     "date": "1836-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0120104": [
+  {
+   "item": "Q79750",
+   "title": "Decatur, Alabama",
+   "inception": [
+    {
+     "date": "1821-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0270540": [
+  {
+   "item": "Q79804",
+   "title": "Sitka, Alaska",
+   "inception": [
+    {
+     "date": "1799-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0485540": [
+  {
+   "item": "Q79820",
+   "title": "Yuma, Arizona",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0423620": [
+  {
+   "item": "Q79842",
+   "title": "Flagstaff, Arizona",
+   "inception": [
+    {
+     "date": "1876-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0258660": [
+  {
+   "item": "Q79849",
+   "title": "Palmer, Alaska",
+   "inception": [
+    {
+     "date": "1951-04-30T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0515190": [
+  {
+   "item": "Q79853",
+   "title": "Conway, Arkansas",
+   "inception": [
+    {
+     "date": "1872-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0137000": [
+  {
+   "item": "Q79860",
+   "title": "Huntsville, Alabama",
+   "inception": [
+    {
+     "date": "1805-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0107000": [
+  {
+   "item": "Q79867",
+   "title": "Birmingham, Alabama",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0150000": [
+  {
+   "item": "Q79875",
+   "title": "Mobile, Alabama",
+   "inception": [
+    {
+     "date": "1702-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0444410": [
+  {
+   "item": "Q79877",
+   "title": "Maricopa, Arizona",
+   "inception": [
+    {
+     "date": "2003-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0410530": [
+  {
+   "item": "Q79889",
+   "title": "Casa Grande, Arizona",
+   "inception": [
+    {
+     "date": "1879-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0550450": [
+  {
+   "item": "Q79902",
+   "title": "North Little Rock, Arkansas",
+   "inception": [
+    {
+     "date": "1871-04-18T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0135896": [
+  {
+   "item": "Q79950",
+   "title": "Hoover, Alabama",
+   "inception": [
+    {
+     "date": "1850-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0283080": [
+  {
+   "item": "Q79957",
+   "title": "Wasilla, Alaska",
+   "inception": [
+    {
+     "date": "1917-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0145784": [
+  {
+   "item": "Q79987",
+   "title": "Madison, Alabama",
+   "inception": [
+    {
+     "date": "1818-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0206520": [
+  {
+   "item": "Q80022",
+   "title": "Bethel, Alaska",
+   "inception": [
+    {
+     "date": "1957-08-01T00:00:00Z",
+     "precision": 10
+    }
+   ]
+  }
+ ],
+ "0641992": [
+  {
+   "item": "Q138901",
+   "title": "Livermore, California",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0669112": [
+  {
+   "item": "Q159232",
+   "title": "Santa Cruz, California",
+   "inception": [
+    {
+     "date": "1791-09-25T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0669084": [
+  {
+   "item": "Q159260",
+   "title": "Santa Clara, California",
+   "inception": [
+    {
+     "date": "1777-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0669070": [
+  {
+   "item": "Q159288",
+   "title": "Santa Barbara, California",
+   "inception": [
+    {
+     "date": "1847-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0686972": [
+  {
+   "item": "Q169948",
+   "title": "Yuba City, California",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0648354": [
+  {
+   "item": "Q204561",
+   "title": "Modesto, California",
+   "inception": [
+    {
+     "date": "1870-11-08T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0678582": [
+  {
+   "item": "Q208447",
+   "title": "Thousand Oaks, California",
+   "inception": [
+    {
+     "date": "1964-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0681666": [
+  {
+   "item": "Q208445",
+   "title": "Vallejo, California",
+   "inception": [
+    {
+     "date": "1851-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0670098": [
+  {
+   "item": "Q212991",
+   "title": "Santa Rosa, California",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0523290": [
+  {
+   "item": "Q219526",
+   "title": "Fayetteville, Arkansas",
+   "inception": [
+    {
+     "date": "1828-10-17T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0651182": [
+  {
+   "item": "Q268873",
+   "title": "Newport Beach, California",
+   "inception": [
+    {
+     "date": "1870-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0657456": [
+  {
+   "item": "Q281248",
+   "title": "Pittsburg, California",
+   "inception": [
+    {
+     "date": "1839-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0660466": [
+  {
+   "item": "Q289661",
+   "title": "Rialto, California",
+   "inception": [
+    {
+     "date": "1911-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0614218": [
+  {
+   "item": "Q303794",
+   "title": "Clovis, California",
+   "inception": [
+    {
+     "date": "1890-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0672016": [
+  {
+   "item": "Q323414",
+   "title": "Simi Valley, California",
+   "inception": [
+    {
+     "date": "1969-10-10T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0623182": [
+  {
+   "item": "Q323432",
+   "title": "Fairfield, California",
+   "inception": [
+    {
+     "date": "1859-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0622804": [
+  {
+   "item": "Q372454",
+   "title": "Escondido, California",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0457450": [
+  {
+   "item": "Q374697",
+   "title": "Prescott Valley, Arizona",
+   "inception": [
+    {
+     "date": "1978-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0613014": [
+  {
+   "item": "Q432152",
+   "title": "Chico, California",
+   "inception": [
+    {
+     "date": "1860-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0606000": [
+  {
+   "item": "Q484678",
+   "title": "Berkeley, California",
+   "inception": [
+    {
+     "date": "1866-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0656000": [
+  {
+   "item": "Q485176",
+   "title": "Pasadena, California",
+   "inception": [
+    {
+     "date": "1886-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0630000": [
+  {
+   "item": "Q485716",
+   "title": "Glendale, California",
+   "inception": [
+    {
+     "date": "1884-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0665000": [
+  {
+   "item": "Q486168",
+   "title": "San Bernardino, California",
+   "inception": [
+    {
+     "date": "1854-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0658072": [
+  {
+   "item": "Q486868",
+   "title": "Pomona, California",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0653322": [
+  {
+   "item": "Q488924",
+   "title": "Oceanside, California",
+   "inception": [
+    {
+     "date": "1888-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0655156": [
+  {
+   "item": "Q488940",
+   "title": "Palmdale, California",
+   "inception": [
+    {
+     "date": "1886-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0619766": [
+  {
+   "item": "Q488946",
+   "title": "Downey, California",
+   "inception": [
+    {
+     "date": "1873-10-23T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0665042": [
+  {
+   "item": "Q490434",
+   "title": "Ventura, California",
+   "inception": [
+    {
+     "date": "1782-03-31T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0616000": [
+  {
+   "item": "Q490441",
+   "title": "Concord, California",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0600562": [
+  {
+   "item": "Q490744",
+   "title": "Alameda, California",
+   "inception": [
+    {
+     "date": "1872-03-07T00:00:00Z",
+     "precision": 11
+    },
+    {
+     "date": "1853-06-06T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0633000": [
+  {
+   "item": "Q491114",
+   "title": "Hayward, California",
+   "inception": [
+    {
+     "date": "1876-03-11T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0624680": [
+  {
+   "item": "Q491128",
+   "title": "Fontana, California",
+   "inception": [
+    {
+     "date": "1913-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0669088": [
+  {
+   "item": "Q491132",
+   "title": "Santa Clarita, California",
+   "inception": [
+    {
+     "date": "1987-12-15T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0653980": [
+  {
+   "item": "Q491350",
+   "title": "Orange, California",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0683346": [
+  {
+   "item": "Q493261",
+   "title": "Walnut Creek, California",
+   "inception": [
+    {
+     "date": "1849-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0686832": [
+  {
+   "item": "Q493518",
+   "title": "Yorba Linda, California",
+   "inception": [
+    {
+     "date": "1967-11-02T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0611530": [
+  {
+   "item": "Q494690",
+   "title": "Carson, California",
+   "inception": [
+    {
+     "date": "1968-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0640130": [
+  {
+   "item": "Q494711",
+   "title": "Lancaster, California",
+   "inception": [
+    {
+     "date": "1977-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0652526": [
+  {
+   "item": "Q494715",
+   "title": "Norwalk, California",
+   "inception": [
+    {
+     "date": "1957-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0628000": [
+  {
+   "item": "Q494723",
+   "title": "Fullerton, California",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0649270": [
+  {
+   "item": "Q494720",
+   "title": "Moreno Valley, California",
+   "inception": [
+    {
+     "date": "1984-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0682590": [
+  {
+   "item": "Q495353",
+   "title": "Victorville, California",
+   "inception": [
+    {
+     "date": "1895-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0659920": [
+  {
+   "item": "Q495361",
+   "title": "Redding, California",
+   "inception": [
+    {
+     "date": "1887-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0682954": [
+  {
+   "item": "Q495373",
+   "title": "Visalia, California",
+   "inception": [
+    {
+     "date": "1874-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0660620": [
+  {
+   "item": "Q495377",
+   "title": "Richmond, California",
+   "inception": [
+    {
+     "date": "1905-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0646898": [
+  {
+   "item": "Q499189",
+   "title": "Merced, California",
+   "inception": [
+    {
+     "date": "1889-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0616532": [
+  {
+   "item": "Q499196",
+   "title": "Costa Mesa, California",
+   "inception": [
+    {
+     "date": "1776-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0613210": [
+  {
+   "item": "Q506395",
+   "title": "Chino, California",
+   "inception": [
+    {
+     "date": "1910-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0668196": [
+  {
+   "item": "Q506411",
+   "title": "San Marcos, California",
+   "inception": [
+    {
+     "date": "1963-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0622678": [
+  {
+   "item": "Q532711",
+   "title": "Encinitas, California",
+   "inception": [
+    {
+     "date": "1986-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0622230": [
+  {
+   "item": "Q595550",
+   "title": "El Monte, California",
+   "inception": [
+    {
+     "date": "1852-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0668378": [
+  {
+   "item": "Q605472",
+   "title": "San Ramon, California",
+   "inception": [
+    {
+     "date": "1983-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0636056": [
+  {
+   "item": "Q851027",
+   "title": "Huntington Park, California",
+   "inception": [
+    {
+     "date": "1906-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0846465": [
+  {
+   "item": "Q876195",
+   "title": "Loveland, Colorado",
+   "inception": [
+    {
+     "date": "1877-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0683668": [
+  {
+   "item": "Q913543",
+   "title": "Watsonville, California",
+   "inception": [
+    {
+     "date": "1868-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0670224": [
+  {
+   "item": "Q923799",
+   "title": "Santee, California",
+   "inception": [
+    {
+     "date": "1877-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0655618": [
+  {
+   "item": "Q927134",
+   "title": "Paramount, California",
+   "inception": [
+    {
+     "date": "1957-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0883835": [
+  {
+   "item": "Q948129",
+   "title": "Westminster, Colorado",
+   "inception": [
+    {
+     "date": "1859-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0641474": [
+  {
+   "item": "Q966492",
+   "title": "Lincoln, California",
+   "inception": [
+    {
+     "date": "1890-08-07T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0684816": [
+  {
+   "item": "Q983600",
+   "title": "West Sacramento, California",
+   "inception": [
+    {
+     "date": "1987-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0667112": [
+  {
+   "item": "Q985265",
+   "title": "San Jacinto, California",
+   "inception": [
+    {
+     "date": "1888-04-20T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0845970": [
+  {
+   "item": "Q988283",
+   "title": "Longmont, Colorado",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0831660": [
+  {
+   "item": "Q989903",
+   "title": "Grand Junction, Colorado",
+   "inception": [
+    {
+     "date": "1882-07-22T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0816495": [
+  {
+   "item": "Q994452",
+   "title": "Commerce City, Colorado",
+   "inception": [
+    {
+     "date": "1952-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0812415": [
+  {
+   "item": "Q994457",
+   "title": "Castle Rock, Colorado",
+   "inception": [
+    {
+     "date": "1874-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0820000": [
+  {
+   "item": "Q16554",
+   "title": "Denver",
+   "inception": [
+    {
+     "date": "1858-11-22T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0668154": [
+  {
+   "item": "Q49012",
+   "title": "San Luis Obispo, California",
+   "inception": [
+    {
+     "date": "1772-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0973000": [
+  {
+   "item": "Q49169",
+   "title": "Stamford, Connecticut",
+   "inception": [
+    {
+     "date": "1641-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0908000": [
+  {
+   "item": "Q49174",
+   "title": "Bridgeport, Connecticut",
+   "inception": [
+    {
+     "date": "1821-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0950370": [
+  {
+   "item": "Q49172",
+   "title": "New Britain, Connecticut",
+   "inception": [
+    {
+     "date": "1850-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0980000": [
+  {
+   "item": "Q49178",
+   "title": "Waterbury, Connecticut",
+   "inception": [
+    {
+     "date": "1686-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0918430": [
+  {
+   "item": "Q49198",
+   "title": "Danbury, Connecticut",
+   "inception": [
+    {
+     "date": "1702-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0804000": [
+  {
+   "item": "Q49246",
+   "title": "Aurora, Colorado",
+   "inception": [
+    {
+     "date": "1891-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0816000": [
+  {
+   "item": "Q49258",
+   "title": "Colorado Springs, Colorado",
+   "inception": [
+    {
+     "date": "1871-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0982800": [
+  {
+   "item": "Q54219",
+   "title": "West Haven, Connecticut",
+   "inception": [
+    {
+     "date": "1921-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0955990": [
+  {
+   "item": "Q54217",
+   "title": "Norwalk, Connecticut",
+   "inception": [
+    {
+     "date": "1640-02-26T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0946450": [
+  {
+   "item": "Q54220",
+   "title": "Meriden, Connecticut",
+   "inception": [
+    {
+     "date": "1867-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0602462": [
+  {
+   "item": "Q534536",
+   "title": "Arcadia, California",
+   "inception": []
+  }
+ ],
+ "0668364": [
+  {
+   "item": "Q631915",
+   "title": "San Rafael, California",
+   "inception": []
+  }
+ ],
+ "0648816": [
+  {
+   "item": "Q664503",
+   "title": "Montebello, California",
+   "inception": []
+  }
+ ],
+ "0625380": [
+  {
+   "item": "Q838769",
+   "title": "Fountain Valley, California",
+   "inception": []
+  }
+ ],
+ "0614890": [
+  {
+   "item": "Q846606",
+   "title": "Colton, California",
+   "inception": []
+  }
+ ],
+ "0640004": [
+  {
+   "item": "Q850929",
+   "title": "La Mesa, California",
+   "inception": []
+  }
+ ],
+ "0652582": [
+  {
+   "item": "Q851004",
+   "title": "Novato, California",
+   "inception": []
+  }
+ ],
+ "0657526": [
+  {
+   "item": "Q864130",
+   "title": "Placentia, California",
+   "inception": []
+  }
+ ],
+ "0648914": [
+  {
+   "item": "Q927213",
+   "title": "Monterey Park, California",
+   "inception": []
+  }
+ ],
+ "0947515": [
+  {
+   "item": "Q31811295",
+   "title": "Milford (balance), Connecticut",
+   "inception": []
+  }
+ ],
+ "0937000": [
+  {
+   "item": "Q33486",
+   "title": "Hartford, Connecticut",
+   "inception": []
+  }
+ ],
+ "0832155": [
+  {
+   "item": "Q94274",
+   "title": "Greeley, Colorado",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0617610": [
+  {
+   "item": "Q189471",
+   "title": "Cupertino, California",
+   "inception": [
+    {
+     "date": "1947-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0807850": [
+  {
+   "item": "Q192517",
+   "title": "Boulder, Colorado",
+   "inception": [
+    {
+     "date": "1858-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0857630": [
+  {
+   "item": "Q385825",
+   "title": "Parker, Colorado",
+   "inception": [
+    {
+     "date": "1981-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0812815": [
+  {
+   "item": "Q387322",
+   "title": "Centennial, Colorado",
+   "inception": [
+    {
+     "date": "2001-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0655184": [
+  {
+   "item": "Q399976",
+   "title": "Palm Desert, California",
+   "inception": [
+    {
+     "date": "1973-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0650398": [
+  {
+   "item": "Q430316",
+   "title": "National City, California",
+   "inception": [
+    {
+     "date": "1800-01-01T00:00:00Z",
+     "precision": 7
+    }
+   ]
+  }
+ ],
+ "0843000": [
+  {
+   "item": "Q462804",
+   "title": "Lakewood, Colorado",
+   "inception": [
+    {
+     "date": "1889-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0827425": [
+  {
+   "item": "Q490732",
+   "title": "Fort Collins, Colorado",
+   "inception": [
+    {
+     "date": "1864-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0809280": [
+  {
+   "item": "Q492819",
+   "title": "Broomfield, Colorado",
+   "inception": [
+    {
+     "date": "2001-11-15T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0612048": [
+  {
+   "item": "Q578518",
+   "title": "Cathedral City, California",
+   "inception": [
+    {
+     "date": "1925-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0877290": [
+  {
+   "item": "Q579761",
+   "title": "Thornton, Colorado",
+   "inception": [
+    {
+     "date": "1956-06-12T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0803455": [
+  {
+   "item": "Q590849",
+   "title": "Arvada, Colorado",
+   "inception": [
+    {
+     "date": "1859-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0687042": [
+  {
+   "item": "Q598567",
+   "title": "Yucaipa, California",
+   "inception": [
+    {
+     "date": "1989-11-27T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0862000": [
+  {
+   "item": "Q675576",
+   "title": "Pueblo, Colorado",
+   "inception": [
+    {
+     "date": "1885-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0633588": [
+  {
+   "item": "Q693577",
+   "title": "Highland, California",
+   "inception": [
+    {
+     "date": "1891-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0656784": [
+  {
+   "item": "Q720087",
+   "title": "Petaluma, California",
+   "inception": [
+    {
+     "date": "1858-04-12T00:00:00Z",
+     "precision": 11
+    }
+   ]
+  }
+ ],
+ "0908420": [
+  {
+   "item": "Q755149",
+   "title": "Bristol, Connecticut",
+   "inception": [
+    {
+     "date": "1785-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0619192": [
+  {
+   "item": "Q768449",
+   "title": "Diamond Bar, California",
+   "inception": [
+    {
+     "date": "1989-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0618394": [
+  {
+   "item": "Q775868",
+   "title": "Delano, California",
+   "inception": [
+    {
+     "date": "1869-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0656924": [
+  {
+   "item": "Q828706",
+   "title": "Pico Rivera, California",
+   "inception": [
+    {
+     "date": "1958-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0628168": [
+  {
+   "item": "Q846409",
+   "title": "Gardena, California",
+   "inception": [
+    {
+     "date": "1930-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0464210": [
+  {
+   "item": "Q5241708",
+   "title": "San Tan Valley, Arizona",
+   "inception": [
+    {
+     "date": "2009-01-01T00:00:00Z",
+     "precision": 9
+    }
+   ]
+  }
+ ],
+ "0410670": [
+  {
+   "item": "Q79406",
+   "title": "Casas Adobes, Arizona",
+   "inception": []
+  }
+ ],
+ "0673430": [
+  {
+   "item": "Q531275",
+   "title": "South Whittier, California",
+   "inception": []
+  }
+ ],
+ "0247735": [
+  {
+   "item": "Q545384",
+   "title": "Meadow Lakes, Alaska",
+   "inception": []
+  }
+ ],
+ "0631596": [
+  {
+   "item": "Q577450",
+   "title": "Hacienda Heights, California",
+   "inception": []
+  }
+ ],
+ "0624477": [
+  {
+   "item": "Q601787",
+   "title": "Florence-Graham, California",
+   "inception": []
+  }
+ ],
+ "0602553": [
+  {
+   "item": "Q638819",
+   "title": "Arden-Arcade, California",
+   "inception": []
+  }
+ ],
+ "0620802": [
+  {
+   "item": "Q690991",
+   "title": "East Los Angeles, California",
+   "inception": []
+  }
+ ],
+ "0836410": [
+  {
+   "item": "Q750935",
+   "title": "Highlands Ranch, Colorado",
+   "inception": []
+  }
+ ],
+ "0216750": [
+  {
+   "item": "Q996048",
+   "title": "College, Alaska",
+   "inception": []
+  }
+ ],
+ "0240645": [
+  {
+   "item": "Q1023640",
+   "title": "Knik-Fairview, Alaska",
+   "inception": []
+  }
+ ],
+ "0411230": [
+  {
+   "item": "Q1050250",
+   "title": "Catalina Foothills, Arizona",
+   "inception": []
+  }
+ ],
+ "0275077": [
+  {
+   "item": "Q1729157",
+   "title": "Tanaina, Alaska",
+   "inception": []
+  }
+ ],
+ "0621880": [
+  {
+   "item": "Q2218053",
+   "title": "El Dorado Hills, California",
+   "inception": []
+  }
+ ],
+ "0624498": [
+  {
+   "item": "Q3460991",
+   "title": "Florin, California",
+   "inception": []
+  }
+ ],
+ "0205000": [
+  {
+   "item": "Q8239616",
+   "title": "Badger, Alaska",
+   "inception": []
+  }
+ ],
+ "0255745": [
+  {
+   "item": "Q106448479",
+   "title": "North Lakes, Alaska",
+   "inception": []
+  }
+ ]
+}

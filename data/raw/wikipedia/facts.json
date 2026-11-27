@@ -1,0 +1,3942 @@
+{
+ "Huntsville, Alabama": {
+  "nickname": "Rocket City",
+  "elevation_ft": "577",
+  "elevation_m": "176"
+ },
+ "Mobile, Alabama": {
+  "nicknames": "\"The Port City\", \"Azalea City\", \"The City of Six Flags\"",
+  "elevation_ft": "33"
+ },
+ "Birmingham, Alabama": {
+  "nicknames": "\"The Magic City\", \"[[Pittsburgh]] of the South\"",
+  "elevation_ft": "597"
+ },
+ "Montgomery, Alabama": {
+  "nicknames": "\"The Gump\", \"Birthplace of the Civil Rights Movement\", \"Cradle of the Confederacy\"",
+  "elevation_ft": "240",
+  "elevation_m": "73"
+ },
+ "Tuscaloosa, Alabama": {
+  "nicknames": "Druid City, T-Town, City of Champions",
+  "elevation_ft": "190"
+ },
+ "Hoover, Alabama": {
+  "elevation_ft": "495"
+ },
+ "Auburn, Alabama": {
+  "elevation_ft": "696"
+ },
+ "Dothan, Alabama": {
+  "elevation_ft": "331"
+ },
+ "Madison, Alabama": {
+  "elevation_ft": "686",
+  "elevation_m": "209"
+ },
+ "Decatur, Alabama": {
+  "nicknames": "The River City, The [[Chicago]] of the South, The Heart of the Valley,",
+  "elevation_ft": "594"
+ },
+ "Anchorage, Alaska": {
+  "nicknames": "\"The City of Lights and Flowers\", \"Los Anchorage\"",
+  "elevation_ft": "102"
+ },
+ "Juneau, Alaska": {
+  "elevation_ft": "33",
+  "elevation_m": "10"
+ },
+ "Fairbanks, Alaska": {
+  "nicknames": "\"Golden Heart City\", \"Golden Heart of Alaska\"{{force singular}}",
+  "elevation_ft": "446"
+ },
+ "Knik-Fairview, Alaska": {},
+ "Badger, Alaska": {},
+ "College, Alaska": {
+  "elevation_ft": "449",
+  "elevation_m": "137"
+ },
+ "Wasilla, Alaska": {
+  "elevation_ft": "341",
+  "elevation_m": "104"
+ },
+ "North Lakes, Alaska": {
+  "elevation_ft": "360"
+ },
+ "Tanaina, Alaska": {
+  "elevation_ft": "499",
+  "elevation_m": "152"
+ },
+ "Meadow Lakes, Alaska": {
+  "elevation_ft": "377",
+  "elevation_m": "115"
+ },
+ "Phoenix, Arizona": {
+  "nickname": "{{hlist|Valley of the Sun|The Valley}}",
+  "elevation_ft": "1086",
+  "elevation_m": "331"
+ },
+ "Tucson, Arizona": {
+  "nicknames": "\"The Old Pueblo\", \"Optics Valley\", \"America's biggest small town\"",
+  "elevation_ft": "2389",
+  "elevation_m": "728"
+ },
+ "Mesa, Arizona": {
+  "elevation_ft": "1,326"
+ },
+ "Gilbert, Arizona": {
+  "elevation_ft": "1237",
+  "elevation_m": "377"
+ },
+ "Chandler, Arizona": {
+  "elevation_ft": "1211",
+  "elevation_m": "370"
+ },
+ "Glendale, Arizona": {
+  "elevation_ft": "1152"
+ },
+ "Scottsdale, Arizona": {
+  "nickname": "\"The West's Most Western Town\" (official)",
+  "elevation_ft": "2165"
+ },
+ "Peoria, Arizona": {
+  "elevation_ft": "1581"
+ },
+ "Tempe, Arizona": {
+  "elevation_ft": "1181"
+ },
+ "Surprise, Arizona": {
+  "elevation_ft": "1385"
+ },
+ "Buckeye, Arizona": {
+  "elevation_ft": "1076"
+ },
+ "Goodyear, Arizona": {
+  "elevation_ft": "968",
+  "elevation_m": "295"
+ },
+ "San Tan Valley, Arizona": {
+  "elevation_ft": "1493",
+  "elevation_m": "455"
+ },
+ "Yuma, Arizona": {
+  "elevation_ft": "256"
+ },
+ "Avondale, Arizona": {
+  "elevation_ft": "974"
+ },
+ "Queen Creek, Arizona": {
+  "elevation_ft": "1417",
+  "elevation_m": "432"
+ },
+ "Maricopa, Arizona": {
+  "elevation_ft": "1201"
+ },
+ "Flagstaff, Arizona": {
+  "nicknames": "City of Seven Wonders, Dark Sky City",
+  "elevation_ft": "6821"
+ },
+ "Casas Adobes, Arizona": {
+  "elevation_ft": "2411",
+  "elevation_m": "735"
+ },
+ "Casa Grande, Arizona": {
+  "elevation_ft": "1381",
+  "elevation_m": "421"
+ },
+ "Marana, Arizona": {
+  "elevation_ft": "1991",
+  "elevation_m": "607"
+ },
+ "Lake Havasu City, Arizona": {
+  "nickname": "\"LHC\"",
+  "elevation_ft": "938",
+  "elevation_m": "286"
+ },
+ "Catalina Foothills, Arizona": {
+  "elevation_ft": "2575",
+  "elevation_m": "785"
+ },
+ "Prescott Valley, Arizona": {
+  "elevation_ft": "5063"
+ },
+ "Little Rock, Arkansas": {
+  "nicknames": "The Rock, Rock Town, LR",
+  "elevation_ft": "279"
+ },
+ "Fayetteville, Arkansas": {
+  "nicknames": "\"Track Capital of the World\", \"The Hill\", \"Athens of the Ozarks\"",
+  "elevation_ft": "1378"
+ },
+ "Fort Smith, Arkansas": {
+  "elevation_ft": "463"
+ },
+ "Springdale, Arkansas": {
+  "nickname": "The Poultry Capital of the World",
+  "elevation_ft": "1335"
+ },
+ "Jonesboro, Arkansas": {
+  "elevation_ft": "276",
+  "elevation_m": "84"
+ },
+ "Rogers, Arkansas": {
+  "nickname": "\"The City\"",
+  "elevation_ft": "1352"
+ },
+ "Conway, Arkansas": {
+  "nickname": "City of Colleges",
+  "elevation_ft": "331"
+ },
+ "North Little Rock, Arkansas": {
+  "elevation_ft": "256"
+ },
+ "Bentonville, Arkansas": {
+  "elevation_ft": "1266"
+ },
+ "Benton, Arkansas": {
+  "elevation_ft": "472"
+ },
+ "Los Angeles": {
+  "nicknames": "L.A., City of Angels, [[The Entertainment Capital of the World]], La-la-land, Tinseltown",
+  "elevation_ft": "233",
+  "elevation_m": "71"
+ },
+ "San Diego": {
+  "nicknames": "\"America's Finest City\", \"Birthplace of California\", \"City in Motion\""
+ },
+ "San Jose, California": {
+  "elevation_m": "25"
+ },
+ "San Francisco": {
+  "nicknames": "[[List of nicknames for San Francisco|See list]]",
+  "elevation_ft": "52"
+ },
+ "Fresno, California": {
+  "elevation_ft": "308"
+ },
+ "Sacramento, California": {
+  "nickname": "[[List of city nicknames in California|\"Sactown\", \"Sac\", \"City of Trees\", \"River City\", \"Camellia City\"]]",
+  "elevation_ft": "26"
+ },
+ "Long Beach, California": {
+  "nicknames": "\"Aquatic Capital of America\", \"The LBC\"",
+  "elevation_ft": "52"
+ },
+ "Oakland, California": {
+  "nicknames": "\"Oaktown\", \"The Town\"",
+  "elevation_ft": "43"
+ },
+ "Bakersfield, California": {
+  "nicknames": "\"Bako\", \"Nashville West\"",
+  "elevation_ft": "404"
+ },
+ "Anaheim, California": {
+  "nicknames": "A-City",
+  "elevation_ft": "157",
+  "elevation_m": "48"
+ },
+ "Stockton, California": {
+  "nicknames": "\"Tuleburg\", \"Mudville\", \"California's Sunrise Seaport\", \"Asparagus Capital of America\", \"Port City\"",
+  "elevation_ft": "13",
+  "elevation_m": "4"
+ },
+ "Riverside, California": {
+  "elevation_ft": "827",
+  "elevation_m": "252"
+ },
+ "Irvine, California": {
+  "elevation_ft": "56",
+  "elevation_m": "17"
+ },
+ "Santa Ana, California": {
+  "elevation_ft": "115",
+  "elevation_m": "35"
+ },
+ "Chula Vista, California": {
+  "nicknames": "Lemon Capital of the World<br />",
+  "elevation_ft": "66",
+  "elevation_m": "20"
+ },
+ "Santa Clarita, California": {
+  "nickname": "SCV",
+  "elevation_ft": "1207"
+ },
+ "Fremont, California": {
+  "elevation_ft": "56",
+  "elevation_m": "17"
+ },
+ "San Bernardino, California": {
+  "nicknames": "SB; San Berdoo; Berdoo; Gate City; City on the Move; The Friendly City; The Heart of Southern California; The 'Dino",
+  "elevation_ft": "1053 (Downtown)",
+  "elevation_m": "321"
+ },
+ "Fontana, California": {
+  "elevation_ft": "1237",
+  "elevation_m": "377"
+ },
+ "Modesto, California": {
+  "nickname": "City of Great Neighbors",
+  "elevation_ft": "89",
+  "elevation_m": "27"
+ },
+ "Moreno Valley, California": {
+  "nickname": "\"MoVal\"",
+  "elevation_ft": "1631",
+  "elevation_m": "497"
+ },
+ "Oxnard, California": {
+  "nicknames": "Gateway to the Channel Islands, The Nard{{r|WVCBA 2018-06-19}}",
+  "elevation_ft": "52",
+  "elevation_m": "16"
+ },
+ "Huntington Beach, California": {
+  "nickname": "[[Surf City (song)|Surf City]]",
+  "elevation_ft": "39",
+  "elevation_m": "12"
+ },
+ "Glendale, California": {
+  "nickname": "Jewel City",
+  "elevation_ft": "522",
+  "elevation_m": "159"
+ },
+ "Ontario, California": {
+  "elevation_ft": "1,004",
+  "elevation_m": "306"
+ },
+ "Elk Grove, California": {
+  "elevation_ft": "46",
+  "elevation_m": "14"
+ },
+ "Santa Rosa, California": {
+  "elevation_ft": "164",
+  "elevation_m": "50"
+ },
+ "Rancho Cucamonga, California": {
+  "elevation_ft": "1207",
+  "elevation_m": "368"
+ },
+ "Oceanside, California": {
+  "elevation_ft": "0–66",
+  "elevation_m": "0–20"
+ },
+ "Garden Grove, California": {
+  "elevation_ft": "89",
+  "elevation_m": "27"
+ },
+ "Lancaster, California": {
+  "elevation_ft": "2359",
+  "elevation_m": "719"
+ },
+ "Roseville, California": {
+  "elevation_ft": "164"
+ },
+ "Palmdale, California": {
+  "elevation_ft": "2657",
+  "elevation_m": "810"
+ },
+ "Corona, California": {
+  "nicknames": "Crown&nbsp;Town, The&nbsp;Circle&nbsp;City, Crown&nbsp;Colony, Queen&nbsp;Colony, Indianapolis&nbsp;of&nbsp;the&nbsp;West",
+  "elevation_ft": "679",
+  "elevation_m": "207"
+ },
+ "Salinas, California": {
+  "nickname": "\"The Salad Bowl of the World\"",
+  "elevation_ft": "52"
+ },
+ "Hayward, California": {
+  "elevation_ft": "105"
+ },
+ "Sunnyvale, California": {
+  "elevation_ft": "125",
+  "elevation_m": "38"
+ },
+ "Pomona, California": {
+  "elevation_ft": "850",
+  "elevation_m": "259"
+ },
+ "Visalia, California": {
+  "nickname": "Gateway to the Sequoias",
+  "elevation_ft": "331",
+  "elevation_m": "101"
+ },
+ "Escondido, California": {
+  "elevation_ft": "646",
+  "elevation_m": "197"
+ },
+ "Victorville, California": {
+  "elevation_ft": "2959"
+ },
+ "Fullerton, California": {
+  "elevation_ft": "164",
+  "elevation_m": "50"
+ },
+ "Torrance, California": {
+  "elevation_ft": "82",
+  "elevation_m": "25"
+ },
+ "Orange, California": {
+  "elevation_ft": "190",
+  "elevation_m": "58"
+ },
+ "Pasadena, California": {
+  "nicknames": "City of Roses, Crown City, Rose Town",
+  "elevation_ft": "863",
+  "elevation_m": "263"
+ },
+ "Santa Clara, California": {
+  "nickname": "The Mission City",
+  "elevation_ft": "72",
+  "elevation_m": "22"
+ },
+ "Clovis, California": {
+  "elevation_ft": "361",
+  "elevation_m": "110"
+ },
+ "Simi Valley, California": {
+  "elevation_ft": "768",
+  "elevation_m": "234"
+ },
+ "Vallejo, California": {
+  "nicknames": "V-Town, The Old Capital, Valley Joe",
+  "elevation_ft": "69",
+  "elevation_m": "21"
+ },
+ "Concord, California": {
+  "elevation_ft": "75",
+  "elevation_m": "23"
+ },
+ "Fairfield, California": {
+  "elevation_ft": "13",
+  "elevation_m": "4"
+ },
+ "Thousand Oaks, California": {
+  "elevation_ft": "886",
+  "elevation_m": "270"
+ },
+ "Berkeley, California": {
+  "elevation_ft": "171"
+ },
+ "Antioch, California": {
+  "elevation_ft": "43",
+  "elevation_m": "13"
+ },
+ "Menifee, California": {
+  "elevation_ft": "1424",
+  "elevation_m": "434"
+ },
+ "Temecula, California": {
+  "elevation_ft": "1017",
+  "elevation_m": "310"
+ },
+ "Richmond, California": {
+  "elevation_ft": "46"
+ },
+ "Murrieta, California": {
+  "nickname": "Gem of the Valley",
+  "elevation_ft": "1175",
+  "elevation_m": "334"
+ },
+ "Carlsbad, California": {
+  "nickname": "Village by the Sea",
+  "elevation_ft": "52",
+  "elevation_m": "16"
+ },
+ "East Los Angeles, California": {
+  "elevation_ft": "200",
+  "elevation_m": "61"
+ },
+ "Santa Maria, California": {
+  "nickname": "BBQ Capital of Cali",
+  "elevation_ft": "217",
+  "elevation_m": "66"
+ },
+ "Ventura, California": {
+  "elevation_ft": "36",
+  "elevation_m": "11"
+ },
+ "Costa Mesa, California": {
+  "nickname": "Goat Hill",
+  "elevation_ft": "98",
+  "elevation_m": "30"
+ },
+ "Downey, California": {
+  "elevation_ft": "118",
+  "elevation_m": "36"
+ },
+ "Jurupa Valley, California": {
+  "nickname": "\"Jurupa\"{{citation needed|date=July 2015}}"
+ },
+ "Rialto, California": {
+  "elevation_ft": "1348"
+ },
+ "West Covina, California": {
+  "elevation_ft": "384",
+  "elevation_m": "117"
+ },
+ "Chico, California": {
+  "nicknames": "\"City of Trees\", \"City of Roses\"",
+  "elevation_ft": "243"
+ },
+ "El Monte, California": {
+  "nickname": "\"The End of the Santa Fe Trail\"",
+  "elevation_ft": "299",
+  "elevation_m": "91"
+ },
+ "Vacaville, California": {
+  "elevation_ft": "174",
+  "elevation_m": "53"
+ },
+ "San Mateo, California": {
+  "elevation_ft": "46",
+  "elevation_m": "14"
+ },
+ "Burbank, California": {
+  "elevation_ft": "607",
+  "elevation_m": "185"
+ },
+ "Hesperia, California": {
+  "elevation_ft": "3347"
+ },
+ "Tracy, California": {
+  "elevation_ft": "52",
+  "elevation_m": "16"
+ },
+ "El Cajon, California": {
+  "elevation_ft": "433",
+  "elevation_m": "132"
+ },
+ "Inglewood, California": {
+  "nickname": "\"City of Champions\"",
+  "elevation_ft": "131",
+  "elevation_m": "40"
+ },
+ "Daly City, California": {
+  "nickname": "Gateway to the Peninsula",
+  "elevation_ft": "335",
+  "elevation_m": "102"
+ },
+ "Merced, California": {
+  "elevation_ft": "171",
+  "elevation_m": "52"
+ },
+ "Vista, California": {
+  "elevation_ft": "325",
+  "elevation_m": "99"
+ },
+ "Norwalk, California": {
+  "elevation_ft": "92",
+  "elevation_m": "28"
+ },
+ "Chino, California": {
+  "elevation_ft": "728",
+  "elevation_m": "222"
+ },
+ "Manteca, California": {
+  "nickname": "The Family City",
+  "elevation_ft": "36",
+  "elevation_m": "11"
+ },
+ "Arden-Arcade, California": {
+  "elevation_ft": "56"
+ },
+ "San Marcos, California": {
+  "nickname": "Valley of Discovery"
+ },
+ "Indio, California": {
+  "nickname": "The City of Festivals",
+  "elevation_ft": "−13",
+  "elevation_m": "−4"
+ },
+ "Redding, California": {
+  "elevation_ft": "564",
+  "elevation_m": "172"
+ },
+ "Hemet, California": {
+  "elevation_ft": "1594",
+  "elevation_m": "486"
+ },
+ "Folsom, California": {
+  "elevation_ft": "220"
+ },
+ "Carson, California": {
+  "elevation_ft": "39",
+  "elevation_m": "12"
+ },
+ "Compton, California": {
+  "nickname": "Hub City",
+  "elevation_ft": "69",
+  "elevation_m": "21"
+ },
+ "Mission Viejo, California": {
+  "elevation_ft": "410",
+  "elevation_m": "125"
+ },
+ "Santa Monica, California": {
+  "nickname": "SaMo",
+  "elevation_ft": "105"
+ },
+ "South Gate, California": {
+  "nickname": "\"Azalea City\"",
+  "elevation_ft": "115",
+  "elevation_m": "35"
+ },
+ "Westminster, California": {
+  "elevation_ft": "39",
+  "elevation_m": "12"
+ },
+ "Rancho Cordova, California": {
+  "elevation_ft": "89"
+ },
+ "Santa Barbara, California": {
+  "nickname": "The American Riviera",
+  "elevation_ft": "49",
+  "elevation_m": "15"
+ },
+ "Citrus Heights, California": {
+  "elevation_ft": "167"
+ },
+ "Lake Forest, California": {
+  "elevation_ft": "489",
+  "elevation_m": "148"
+ },
+ "San Ramon, California": {
+  "elevation_ft": "486",
+  "elevation_m": "148"
+ },
+ "Whittier, California": {
+  "elevation_ft": "367",
+  "elevation_m": "112"
+ },
+ "Mountain View, California": {
+  "elevation_ft": "105",
+  "elevation_m": "32"
+ },
+ "San Leandro, California": {
+  "nickname": "SL{{efn|As opposed to \"SLZ\", which is [[San Lorenzo, California|San Lorenzo]].}}",
+  "elevation_ft": "56"
+ },
+ "Livermore, California": {
+  "elevation_ft": "495"
+ },
+ "Perris, California": {
+  "elevation_ft": "1453",
+  "elevation_m": "443"
+ },
+ "Hawthorne, California": {
+  "elevation_ft": "72",
+  "elevation_m": "22"
+ },
+ "Redwood City, California": {
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "Newport Beach, California": {
+  "elevation_ft": "10",
+  "elevation_m": "3"
+ },
+ "Buena Park, California": {
+  "elevation_ft": "75",
+  "elevation_m": "23"
+ },
+ "Alhambra, California": {
+  "elevation_ft": "492",
+  "elevation_m": "150"
+ },
+ "Upland, California": {
+  "nickname": "The City of Gracious Living",
+  "elevation_ft": "1237",
+  "elevation_m": "377"
+ },
+ "Milpitas, California": {
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "Lakewood, California": {
+  "elevation_ft": "46",
+  "elevation_m": "14"
+ },
+ "Tustin, California": {
+  "nickname": "City of Trees",
+  "elevation_ft": "138",
+  "elevation_m": "42"
+ },
+ "Pittsburg, California": {
+  "nickname": "\"P-World\" \"The Burg\"",
+  "elevation_ft": "26",
+  "elevation_m": "8"
+ },
+ "Chino Hills, California": {
+  "elevation_ft": "860",
+  "elevation_m": "262"
+ },
+ "Carmichael, California": {
+  "elevation_ft": "125"
+ },
+ "Alameda, California": {
+  "nickname": "The Island City",
+  "elevation_ft": "33"
+ },
+ "Rocklin, California": {
+  "elevation_ft": "249"
+ },
+ "Napa, California": {
+  "elevation_ft": "20"
+ },
+ "Apple Valley, California": {
+  "nickname": "\"Apple of the Desert\"",
+  "elevation_ft": "2917"
+ },
+ "Lake Elsinore, California": {
+  "elevation_ft": "1296",
+  "elevation_m": "395"
+ },
+ "Bellflower, California": {
+  "nickname": "\"The Friendly City\"",
+  "elevation_ft": "71",
+  "elevation_m": "22"
+ },
+ "Pleasanton, California": {
+  "nickname": "The City of Planned Progress",
+  "elevation_ft": "351"
+ },
+ "Redlands, California": {
+  "nickname": "\"Jewel of the Inland Empire\"",
+  "elevation_ft": "1358",
+  "elevation_m": "414"
+ },
+ "Tulare, California": {
+  "elevation_ft": "289",
+  "elevation_m": "88"
+ },
+ "Turlock, California": {
+  "elevation_ft": "62",
+  "elevation_m": "31"
+ },
+ "Dublin, California": {
+  "elevation_ft": "367"
+ },
+ "Eastvale, California": {
+  "elevation_ft": "627",
+  "elevation_m": "191"
+ },
+ "Walnut Creek, California": {
+  "nicknames": "\"The Creek\", \"Dub-C\", “The Nut”",
+  "elevation_ft": "131"
+ },
+ "Yuba City, California": {
+  "elevation_ft": "59",
+  "elevation_m": "18"
+ },
+ "Lodi, California": {
+  "elevation_ft": "35",
+  "elevation_m": "15"
+ },
+ "Madera, California": {
+  "nickname": "\"The Heart of California\"",
+  "elevation_ft": "272"
+ },
+ "Baldwin Park, California": {
+  "elevation_ft": "374",
+  "elevation_m": "114"
+ },
+ "Camarillo, California": {
+  "elevation_ft": "177",
+  "elevation_m": "54"
+ },
+ "Palo Alto, California": {
+  "elevation_ft": "30",
+  "elevation_m": "9"
+ },
+ "Redondo Beach, California": {
+  "elevation_ft": "62"
+ },
+ "Brentwood, California": {
+  "elevation_ft": "79"
+ },
+ "Davis, California": {
+  "elevation_ft": "52",
+  "elevation_m": "16"
+ },
+ "Yorba Linda, California": {
+  "elevation_ft": "381",
+  "elevation_m": "116"
+ },
+ "Union City, California": {},
+ "Castro Valley, California": {
+  "elevation_ft": "161"
+ },
+ "South San Francisco, California": {
+  "nicknames": "South City; The Industrial City; The Birthplace of Biotechnology",
+  "elevation_ft": "16",
+  "elevation_m": "5"
+ },
+ "Laguna Niguel, California": {
+  "elevation_ft": "400",
+  "elevation_m": "122"
+ },
+ "Lynwood, California": {
+  "elevation_ft": "92",
+  "elevation_m": "28"
+ },
+ "Porterville, California": {
+  "nicknames": "P'ville,{{Citation needed|date=January 2015}}, BandTown USA,{{Citation needed|date=January 2015}} Gateway to the Sequoia National Monument{{Citation needed|date=January 2015}} Po'ville {{Citation needed|date=August 2022}}",
+  "elevation_ft": "459",
+  "elevation_m": "140"
+ },
+ "Woodland, California": {
+  "nickname": "City of Trees",
+  "elevation_ft": "69",
+  "elevation_m": "21"
+ },
+ "Hanford, California": {
+  "elevation_ft": "249"
+ },
+ "San Clemente, California": {
+  "elevation_ft": "233",
+  "elevation_m": "71"
+ },
+ "Santa Cruz, California": {
+  "nickname": "Surf City",
+  "elevation_ft": "36",
+  "elevation_m": "11"
+ },
+ "La Habra, California": {
+  "elevation_ft": "299",
+  "elevation_m": "91"
+ },
+ "Beaumont, California": {
+  "elevation_ft": "2612",
+  "elevation_m": "796"
+ },
+ "Gilroy, California": {
+  "nickname": "\"Garlic Capital of the World\"",
+  "elevation_ft": "200",
+  "elevation_m": "61"
+ },
+ "Encinitas, California": {
+  "elevation_ft": "82",
+  "elevation_m": "25"
+ },
+ "Montebello, California": {
+  "elevation_ft": "203"
+ },
+ "Florence-Graham, California": {
+  "elevation_ft": "144",
+  "elevation_m": "44"
+ },
+ "La Mesa, California": {
+  "elevation_ft": "528",
+  "elevation_m": "161"
+ },
+ "Petaluma, California": {
+  "elevation_ft": "13",
+  "elevation_m": "4"
+ },
+ "San Rafael, California": {
+  "nickname": "The City With a Mission",
+  "elevation_ft": "43",
+  "elevation_m": "13"
+ },
+ "Pico Rivera, California": {
+  "elevation_ft": "164",
+  "elevation_m": "50"
+ },
+ "Gardena, California": {
+  "nickname": "\"Freeway City\"",
+  "elevation_ft": "49",
+  "elevation_m": "15"
+ },
+ "Cupertino, California": {
+  "elevation_ft": "236",
+  "elevation_m": "72"
+ },
+ "Santee, California": {
+  "elevation_ft": "351",
+  "elevation_m": "107"
+ },
+ "National City, California": {
+  "elevation_ft": "66",
+  "elevation_m": "20"
+ },
+ "Highland, California": {
+  "elevation_ft": "1309",
+  "elevation_m": "399"
+ },
+ "Monterey Park, California": {
+  "elevation_ft": "384",
+  "elevation_m": "117"
+ },
+ "Lincoln, California": {
+  "elevation_ft": "167",
+  "elevation_m": "51"
+ },
+ "West Sacramento, California": {
+  "nickname": "West Sac",
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "San Jacinto, California": {
+  "elevation_ft": "1565",
+  "elevation_m": "477"
+ },
+ "South Whittier, California": {
+  "elevation_ft": "177",
+  "elevation_m": "54"
+ },
+ "Fountain Valley, California": {
+  "nickname": "Gospel Swamps",
+  "elevation_ft": "33",
+  "elevation_m": "10"
+ },
+ "Yucaipa, California": {
+  "elevation_ft": "2618"
+ },
+ "Placentia, California": {
+  "elevation_ft": "272",
+  "elevation_m": "83"
+ },
+ "Hacienda Heights, California": {
+  "nickname": "The Heights",
+  "elevation_ft": "453",
+  "elevation_m": "138"
+ },
+ "Arcadia, California": {
+  "elevation_ft": "482",
+  "elevation_m": "147"
+ },
+ "Colton, California": {
+  "nickname": "Hub City",
+  "elevation_ft": "1004",
+  "elevation_m": "306"
+ },
+ "Palm Desert, California": {
+  "nicknames": "P. D., Palm Deezy",
+  "elevation_ft": "220",
+  "elevation_m": "67"
+ },
+ "Cathedral City, California": {
+  "nickname": "Cat City",
+  "elevation_ft": "328",
+  "elevation_m": "100"
+ },
+ "Delano, California": {
+  "elevation_ft": "315",
+  "elevation_m": "96"
+ },
+ "Novato, California": {
+  "nickname": "Valley of No Regrets",
+  "elevation_ft": "30",
+  "elevation_m": "9"
+ },
+ "Diamond Bar, California": {
+  "elevation_ft": "696",
+  "elevation_m": "212"
+ },
+ "Huntington Park, California": {
+  "elevation_ft": "171",
+  "elevation_m": "52"
+ },
+ "El Dorado Hills, California": {
+  "elevation_ft": "768",
+  "elevation_m": "234"
+ },
+ "Paramount, California": {
+  "elevation_ft": "69",
+  "elevation_m": "21"
+ },
+ "Watsonville, California": {
+  "elevation_ft": "29",
+  "elevation_m": "9"
+ },
+ "San Luis Obispo, California": {
+  "nicknames": "\"SLO\", \"San Luis\", \"SLO Town\", \"SLOcal\", \"Bispo\"",
+  "elevation_ft": "233",
+  "elevation_m": "71"
+ },
+ "Florin, California": {
+  "elevation_ft": "33"
+ },
+ "Denver": {
+  "nicknames": "The Mile High City<br/>Queen City of the Plains<br />[[Wall Street of the West]]",
+  "elevation_ft": "5280"
+ },
+ "Colorado Springs, Colorado": {
+  "nickname": "Olympic City USA,<br />The Springs",
+  "elevation_ft": "6011"
+ },
+ "Aurora, Colorado": {
+  "nicknames": "The Gateway to the Rockies<br />The Sunrise of Colorado",
+  "elevation_ft": "5558"
+ },
+ "Fort Collins, Colorado": {
+  "elevation_ft": "4997"
+ },
+ "Lakewood, Colorado": {
+  "elevation_ft": "5656"
+ },
+ "Thornton, Colorado": {
+  "elevation_ft": "5210"
+ },
+ "Arvada, Colorado": {
+  "elevation_ft": "5525"
+ },
+ "Westminster, Colorado": {
+  "elevation_ft": "5325"
+ },
+ "Greeley, Colorado": {
+  "elevation_ft": "4676"
+ },
+ "Pueblo, Colorado": {
+  "nicknames": "Home of Heroes, Steel City",
+  "elevation_ft": "4692"
+ },
+ "Centennial, Colorado": {
+  "elevation_ft": "5722"
+ },
+ "Boulder, Colorado": {
+  "elevation_ft": "5269"
+ },
+ "Highlands Ranch, Colorado": {
+  "elevation_ft": "5817"
+ },
+ "Longmont, Colorado": {
+  "elevation_ft": "4981"
+ },
+ "Castle Rock, Colorado": {
+  "elevation_ft": "6224"
+ },
+ "Loveland, Colorado": {
+  "nickname": "The Sweetheart City",
+  "elevation_ft": "4997"
+ },
+ "Broomfield, Colorado": {
+  "elevation_ft": "5348"
+ },
+ "Commerce City, Colorado": {
+  "elevation_ft": "5191"
+ },
+ "Grand Junction, Colorado": {
+  "nicknames": "Colorado Wine Country, River City",
+  "elevation_ft": "4646"
+ },
+ "Parker, Colorado": {
+  "elevation_ft": "5834"
+ },
+ "Bridgeport, Connecticut": {
+  "nicknames": "The Park City, BPT",
+  "elevation_ft": "3",
+  "elevation_m": "1"
+ },
+ "Stamford, Connecticut": {
+  "nicknames": "The City That Works, Lock City",
+  "elevation_ft": "23",
+  "elevation_m": "7"
+ },
+ "New Haven, Connecticut": {
+  "nickname": "The Elm City",
+  "elevation_ft": "59",
+  "elevation_m": "18"
+ },
+ "Hartford, Connecticut": {
+  "nickname": "{{hlist | New England's Rising Star | The Insurance Capital of the World | America's Filing Cabinet}}",
+  "elevation_ft": "30"
+ },
+ "Waterbury, Connecticut": {
+  "nickname": "The Brass City",
+  "elevation_ft": "270",
+  "elevation_m": "82"
+ },
+ "Norwalk, Connecticut": {
+  "nickname": "Oyster Town",
+  "elevation_ft": "43"
+ },
+ "Danbury, Connecticut": {
+  "nickname": "The Hat City",
+  "elevation_ft": "397",
+  "elevation_m": "121"
+ },
+ "New Britain, Connecticut": {
+  "nicknames": "New Britski, Hard-Hittin' New Britain, Hardware City",
+  "elevation_ft": "207"
+ },
+ "West Hartford, Connecticut": {
+  "nickname": "WeHa",
+  "elevation_ft": "164",
+  "elevation_m": "50"
+ },
+ "Bristol, Connecticut": {
+  "nicknames": "Mum City, Home of ESPN, Bell City",
+  "elevation_ft": "420"
+ },
+ "Meriden, Connecticut": {
+  "nickname": "The Silver City",
+  "elevation_ft": "177",
+  "elevation_m": "54"
+ },
+ "West Haven, Connecticut": {
+  "elevation_ft": "33",
+  "elevation_m": "10"
+ },
+ "Milford, Connecticut": {
+  "nickname": "Sleepy Hollow"
+ },
+ "East Hartford, Connecticut": {
+  "elevation_ft": "49"
+ },
+ "Wilmington, Delaware": {
+  "nicknames": "Corporate Capital of the World, Chemical Capital of the World",
+  "elevation_ft": "92"
+ },
+ "Dover, Delaware": {
+  "nickname": "Capital of the First State",
+  "elevation_ft": "30"
+ },
+ "Newark, Delaware": {
+  "elevation_ft": "128"
+ },
+ "Middletown, Delaware": {
+  "nickname": "Diamond Town of the Diamond State",
+  "elevation_ft": "66"
+ },
+ "Bear, Delaware": {
+  "elevation_ft": "69",
+  "elevation_m": "21"
+ },
+ "Glasgow, Delaware": {
+  "elevation_ft": "69"
+ },
+ "Brookside, Delaware": {
+  "elevation_ft": "75",
+  "elevation_m": "23"
+ },
+ "Milford, Delaware": {
+  "elevation_ft": "13"
+ },
+ "Hockessin, Delaware": {
+  "elevation_ft": "259"
+ },
+ "Smyrna, Delaware": {
+  "elevation_ft": "33"
+ },
+ "Jacksonville, Florida": {
+  "nicknames": "\"Jax\", \"The River City\", The Bold New City of the South",
+  "elevation_ft": "3"
+ },
+ "Miami, Florida": {
+  "nicknames": "''The [[Area code 305|305]]'', ''Magic City'', ''Gateway to the Americas'', ''Gateway to [[Latin America]]'', ''Capital of Latin America'' and ''Vice City''",
+  "elevation_ft": "7"
+ },
+ "Tampa, Florida": {
+  "nicknames": "Cigar City, [[The Big Guava]]",
+  "elevation_ft": "10"
+ },
+ "Orlando, Florida": {
+  "nicknames": "The City Beautiful, O-Town, Theme Park Capital of the World",
+  "elevation_ft": "89"
+ },
+ "Port St. Lucie, Florida": {
+  "elevation_ft": "23"
+ },
+ "St. Petersburg, Florida": {
+  "nicknames": "\"St. Pete\"; \"Florida's Sunshine City\"",
+  "elevation_ft": "36"
+ },
+ "Cape Coral, Florida": {
+  "nickname": "[[Venice, Italy|Venice]] of America{{force singular}}",
+  "elevation_ft": "10"
+ },
+ "Hialeah, Florida": {
+  "nickname": "\"The City of Progress\"",
+  "elevation_ft": "0"
+ },
+ "Tallahassee, Florida": {
+  "elevation_ft": "125"
+ },
+ "Fort Lauderdale, Florida": {
+  "nickname": "''[[Venice]] of America''",
+  "elevation_ft": "7"
+ },
+ "Pembroke Pines, Florida": {
+  "elevation_ft": "0"
+ },
+ "Hollywood, Florida": {
+  "nickname": "Diamond of the Gold Coast",
+  "elevation_ft": "13"
+ },
+ "Gainesville, Florida": {
+  "elevation_ft": "171"
+ },
+ "Palm Bay, Florida": {
+  "elevation_ft": "23"
+ },
+ "Miramar, Florida": {
+  "elevation_ft": "7"
+ },
+ "Coral Springs, Florida": {
+  "elevation_ft": "10"
+ },
+ "Lehigh Acres, Florida": {
+  "elevation_ft": "23"
+ },
+ "West Palm Beach, Florida": {
+  "nicknames": "Orchid City, West Palm, WPB",
+  "elevation_ft": "16"
+ },
+ "Lakeland, Florida": {
+  "nickname": "Swan City",
+  "elevation_ft": "203"
+ },
+ "Spring Hill, Florida": {
+  "elevation_ft": "43"
+ },
+ "Brandon, Florida": {
+  "elevation_ft": "39"
+ },
+ "Pompano Beach, Florida": {
+  "elevation_ft": "13",
+  "elevation_m": "4"
+ },
+ "Clearwater, Florida": {
+  "elevation_ft": "66"
+ },
+ "Riverview, Florida": {
+  "elevation_ft": "72"
+ },
+ "Miami Gardens, Florida": {
+  "elevation_ft": "10"
+ },
+ "Davie, Florida": {
+  "elevation_ft": "7"
+ },
+ "Palm Coast, Florida": {
+  "elevation_ft": "30"
+ },
+ "Boca Raton, Florida": {
+  "elevation_ft": "13"
+ },
+ "Fort Myers, Florida": {
+  "elevation_ft": "10"
+ },
+ "Deltona, Florida": {
+  "elevation_ft": "46"
+ },
+ "Plantation, Florida": {
+  "elevation_ft": "9",
+  "elevation_m": "2.75"
+ },
+ "Sunrise, Florida": {
+  "nicknames": "The Center of South Florida",
+  "elevation_ft": "7",
+  "elevation_m": "2"
+ },
+ "North Port, Florida": {
+  "elevation_ft": "16"
+ },
+ "Alafaya, Florida": {
+  "elevation_ft": "75"
+ },
+ "Deerfield Beach, Florida": {
+  "elevation_ft": "13"
+ },
+ "Daytona Beach, Florida": {
+  "nicknames": "\"The World's Most Famous Beach\", \"The Spring Break Capital of the World\"",
+  "elevation_ft": "13"
+ },
+ "Melbourne, Florida": {
+  "nicknames": "The Harbor City, The Midway City",
+  "elevation_ft": "26"
+ },
+ "Homestead, Florida": {
+  "elevation_ft": "3.0",
+  "elevation_m": "0.9"
+ },
+ "Town 'n' Country, Florida": {
+  "elevation_ft": "10"
+ },
+ "Kissimmee, Florida": {
+  "nicknames": "The K, K-Town, Kowtown",
+  "elevation_ft": "72"
+ },
+ "The Villages, Florida": {
+  "nicknames": "Florida's Friendliest Hometown, Boomer Paradise",
+  "elevation_ft": "52"
+ },
+ "Boynton Beach, Florida": {
+  "nicknames": "Boynton, B-town",
+  "elevation_ft": "10"
+ },
+ "Doral, Florida": {
+  "elevation_ft": "0"
+ },
+ "Miami Beach, Florida": {
+  "elevation_ft": "0"
+ },
+ "Largo, Florida": {
+  "nickname": "The City of Progress",
+  "elevation_ft": "3"
+ },
+ "Pine Hills, Florida": {
+  "elevation_ft": "95"
+ },
+ "Kendall, Florida": {
+  "elevation_ft": "7"
+ },
+ "Wesley Chapel, Florida": {
+  "elevation_ft": "75"
+ },
+ "Lauderhill, Florida": {
+  "nickname": "Jamaica Hill",
+  "elevation_ft": "7"
+ },
+ "Poinciana, Florida": {
+  "elevation_ft": "62"
+ },
+ "St. Cloud, Florida": {
+  "nickname": "The Friendly Soldier City",
+  "elevation_ft": "69",
+  "elevation_m": "21"
+ },
+ "Tamarac, Florida": {
+  "elevation_ft": "3"
+ },
+ "Ocala, Florida": {
+  "nicknames": "\"Horse Capital of the World\"<br>\"Brick City\"",
+  "elevation_ft": "69",
+  "elevation_m": "21"
+ },
+ "Delray Beach, Florida": {
+  "nickname": "Delray",
+  "elevation_ft": "16"
+ },
+ "Weston, Florida": {
+  "elevation_ft": "7"
+ },
+ "Sanford, Florida": {
+  "nickname": "\"Celery City\"",
+  "elevation_ft": "39"
+ },
+ "Horizon West, Florida": {
+  "elevation_ft": "108"
+ },
+ "Port Orange, Florida": {
+  "elevation_ft": "36"
+ },
+ "Port Charlotte, Florida": {
+  "elevation_ft": "10"
+ },
+ "Apopka, Florida": {
+  "nickname": "Indoor Foliage Capital of the World",
+  "elevation_ft": "92"
+ },
+ "Four Corners, Florida": {
+  "elevation_ft": "115"
+ },
+ "Palm Beach Gardens, Florida": {
+  "nicknames": "The Gardens, PBG,<br>The Golf Capital of the World",
+  "elevation_ft": "16"
+ },
+ "Wellington, Florida": {
+  "nickname": "\"The Winter Equestrian Capital of the World\"",
+  "elevation_ft": "16"
+ },
+ "Jupiter, Florida": {
+  "elevation_ft": "10"
+ },
+ "Winter Haven, Florida": {
+  "nickname": "\"The Chain of Lakes City\"",
+  "elevation_ft": "161"
+ },
+ "Palm Harbor, Florida": {
+  "elevation_ft": "26"
+ },
+ "North Miami, Florida": {
+  "nickname": "NoMi",
+  "elevation_ft": "7"
+ },
+ "Margate, Florida": {
+  "elevation_ft": "13"
+ },
+ "The Hammocks, Florida": {
+  "elevation_ft": "7"
+ },
+ "Coconut Creek, Florida": {
+  "nickname": "\"Butterfly Capital of the World\"",
+  "elevation_ft": "10"
+ },
+ "Sarasota, Florida": {
+  "nicknames": "Paradise, SRQ, Circus City",
+  "elevation_ft": "20"
+ },
+ "Bradenton, Florida": {
+  "elevation_ft": "16"
+ },
+ "Bonita Springs, Florida": {
+  "nickname": "Gateway to the Gulf",
+  "elevation_ft": "10"
+ },
+ "Fontainebleau, Florida": {
+  "elevation_ft": "7"
+ },
+ "Pensacola, Florida": {
+  "nicknames": "\"The Upside of Florida\", \"The City of Five Flags\", \"Festival City of the South\", and \"Cradle of Naval Aviation\"",
+  "elevation_ft": "33"
+ },
+ "Clermont, Florida": {
+  "elevation_ft": "125"
+ },
+ "Kendale Lakes, Florida": {
+  "elevation_ft": "7"
+ },
+ "Pinellas Park, Florida": {
+  "elevation_ft": "13"
+ },
+ "Westchester, Florida": {
+  "elevation_ft": "7"
+ },
+ "Ocoee, Florida": {
+  "elevation_ft": "157"
+ },
+ "Fort Pierce, Florida": {
+  "nickname": "The Sunrise City",
+  "elevation_ft": "20"
+ },
+ "Country Club, Florida": {
+  "elevation_ft": "7"
+ },
+ "Atlanta": {
+  "nicknames": "The City in a Forest, ATL, The A, Hotlanta, The Gate City,",
+  "elevation_ft": "1050",
+  "elevation_m": "320"
+ },
+ "Columbus, Georgia": {
+  "nicknames": "The Fountain City ''or'' The [[Lowell, Massachusetts|Lowell]] of the South",
+  "elevation_ft": "243",
+  "elevation_m": "74"
+ },
+ "Augusta-Richmond County consolidated government (balance), Georgia": {
+  "nickname": "\"The Garden City\"",
+  "elevation_ft": "136",
+  "elevation_m": "45"
+ },
+ "Augusta, Georgia": {
+  "nickname": "\"The Garden City\"",
+  "elevation_ft": "136",
+  "elevation_m": "45"
+ },
+ "Macon, Georgia": {
+  "elevation_ft": "381",
+  "elevation_m": "116"
+ },
+ "Savannah, Georgia": {
+  "nickname": "\"The Hostess City of the South\"",
+  "elevation_ft": "20"
+ },
+ "Athens-Clarke County unified government (balance), Georgia": {
+  "nickname": "\"The Classic City\"",
+  "elevation_ft": "636",
+  "elevation_m": "194"
+ },
+ "Athens, Georgia": {
+  "nickname": "\"The Classic City\"",
+  "elevation_ft": "636",
+  "elevation_m": "194"
+ },
+ "South Fulton, Georgia": {
+  "elevation_ft": "797"
+ },
+ "Sandy Springs, Georgia": {
+  "elevation_ft": "1093"
+ },
+ "Roswell, Georgia": {
+  "elevation_ft": "1050"
+ },
+ "Warner Robins, Georgia": {
+  "nicknames": "The International City",
+  "elevation_ft": "365",
+  "elevation_m": "93"
+ },
+ "Johns Creek, Georgia": {
+  "elevation_ft": "945"
+ },
+ "Mableton, Georgia": {
+  "elevation_ft": "978",
+  "elevation_m": "298"
+ },
+ "Alpharetta, Georgia": {
+  "elevation_ft": "1066"
+ },
+ "Albany, Georgia": {
+  "nicknames": "The Good Life City, The Artesian City, Egypt of America",
+  "elevation_ft": "203",
+  "elevation_m": "62"
+ },
+ "Marietta, Georgia": {
+  "elevation_ft": "1129",
+  "elevation_m": "344"
+ },
+ "Stonecrest, Georgia": {
+  "elevation_ft": "883"
+ },
+ "Brookhaven, Georgia": {},
+ "Smyrna, Georgia": {
+  "elevation_ft": "1060",
+  "elevation_m": "323"
+ },
+ "Valdosta, Georgia": {
+  "nicknames": "Azalea City, Sportstown, Titletown&nbsp;USA, Winnersville",
+  "elevation_ft": "220",
+  "elevation_m": "67"
+ },
+ "Dunwoody, Georgia": {
+  "elevation_ft": "1129",
+  "elevation_m": "344"
+ },
+ "Honolulu, Hawaii": {
+  "nicknames": "Crossroads of the Pacific, Sheltered Bay, HNL, The Big Pineapple, Paradise",
+  "elevation_ft": "16",
+  "elevation_m": "5"
+ },
+ "East Honolulu, Hawaii": {},
+ "Hilo, Hawaii": {
+  "elevation_ft": "20"
+ },
+ "Pearl City, Hawaii": {
+  "elevation_ft": "89",
+  "elevation_m": "27"
+ },
+ "Waipahu, Hawaii": {
+  "elevation_ft": "62",
+  "elevation_m": "19"
+ },
+ "Kailua, Hawaii": {
+  "elevation_ft": "16",
+  "elevation_m": "5"
+ },
+ "Kāneʻohe, Hawaii": {
+  "elevation_ft": "92",
+  "elevation_m": "28"
+ },
+ "Kahului, Hawaii": {
+  "elevation_ft": "30",
+  "elevation_m": "9"
+ },
+ "Mililani, Hawaii": {
+  "elevation_ft": "627",
+  "elevation_m": "191"
+ },
+ "ʻEwa Gentry, Hawaii": {
+  "elevation_ft": "39",
+  "elevation_m": "12"
+ },
+ "Boise, Idaho": {
+  "nickname": "The City of Trees",
+  "elevation_ft": "2704",
+  "elevation_m": "824"
+ },
+ "Meridian, Idaho": {
+  "nickname": "The Center of the Treasure Valley",
+  "elevation_ft": "2599"
+ },
+ "Nampa, Idaho": {
+  "nickname": "The Heart of the Treasure Valley",
+  "elevation_ft": "2474"
+ },
+ "Caldwell, Idaho": {
+  "nickname": "The Treasure of the Valley",
+  "elevation_ft": "2395"
+ },
+ "Idaho Falls, Idaho": {
+  "elevation_ft": "4712"
+ },
+ "Pocatello, Idaho": {
+  "nicknames": "\"Poky\", \"U.S. Smile Capital\", \"The Gate City\"",
+  "elevation_ft": "4462"
+ },
+ "Coeur d'Alene, Idaho": {
+  "nicknames": "Lake City; CDA",
+  "elevation_ft": "2247"
+ },
+ "Twin Falls, Idaho": {
+  "nickname": "The Iowa Of Idaho",
+  "elevation_ft": "3730",
+  "elevation_m": "1140"
+ },
+ "Post Falls, Idaho": {
+  "elevation_ft": "2202"
+ },
+ "Rexburg, Idaho": {
+  "elevation_ft": "4862"
+ },
+ "Chicago": {
+  "nicknames": "The [[Windy City (nickname)|Windy City]] and [[Nicknames of Chicago|others]]",
+  "elevation_ft": "597.18"
+ },
+ "Aurora, Illinois": {
+  "nickname": "City of Lights",
+  "elevation_ft": "719"
+ },
+ "Naperville, Illinois": {
+  "elevation_ft": "705"
+ },
+ "Joliet, Illinois": {
+  "nickname": "\"Prison City\"",
+  "elevation_ft": "610"
+ },
+ "Rockford, Illinois": {
+  "nicknames": "The Forest City, The Screw Capital of the World, Screw City, Fastener Capital of the World, Reaper City",
+  "elevation_ft": "728"
+ },
+ "Elgin, Illinois": {
+  "nickname": "The City in the Suburbs",
+  "elevation_ft": "810"
+ },
+ "Springfield, Illinois": {
+  "elevation_ft": "600",
+  "elevation_m": "183"
+ },
+ "Peoria, Illinois": {
+  "elevation_ft": "712"
+ },
+ "Champaign, Illinois": {
+  "elevation_ft": "764"
+ },
+ "Waukegan, Illinois": {
+  "nicknames": "WaukTown, Green Town",
+  "elevation_ft": "715"
+ },
+ "Cicero, Illinois": {
+  "elevation_ft": "607"
+ },
+ "Bloomington, Illinois": {
+  "elevation_ft": "840"
+ },
+ "Schaumburg, Illinois": {
+  "elevation_ft": "794"
+ },
+ "Evanston, Illinois": {},
+ "Arlington Heights, Illinois": {
+  "nickname": "Action Heights",
+  "elevation_ft": "712"
+ },
+ "Bolingbrook, Illinois": {
+  "nickname": "The Brook",
+  "elevation_ft": "673"
+ },
+ "Decatur, Illinois": {
+  "nicknames": "Soy City, Soybean Capital of the World, Limitless Decatur",
+  "elevation_ft": "677",
+  "elevation_m": "206"
+ },
+ "Skokie, Illinois": {},
+ "Palatine, Illinois": {
+  "elevation_ft": "741"
+ },
+ "Des Plaines, Illinois": {
+  "elevation_ft": "642"
+ },
+ "Orland Park, Illinois": {
+  "nickname": "\"World's Golf Center\"",
+  "elevation_ft": "686"
+ },
+ "Oak Lawn, Illinois": {},
+ "Mount Prospect, Illinois": {},
+ "Tinley Park, Illinois": {
+  "nickname": "Tinley",
+  "elevation_ft": "738",
+  "elevation_m": "225"
+ },
+ "Berwyn, Illinois": {
+  "nickname": "The City of Homes"
+ },
+ "Wheaton, Illinois": {
+  "elevation_ft": "748"
+ },
+ "Normal, Illinois": {
+  "elevation_ft": "830"
+ },
+ "Oak Park, Illinois": {
+  "elevation_ft": "620"
+ },
+ "Hoffman Estates, Illinois": {
+  "elevation_ft": "824"
+ },
+ "Downers Grove, Illinois": {
+  "elevation_ft": "709"
+ },
+ "Plainfield, Illinois": {
+  "elevation_ft": "610"
+ },
+ "Indianapolis": {
+  "nicknames": "\"Indy\", \"Circle City\", \"[[Crossroads of America]]\", \"Naptown\", and [[Nicknames of Indianapolis|others]]",
+  "elevation_ft": "718",
+  "elevation_m": "219"
+ },
+ "Indianapolis (balance)": {},
+ "Fort Wayne, Indiana": {
+  "nicknames": "\"Summit City\"; \"City of Churches\"; \"City That Saved Itself\"; \"Magnet Wire Capital of the World\"",
+  "elevation_ft": "758"
+ },
+ "Evansville, Indiana": {
+  "nicknames": "Eville, The Ville, River City, Stoplight City, Pocket City, Crescent City",
+  "elevation_ft": "384"
+ },
+ "Carmel, Indiana": {
+  "elevation_ft": "843"
+ },
+ "Fishers, Indiana": {
+  "elevation_ft": "827"
+ },
+ "South Bend, Indiana": {
+  "nicknames": "''The Bend,'' ''Lotion City,'' ''Wagon City,'' ''Metropolis of Northern Indiana''",
+  "elevation_ft": "719"
+ },
+ "Bloomington, Indiana": {
+  "elevation_ft": "804"
+ },
+ "Noblesville, Indiana": {
+  "elevation_ft": "771"
+ },
+ "Hammond, Indiana": {
+  "elevation_ft": "584",
+  "elevation_m": "178"
+ },
+ "Lafayette, Indiana": {
+  "nickname": "\"Star City\"",
+  "elevation_ft": "663"
+ },
+ "Greenwood, Indiana": {
+  "nickname": "City of Pride and Progress{{force singular}}",
+  "elevation_ft": "804"
+ },
+ "Gary, Indiana": {
+  "nicknames": "City of the Century, Magic City, Steel City",
+  "elevation_ft": "597",
+  "elevation_m": "182"
+ },
+ "Westfield, Indiana": {
+  "nickname": "Crossroads of Indiana",
+  "elevation_ft": "902"
+ },
+ "Muncie, Indiana": {
+  "nickname": "Middletown",
+  "elevation_ft": "935"
+ },
+ "Kokomo, Indiana": {
+  "nickname": "City of Firsts",
+  "elevation_ft": "820"
+ },
+ "Terre Haute, Indiana": {
+  "nicknames": "\"Queen City of the [[Wabash River|Wabash]]\"<br />\"[[The Crossroads of America]],\"<br />\"Capital of the Wabash Valley\"",
+  "elevation_ft": "505"
+ },
+ "Anderson, Indiana": {
+  "nickname": "\"Queen City of the Gas Belt\"",
+  "elevation_ft": "863"
+ },
+ "Jeffersonville, Indiana": {
+  "nicknames": "Jeff, The Jeff",
+  "elevation_ft": "538"
+ },
+ "Elkhart, Indiana": {
+  "nicknames": "The City with a Heart, Hart City, The RV Capital of the World",
+  "elevation_ft": "748",
+  "elevation_m": "228"
+ },
+ "Columbus, Indiana": {
+  "nickname": "\"Athens on the Prairie\"",
+  "elevation_ft": "627"
+ },
+ "Mishawaka, Indiana": {
+  "nicknames": "The Princess City, The Mish",
+  "elevation_ft": "738"
+ },
+ "Lawrence, Indiana": {
+  "elevation_ft": "853"
+ },
+ "Des Moines, Iowa": {
+  "nicknames": "\"Niceville USA\", \"[[Hartford, Connecticut|Hartford]] of the West\"",
+  "elevation_ft": "794"
+ },
+ "Cedar Rapids, Iowa": {
+  "nicknames": "City of Five Seasons",
+  "elevation_ft": "810",
+  "elevation_m": "247"
+ },
+ "Davenport, Iowa": {
+  "nickname": "The Most Livable Small City in America",
+  "elevation_ft": "656",
+  "elevation_m": "200"
+ },
+ "Sioux City, Iowa": {
+  "elevation_ft": "1102",
+  "elevation_m": "336"
+ },
+ "Ankeny, Iowa": {
+  "elevation_ft": "988",
+  "elevation_m": "301"
+ },
+ "Iowa City, Iowa": {
+  "nickname": "Athens of Iowa",
+  "elevation_ft": "656"
+ },
+ "West Des Moines, Iowa": {
+  "elevation_ft": "955"
+ },
+ "Ames, Iowa": {
+  "elevation_ft": "922"
+ },
+ "Waterloo, Iowa": {
+  "elevation_ft": "883"
+ },
+ "Council Bluffs, Iowa": {
+  "nickname": "\"The Gateway of the American West\"",
+  "elevation_ft": "978"
+ },
+ "Dubuque, Iowa": {
+  "nicknames": "\"The Key City\", \"City of Five Flags\", \"Masterpiece on the Mississippi\"",
+  "elevation_ft": "817"
+ },
+ "Wichita, Kansas": {
+  "nicknames": "Air Capital of the World, ICT",
+  "elevation_ft": "1303"
+ },
+ "Overland Park, Kansas": {
+  "elevation_ft": "951"
+ },
+ "Kansas City, Kansas": {
+  "nickname": "\"KCK\"",
+  "elevation_ft": "869"
+ },
+ "Olathe, Kansas": {
+  "elevation_ft": "1037"
+ },
+ "Topeka, Kansas": {
+  "elevation_ft": "938"
+ },
+ "Lawrence, Kansas": {
+  "nicknames": "LFK, Larryville",
+  "elevation_ft": "991"
+ },
+ "Shawnee, Kansas": {
+  "elevation_ft": "820"
+ },
+ "Lenexa, Kansas": {
+  "elevation_ft": "873"
+ },
+ "Manhattan, Kansas": {
+  "nicknames": "The Little Apple, [[Manhattan Regional Airport|MHK]]",
+  "elevation_ft": "1056"
+ },
+ "Salina, Kansas": {
+  "elevation_ft": "1227"
+ },
+ "Louisville, Kentucky": {
+  "nicknames": "Derby City, River City, {{nowrap|(The) Gateway to the South}}, Falls City, {{nowrap|The 'Ville}}",
+  "elevation_ft": "466"
+ },
+ "Lexington, Kentucky": {
+  "nicknames": "Athens of the West, Horse Capital of the World",
+  "elevation_ft": "978",
+  "elevation_m": "298"
+ },
+ "Bowling Green, Kentucky": {
+  "elevation_ft": "547"
+ },
+ "Owensboro, Kentucky": {
+  "nickname": "[[Barbecue|BBQ]] Capital of the World",
+  "elevation_ft": "394",
+  "elevation_m": "120"
+ },
+ "Covington, Kentucky": {
+  "elevation_ft": "719"
+ },
+ "Georgetown, Kentucky": {
+  "nickname": "G-Town",
+  "elevation_ft": "883"
+ },
+ "Richmond, Kentucky": {
+  "elevation_ft": "978"
+ },
+ "Elizabethtown, Kentucky": {
+  "nickname": "E-town or E'town",
+  "elevation_ft": "725",
+  "elevation_m": "221"
+ },
+ "Florence, Kentucky": {
+  "elevation_ft": "883"
+ },
+ "Nicholasville, Kentucky": {
+  "elevation_ft": "994"
+ },
+ "New Orleans": {
+  "nicknames": "The Crescent City, The Big Easy, The City That Care Forgot, NOLA, The City of Yes, Hollywood South, The Creole City",
+  "elevation_ft": "−6.5 to 20",
+  "elevation_m": "−2 to 6"
+ },
+ "Baton Rouge, Louisiana": {
+  "nicknames": "Red&nbsp;Stick, The&nbsp;Capital&nbsp;City, B.R.",
+  "elevation_ft": "46",
+  "elevation_m": "14"
+ },
+ "Shreveport, Louisiana": {
+  "elevation_ft": "236"
+ },
+ "Metairie, Louisiana": {
+  "elevation_ft": "3"
+ },
+ "Lafayette, Louisiana": {
+  "nickname": "The Hub City",
+  "elevation_ft": "23"
+ },
+ "Lake Charles, Louisiana": {
+  "nickname": "The Lake Area",
+  "elevation_ft": "15"
+ },
+ "St. George, Louisiana": {},
+ "Kenner, Louisiana": {
+  "elevation_ft": "-7"
+ },
+ "Bossier City, Louisiana": {
+  "elevation_ft": "164"
+ },
+ "Monroe, Louisiana": {
+  "nickname": "Twin Cities of Northeast Louisiana (along with [[West Monroe]])",
+  "elevation_ft": "72",
+  "elevation_m": "22"
+ },
+ "Portland, Maine": {
+  "nickname": "The Forest City",
+  "elevation_ft": "62"
+ },
+ "Lewiston, Maine": {
+  "nickname": "{{hlist|\"The Lew\"|\"[[List of city nicknames in Maine|Little Canada]]\"}}",
+  "elevation_ft": "358"
+ },
+ "Bangor, Maine": {
+  "nickname": "The Queen City of the East",
+  "elevation_ft": "164"
+ },
+ "South Portland, Maine": {
+  "nicknames": "The Park City, SoPo",
+  "elevation_ft": "59"
+ },
+ "Auburn, Maine": {
+  "elevation_ft": "269"
+ },
+ "Sanford (CDP), Maine": {
+  "elevation_ft": "299",
+  "elevation_m": "91"
+ },
+ "Sanford, Maine": {
+  "nickname": "The heart of York County",
+  "elevation_ft": "236"
+ },
+ "Biddeford, Maine": {
+  "nickname": "Twin City",
+  "elevation_ft": "56"
+ },
+ "Westbrook, Maine": {
+  "elevation_ft": "105"
+ },
+ "Saco, Maine": {
+  "elevation_ft": "59"
+ },
+ "Augusta, Maine": {
+  "elevation_ft": "174"
+ },
+ "Baltimore": {
+  "nicknames": "Charm City; B'more; Mobtown",
+  "elevation_ft": "0–480",
+  "elevation_m": "0–150"
+ },
+ "Columbia, Maryland": {
+  "elevation_ft": "407",
+  "elevation_m": "124"
+ },
+ "Frederick, Maryland": {
+  "nickname": "\"The City of Clustered Spires\"",
+  "elevation_ft": "341"
+ },
+ "Germantown, Maryland": {
+  "elevation_ft": "489"
+ },
+ "Waldorf, Maryland": {
+  "elevation_ft": "207",
+  "elevation_m": "63"
+ },
+ "Silver Spring, Maryland": {
+  "elevation_ft": "272"
+ },
+ "Ellicott City, Maryland": {
+  "nicknames": "\"E.C.\", \"Old Ellicott City\", \"Old Ellicott\", \"Historic Ellicott City\"",
+  "elevation_ft": "180",
+  "elevation_m": "55"
+ },
+ "Glen Burnie, Maryland": {
+  "nickname": "\"Chrome City\"",
+  "elevation_ft": "52",
+  "elevation_m": "16"
+ },
+ "Gaithersburg, Maryland": {
+  "nickname": "\"GBurg\"",
+  "elevation_ft": "350"
+ },
+ "Bethesda, Maryland": {
+  "elevation_ft": "354"
+ },
+ "Rockville, Maryland": {
+  "elevation_ft": "449"
+ },
+ "Dundalk, Maryland": {
+  "elevation_ft": "16",
+  "elevation_m": "5"
+ },
+ "Towson, Maryland": {
+  "elevation_ft": "463",
+  "elevation_m": "141"
+ },
+ "Severn, Maryland": {
+  "elevation_ft": "161",
+  "elevation_m": "49"
+ },
+ "Bowie, Maryland": {
+  "nickname": "Levitt Bowie",
+  "elevation_ft": "154",
+  "elevation_m": "47"
+ },
+ "Bel Air South, Maryland": {
+  "elevation_ft": "350"
+ },
+ "Aspen Hill, Maryland": {
+  "elevation_ft": "420"
+ },
+ "Wheaton, Maryland": {
+  "elevation_ft": "384"
+ },
+ "Boston, Massachusetts": {
+  "nicknames": "''Bean Town, Title Town, [[Nicknames of Boston|others]]''",
+  "elevation_ft": "46",
+  "elevation_m": "14"
+ },
+ "Worcester, Massachusetts": {
+  "nicknames": "The City of the Seven Hills, The Heart of the Commonwealth, Wormtown, Woo-town, The Woo",
+  "elevation_ft": "480",
+  "elevation_m": "146"
+ },
+ "Springfield, Massachusetts": {
+  "nicknames": "The City of Firsts; The City of Progress; The City of Homes; A City in the Forest; Hoop&nbsp;City;<br />[[1767 Milestones|The Western Gateway to New England]]",
+  "elevation_ft": "70",
+  "elevation_m": "21"
+ },
+ "Cambridge, Massachusetts": {
+  "elevation_ft": "40",
+  "elevation_m": "12"
+ },
+ "Lowell, Massachusetts": {
+  "nicknames": "Mill City, Spindle City, City of Lights, City of Magic",
+  "elevation_ft": "102",
+  "elevation_m": "31"
+ },
+ "Brockton, Massachusetts": {
+  "nickname": "The City of Champions",
+  "elevation_ft": "112",
+  "elevation_m": "34"
+ },
+ "Lynn, Massachusetts": {
+  "nicknames": "\"City of Sin\" and \"City of Firsts\"",
+  "elevation_ft": "30",
+  "elevation_m": "9"
+ },
+ "Quincy, Massachusetts": {
+  "nickname": "\"City of Presidents\"",
+  "elevation_ft": "30",
+  "elevation_m": "9"
+ },
+ "New Bedford, Massachusetts": {
+  "nickname": "\"The Whaling City\"",
+  "elevation_ft": "50",
+  "elevation_m": "15"
+ },
+ "Fall River, Massachusetts": {
+  "nicknames": "\"The Scholarship City\", \"The River\", \"Spindle City\", \"Where the River Falls\"<br/>\"The City of the Dinner Pail\"",
+  "elevation_ft": "72",
+  "elevation_m": "37"
+ },
+ "Newton, Massachusetts": {
+  "nickname": "\"The Garden City\"",
+  "elevation_ft": "100",
+  "elevation_m": "30"
+ },
+ "Lawrence, Massachusetts": {
+  "elevation_ft": "16"
+ },
+ "Somerville, Massachusetts": {
+  "elevation_ft": "12",
+  "elevation_m": "4"
+ },
+ "Framingham, Massachusetts": {
+  "elevation_ft": "165",
+  "elevation_m": "50"
+ },
+ "Haverhill, Massachusetts": {
+  "nickname": "\"The Queen Slipper City\"",
+  "elevation_ft": "50"
+ },
+ "Malden, Massachusetts": {
+  "elevation_ft": "13",
+  "elevation_m": "4"
+ },
+ "Waltham, Massachusetts": {
+  "nickname": "The Watch City",
+  "elevation_ft": "50",
+  "elevation_m": "15"
+ },
+ "Brookline, Massachusetts": {
+  "elevation_ft": "50",
+  "elevation_m": "15"
+ },
+ "Taunton, Massachusetts": {
+  "nicknames": "The Silver City, The Christmas City",
+  "elevation_ft": "30",
+  "elevation_m": "9"
+ },
+ "Revere, Massachusetts": {
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "Medford, Massachusetts": {
+  "elevation_ft": "14",
+  "elevation_m": "4"
+ },
+ "Weymouth, Massachusetts": {
+  "elevation_ft": "200",
+  "elevation_m": "27"
+ },
+ "Peabody, Massachusetts": {
+  "nicknames": "Tanner City, The Leather City",
+  "elevation_ft": "17",
+  "elevation_m": "5"
+ },
+ "Chicopee, Massachusetts": {
+  "nicknames": "Crossroads of New England<br />Kielbasa Capital of the World",
+  "elevation_ft": "200",
+  "elevation_m": "61"
+ },
+ "Methuen, Massachusetts": {
+  "elevation_ft": "115",
+  "elevation_m": "35"
+ },
+ "Everett, Massachusetts": {
+  "elevation_ft": "10",
+  "elevation_m": "3"
+ },
+ "Barnstable, Massachusetts": {
+  "elevation_ft": "37",
+  "elevation_m": "11"
+ },
+ "Detroit": {
+  "nicknames": "The Motor City, Motown, and [[Nicknames of Detroit|others]]",
+  "elevation_ft": "597"
+ },
+ "Grand Rapids, Michigan": {
+  "nicknames": "GR, Furniture City, Beer City USA",
+  "elevation_ft": "640"
+ },
+ "Warren, Michigan": {
+  "elevation_ft": "623",
+  "elevation_m": "190"
+ },
+ "Sterling Heights, Michigan": {
+  "elevation_ft": "614",
+  "elevation_m": "187"
+ },
+ "Ann Arbor, Michigan": {
+  "nicknames": "A<sup>2</sup>, A2, Tree Town, People's Republic of Ann Arbor",
+  "elevation_ft": "840",
+  "elevation_m": "256"
+ },
+ "Lansing, Michigan": {
+  "nicknames": "Capital City, L-Town, ''\"The Heart of Michigan\"''",
+  "elevation_ft": "853",
+  "elevation_m": "260"
+ },
+ "Dearborn, Michigan": {
+  "elevation_ft": "591",
+  "elevation_m": "180"
+ },
+ "Livonia, Michigan": {
+  "elevation_ft": "640",
+  "elevation_m": "206"
+ },
+ "Troy, Michigan": {
+  "elevation_ft": "748",
+  "elevation_m": "228"
+ },
+ "Farmington Hills, Michigan": {
+  "elevation_ft": "860",
+  "elevation_m": "262"
+ },
+ "Westland, Michigan": {
+  "nickname": "''An All American City''",
+  "elevation_ft": "666",
+  "elevation_m": "199"
+ },
+ "Flint, Michigan": {
+  "nickname": "{{ubl|Vehicle City (official)|Flint Town (unofficial)}}",
+  "elevation_ft": "755",
+  "elevation_m": "230"
+ },
+ "Wyoming, Michigan": {
+  "elevation_ft": "666"
+ },
+ "Rochester Hills, Michigan": {
+  "elevation_ft": "820",
+  "elevation_m": "250"
+ },
+ "Southfield, Michigan": {
+  "nicknames": "SFLD",
+  "elevation_ft": "682",
+  "elevation_m": "208"
+ },
+ "Kalamazoo, Michigan": {
+  "nicknames": "The Mall City, Kzoo, The Zoo",
+  "elevation_ft": "784",
+  "elevation_m": "239"
+ },
+ "Novi, Michigan": {
+  "elevation_ft": "909",
+  "elevation_m": "277"
+ },
+ "Pontiac, Michigan": {
+  "nicknames": "The Yak, Yaktown",
+  "elevation_ft": "922",
+  "elevation_m": "281"
+ },
+ "Taylor, Michigan": {
+  "nickname": "Taylortucky",
+  "elevation_ft": "614",
+  "elevation_m": "187"
+ },
+ "Dearborn Heights, Michigan": {
+  "elevation_ft": "620",
+  "elevation_m": "185"
+ },
+ "St. Clair Shores, Michigan": {
+  "nicknames": "The Shores, SCS, St. Clair",
+  "elevation_ft": "577",
+  "elevation_m": "176"
+ },
+ "Royal Oak, Michigan": {
+  "nicknames": "The City of Trees, Roak",
+  "elevation_ft": "663",
+  "elevation_m": "202"
+ },
+ "Kentwood, Michigan": {
+  "elevation_ft": "738"
+ },
+ "Battle Creek, Michigan": {
+  "nickname": "\"Cereal City\"",
+  "elevation_ft": "840",
+  "elevation_m": "256"
+ },
+ "Minneapolis, Minnesota": {
+  "nicknames": "\"City of Lakes\", \"Mill City\", \"Twin Cities\" (with [[Saint Paul, Minnesota|Saint Paul]]), \"Mini Apple\"",
+  "elevation_ft": "830"
+ },
+ "Saint Paul, Minnesota": {
+  "nicknames": "The Capital City, The Saintly City, Twin Cities (with [[Minneapolis]]), Pig's Eye, STP, Last City of the East",
+  "elevation_ft": "824",
+  "elevation_m": "251"
+ },
+ "Rochester, Minnesota": {
+  "nickname": "Med City, Roch",
+  "elevation_ft": "1129",
+  "elevation_m": "344"
+ },
+ "Bloomington, Minnesota": {
+  "elevation_ft": "827",
+  "elevation_m": "252"
+ },
+ "Duluth, Minnesota": {
+  "nickname": "Zenith City of the Unsalted Seas",
+  "elevation_ft": "705",
+  "elevation_m": "215"
+ },
+ "Brooklyn Park, Minnesota": {
+  "elevation_ft": "866",
+  "elevation_m": "264"
+ },
+ "Woodbury, Minnesota": {
+  "elevation_ft": "978",
+  "elevation_m": "298"
+ },
+ "Lakeville, Minnesota": {
+  "elevation_ft": "1086"
+ },
+ "Plymouth, Minnesota": {
+  "elevation_ft": "971",
+  "elevation_m": "296"
+ },
+ "Blaine, Minnesota": {
+  "elevation_ft": "906",
+  "elevation_m": "276"
+ },
+ "Maple Grove, Minnesota": {
+  "nicknames": "The Grove, The Groove, \"MG\"",
+  "elevation_ft": "935",
+  "elevation_m": "285"
+ },
+ "St. Cloud, Minnesota": {
+  "nickname": "\"The Granite City\"",
+  "elevation_ft": "1027",
+  "elevation_m": "313"
+ },
+ "Eagan, Minnesota": {
+  "elevation_ft": "958",
+  "elevation_m": "288"
+ },
+ "Burnsville, Minnesota": {
+  "nickname": "South of the River",
+  "elevation_ft": "971",
+  "elevation_m": "297"
+ },
+ "Coon Rapids, Minnesota": {
+  "elevation_ft": "863",
+  "elevation_m": "263"
+ },
+ "Eden Prairie, Minnesota": {
+  "nickname": "EP",
+  "elevation_ft": "886",
+  "elevation_m": "270"
+ },
+ "Apple Valley, Minnesota": {
+  "elevation_ft": "974"
+ },
+ "Edina, Minnesota": {
+  "elevation_ft": "922",
+  "elevation_m": "281"
+ },
+ "Minnetonka, Minnesota": {
+  "elevation_ft": "889",
+  "elevation_m": "271"
+ },
+ "St. Louis Park, Minnesota": {
+  "nickname": "SLP",
+  "elevation_ft": "899",
+  "elevation_m": "274"
+ },
+ "Jackson, Mississippi": {
+  "nicknames": "Jacktown, Ju-City, JXN,  The 601, \"Crossroads of the South\"",
+  "elevation_ft": "361"
+ },
+ "Gulfport, Mississippi": {
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "Southaven, Mississippi": {
+  "nicknames": "The Top of Mississippi<br>The Tip of the ‘Sip",
+  "elevation_ft": "322",
+  "elevation_m": "98"
+ },
+ "Hattiesburg, Mississippi": {
+  "nickname": "The Hub City",
+  "elevation_ft": "171",
+  "elevation_m": "52"
+ },
+ "Biloxi, Mississippi": {
+  "nicknames": "“The Playground of the South”\n\"Buck City\"",
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "Olive Branch, Mississippi": {
+  "elevation_ft": "387"
+ },
+ "Tupelo, Mississippi": {
+  "elevation_ft": "279",
+  "elevation_m": "85"
+ },
+ "Meridian, Mississippi": {
+  "nickname": "Queen City",
+  "elevation_ft": "344",
+  "elevation_m": "105"
+ },
+ "Pearl, Mississippi": {
+  "nickname": "\"The Pearl of the South\"",
+  "elevation_ft": "276",
+  "elevation_m": "84.1"
+ },
+ "Madison, Mississippi": {
+  "nicknames": "\"Madison the City\", \"The Brick City\"",
+  "elevation_ft": "308"
+ },
+ "Kansas City, Missouri": {
+  "nicknames": "\"KC\", \"KCMO\", the \"City of Fountains\", \"Paris of the Plains\", and the \"Heart of America\"",
+  "elevation_ft": "910",
+  "elevation_m": "277"
+ },
+ "St. Louis": {
+  "nicknames": "\"Gateway to the West\", The Gateway City, Mound City, The Lou, Rome of the West, River City, The STL, St. Lou",
+  "elevation_ft": "466"
+ },
+ "Springfield, Missouri": {
+  "nicknames": "The \"Queen City of the Ozarks\"<br />\"Birthplace of Route&nbsp;66” “SpringMO” “SpringVegas”",
+  "elevation_ft": "1299"
+ },
+ "Columbia, Missouri": {
+  "nicknames": "\"The Athens of Missouri\", or CoMo",
+  "elevation_ft": "761"
+ },
+ "Independence, Missouri": {
+  "elevation_ft": "863"
+ },
+ "Lee's Summit, Missouri": {
+  "elevation_ft": "1028"
+ },
+ "O'Fallon, Missouri": {
+  "elevation_ft": "614"
+ },
+ "St. Charles, Missouri": {},
+ "St. Joseph, Missouri": {
+  "nicknames": "St. Joe; The City Worthwhile",
+  "elevation_ft": "889"
+ },
+ "Blue Springs, Missouri": {
+  "elevation_ft": "974",
+  "elevation_m": "297"
+ },
+ "St. Peters, Missouri": {},
+ "Joplin, Missouri": {
+  "nicknames": "\"JoMo\", \"The J\", \"J-Town\", and \"Go Town USA\"",
+  "elevation_ft": "1004"
+ },
+ "Florissant, Missouri": {
+  "elevation_ft": "528"
+ },
+ "Billings, Montana": {
+  "nicknames": "\"Magic City\", \"City by the [[Rimrocks|Rims]]\", \"Star of the Big Sky Country\", \"Montana's Trailhead\"",
+  "elevation_ft": "3212"
+ },
+ "Missoula, Montana": {
+  "nicknames": "Zootown, The Garden City, and the Zoo",
+  "elevation_ft": "3169",
+  "elevation_m": "966"
+ },
+ "Great Falls, Montana": {
+  "nicknames": "\"The Electric City\", \"The River City\", \"The Western Art Capital of The World\"",
+  "elevation_ft": "3333"
+ },
+ "Bozeman, Montana": {
+  "elevation_ft": "4817"
+ },
+ "Butte, Montana": {
+  "nickname": "Butte America",
+  "elevation_ft": "5824"
+ },
+ "Helena, Montana": {
+  "nicknames": "Queen City of the Rockies, The Capital City",
+  "elevation_ft": "3996"
+ },
+ "Kalispell, Montana": {
+  "elevation_ft": "3084"
+ },
+ "Belgrade, Montana": {
+  "elevation_ft": "4449",
+  "elevation_m": "1356"
+ },
+ "Anaconda, Montana": {
+  "elevation_ft": "5335"
+ },
+ "Evergreen, Montana": {
+  "elevation_ft": "2923"
+ },
+ "Omaha, Nebraska": {
+  "nicknames": "Gate-city of the West, The Big O",
+  "elevation_ft": "1060"
+ },
+ "Lincoln, Nebraska": {
+  "nickname": "Star City",
+  "elevation_ft": "1201",
+  "elevation_m": "366"
+ },
+ "Bellevue, Nebraska": {
+  "elevation_ft": "1001"
+ },
+ "Grand Island, Nebraska": {
+  "nickname": "La Grande Ile",
+  "elevation_ft": "1870"
+ },
+ "Kearney, Nebraska": {
+  "elevation_ft": "2152"
+ },
+ "Fremont, Nebraska": {
+  "nicknames": "FMT, The Mont",
+  "elevation_ft": "1188"
+ },
+ "Norfolk, Nebraska": {
+  "elevation_ft": "1532"
+ },
+ "Columbus, Nebraska": {
+  "elevation_ft": "1447"
+ },
+ "Papillion, Nebraska": {
+  "elevation_ft": "1032"
+ },
+ "Hastings, Nebraska": {
+  "elevation_ft": "1926"
+ },
+ "Las Vegas": {
+  "nicknames": "\"Vegas\", \"Sin City\", \"City of Lights\", \"The Gambling Capital of the World\", \"[[The Entertainment Capital of the World]]', \"Capital of Second Chances\", \"The Marriage Capital of the World\", \"The Silver City\", \"America's Playground\", \"Hawaii's Ninth Island\"",
+  "elevation_ft": "2001",
+  "elevation_m": "610"
+ },
+ "Henderson, Nevada": {
+  "elevation_ft": "1864",
+  "elevation_m": "569"
+ },
+ "North Las Vegas, Nevada": {
+  "nicknames": "North Town",
+  "elevation_ft": "2205",
+  "elevation_m": "672"
+ },
+ "Reno, Nevada": {
+  "nickname": "\"The Biggest Little City in the World\"",
+  "elevation_ft": "4505"
+ },
+ "Enterprise, Nevada": {
+  "elevation_ft": "2552",
+  "elevation_m": "778"
+ },
+ "Spring Valley, Nevada": {
+  "elevation_ft": "2365",
+  "elevation_m": "721"
+ },
+ "Sunrise Manor, Nevada": {
+  "elevation_ft": "1821",
+  "elevation_m": "555"
+ },
+ "Paradise, Nevada": {
+  "elevation_ft": "2057",
+  "elevation_m": "627"
+ },
+ "Sparks, Nevada": {
+  "nicknames": "The Rail City, City of Promise",
+  "elevation_ft": "4413",
+  "elevation_m": "1345"
+ },
+ "Carson City, Nevada": {
+  "nicknames": "Carson, CC, The Capitol",
+  "elevation_ft": "4682",
+  "elevation_m": "1427"
+ },
+ "Manchester, New Hampshire": {
+  "nicknames": "Queen City, Manch Vegas",
+  "elevation_ft": "210"
+ },
+ "Nashua, New Hampshire": {
+  "nickname": "New Hampshire's Gate City",
+  "elevation_ft": "151",
+  "elevation_m": "46"
+ },
+ "Concord, New Hampshire": {
+  "elevation_ft": "272",
+  "elevation_m": "83"
+ },
+ "Dover, New Hampshire": {
+  "nickname": "The Garrison City",
+  "elevation_ft": "118"
+ },
+ "Rochester, New Hampshire": {
+  "nickname": "The [[Lilac]] City",
+  "elevation_ft": "177"
+ },
+ "Keene, New Hampshire": {
+  "nickname": "Elm City",
+  "elevation_ft": "479"
+ },
+ "Portsmouth, New Hampshire": {
+  "elevation_ft": "66"
+ },
+ "Derry (CDP), New Hampshire": {
+  "elevation_ft": "456"
+ },
+ "Laconia, New Hampshire": {
+  "elevation_ft": "587"
+ },
+ "Lebanon, New Hampshire": {
+  "elevation_ft": "607"
+ },
+ "Newark, New Jersey": {
+  "nicknames": "Brick City, the Gateway City, Renaissance Newark, Nork",
+  "elevation_ft": "13"
+ },
+ "Jersey City, New Jersey": {
+  "nicknames": "''JC'', ''Chilltown'', ''The [[Sixth Borough]]'', ''America's Golden Door'', ''[[Wall Street West]]''",
+  "elevation_ft": "20"
+ },
+ "Paterson, New Jersey": {
+  "nickname": "The Silk City",
+  "elevation_ft": "112"
+ },
+ "Elizabeth, New Jersey": {
+  "elevation_ft": "16"
+ },
+ "Toms River (CDP), New Jersey": {
+  "elevation_ft": "62",
+  "elevation_m": "19"
+ },
+ "Trenton, New Jersey": {
+  "nicknames": "''The Capital City'',<br>''Turning Point of the Revolution''",
+  "elevation_ft": "59",
+  "elevation_m": "18"
+ },
+ "Clifton, New Jersey": {
+  "nickname": "\"The City that Cares\"",
+  "elevation_ft": "131"
+ },
+ "Bayonne, New Jersey": {
+  "elevation_ft": "7"
+ },
+ "East Orange, New Jersey": {
+  "elevation_ft": "177"
+ },
+ "Camden, New Jersey": {
+  "elevation_ft": "16",
+  "elevation_m": "5"
+ },
+ "Passaic, New Jersey": {
+  "elevation_ft": "98"
+ },
+ "Lakewood (CDP), New Jersey": {
+  "elevation_ft": "66",
+  "elevation_m": "20"
+ },
+ "Union City, New Jersey": {
+  "nicknames": "\"Embroidery Capital of the United States\"<br>\"Havana on the Hudson\"<br>\"Little Havana on the Hudson\"",
+  "elevation_ft": "190"
+ },
+ "Vineland, New Jersey": {
+  "elevation_ft": "98"
+ },
+ "Hoboken, New Jersey": {
+  "nickname": "The Mile Square City",
+  "elevation_ft": "23"
+ },
+ "Plainfield, New Jersey": {
+  "nickname": "The Queen City",
+  "elevation_ft": "95"
+ },
+ "New Brunswick, New Jersey": {
+  "nicknames": "''Hub City'', ''Healthcare City''",
+  "elevation_ft": "62"
+ },
+ "Perth Amboy, New Jersey": {
+  "elevation_ft": "62"
+ },
+ "West New York, New Jersey": {
+  "elevation_ft": "151"
+ },
+ "Albuquerque, New Mexico": {
+  "nicknames": "The Duke City, ABQ, The 505, Burque, The Q.",
+  "elevation_ft": "5312"
+ },
+ "Las Cruces, New Mexico": {
+  "nickname": "The City of the Crosses",
+  "elevation_ft": "3901"
+ },
+ "Rio Rancho, New Mexico": {
+  "nickname": "\"The City of Vision\"",
+  "elevation_ft": "5509"
+ },
+ "Santa Fe, New Mexico": {
+  "nickname": "The City Different",
+  "elevation_ft": "6998",
+  "elevation_m": "2133"
+ },
+ "Roswell, New Mexico": {
+  "elevation_ft": "3616",
+  "elevation_m": "1102"
+ },
+ "Farmington, New Mexico": {
+  "nickname": "Baseball Town, U.S.A.{{force singular}}",
+  "elevation_ft": "5473"
+ },
+ "Hobbs, New Mexico": {
+  "elevation_ft": "3642"
+ },
+ "Clovis, New Mexico": {
+  "elevation_ft": "4269",
+  "elevation_m": "1301"
+ },
+ "South Valley, New Mexico": {
+  "elevation_ft": "4928"
+ },
+ "Carlsbad, New Mexico": {
+  "nicknames": "The Cavern City<br />The Pearl on the Pecos",
+  "elevation_ft": "3127"
+ },
+ "New York, New York": {
+  "nicknames": "[[The Big Apple]], [[The City That Never Sleeps (nickname)|The City That Never Sleeps]], [[Salmagundi (periodical)|Gotham]], and [[Nicknames of New York City|others]]"
+ },
+ "Buffalo, New York": {
+  "nicknames": "Queen City, City of Good Neighbors, City of No Illusions, Nickel City, Queen City of the Lakes, City of Light, The Electric City, City of Trees",
+  "elevation_ft": "600"
+ },
+ "Yonkers, New York": {
+  "nicknames": "The Central City, The City of Gracious Living, The City of Seven Hills, The City with Vision, The [[Sixth borough|Sixth Borough]], The Terrace City",
+  "elevation_ft": "82",
+  "elevation_m": "25"
+ },
+ "Rochester, New York": {
+  "nicknames": "\"The Flour City\", \"The Flower City\", \"The World's Image Center\", \"Smugtown\""
+ },
+ "Syracuse, New York": {
+  "nickname": "The Salt City, Siberacuse (colloquially, due to extreme cold climate)",
+  "elevation_ft": "380–440",
+  "elevation_m": "116–135"
+ },
+ "Albany, New York": {
+  "nicknames": "{{hlist|Smalbany{{efn|Also spelled Smallbany}}|The 518{{efn|For the [[Area code 518|area code]].}}|<br>Cradle of the Union{{efn|''[[MSN Encarta]]'' states that this nickname \"resulted from the meeting here in 1754 of the Albany Congress, which adopted Benjamin Franklin's Plan of Union, the first formal proposal to unite the colonies.}}}}",
+  "elevation_ft": "148"
+ },
+ "New Rochelle, New York": {
+  "nickname": "Queen City of the Sound",
+  "elevation_ft": "85",
+  "elevation_m": "26"
+ },
+ "Cheektowaga, New York": {
+  "elevation_ft": "662"
+ },
+ "Mount Vernon, New York": {
+  "elevation_ft": "108",
+  "elevation_m": "33"
+ },
+ "Schenectady, New York": {
+  "nickname": "The Electric City"
+ },
+ "Utica, New York": {
+  "nicknames": "The Handshake City, Sin City, Elm Tree City{{sfn|Bottini|Davis|2007|p=90}}",
+  "elevation_ft": "456",
+  "elevation_m": "139"
+ },
+ "White Plains, New York": {
+  "nickname": "The Birthplace of New York State",
+  "elevation_ft": "213"
+ },
+ "Hempstead (village), New York": {},
+ "Tonawanda (CDP), New York": {
+  "elevation_ft": "574",
+  "elevation_m": "175"
+ },
+ "Levittown, New York": {
+  "elevation_ft": "82",
+  "elevation_m": "25"
+ },
+ "Troy, New York": {
+  "nickname": "The Collar City"
+ },
+ "Irondequoit, New York": {
+  "elevation_ft": "368"
+ },
+ "Charlotte, North Carolina": {
+  "nicknames": "The Queen City, The QC, CLT, The Hornet's Nest",
+  "elevation_ft": "746"
+ },
+ "Raleigh, North Carolina": {
+  "nicknames": "City of Oaks, Raleigh Wood, Oak City, Capital City",
+  "elevation_ft": "331"
+ },
+ "Greensboro, North Carolina": {
+  "nicknames": "The Gate City, The GSO, G'Boro, The Boro, Tournament Town",
+  "elevation_ft": "897"
+ },
+ "Durham, North Carolina": {
+  "nicknames": "Bull City, City of Medicine",
+  "elevation_ft": "404"
+ },
+ "Winston-Salem, North Carolina": {
+  "nicknames": "Twin City, Camel City",
+  "elevation_ft": "791"
+ },
+ "Fayetteville, North Carolina": {
+  "nicknames": "America's Can Do City, All-American City, City of Dogwoods, Fayettenam, The Ville, 2-6, The Soldier City",
+  "elevation_ft": "223"
+ },
+ "Cary, North Carolina": {
+  "elevation_ft": "410"
+ },
+ "Wilmington, North Carolina": {
+  "nicknames": "The Port City, ILM, Hollywood of the East, Wilmywood",
+  "elevation_ft": "43"
+ },
+ "High Point, North Carolina": {
+  "nicknames": "North Carolina's International City, Home Furnishings and Hosiery Capital of the World, City of the Future, HP, Hype Point, The Pocket, The Point",
+  "elevation_ft": "866"
+ },
+ "Concord, North Carolina": {
+  "elevation_ft": "633"
+ },
+ "Greenville, North Carolina": {
+  "nicknames": "The Emerald City, G-Vegas",
+  "elevation_ft": "26"
+ },
+ "Asheville, North Carolina": {
+  "nicknames": "AVL, Land of the Sky",
+  "elevation_ft": "2134",
+  "elevation_m": "650"
+ },
+ "Gastonia, North Carolina": {
+  "nickname": "Spindle City",
+  "elevation_ft": "738"
+ },
+ "Apex, North Carolina": {
+  "nickname": "Peak City",
+  "elevation_ft": "390"
+ },
+ "Jacksonville, North Carolina": {
+  "nicknames": "J-Ville, J-Vegas, Marine Town",
+  "elevation_ft": "0"
+ },
+ "Huntersville, North Carolina": {
+  "nickname": "H-Town",
+  "elevation_ft": "692"
+ },
+ "Chapel Hill, North Carolina": {
+  "nickname": "Southern Part of Heaven",
+  "elevation_ft": "262"
+ },
+ "Kannapolis, North Carolina": {
+  "nickname": "City of Looms",
+  "elevation_ft": "764"
+ },
+ "Burlington, North Carolina": {
+  "elevation_ft": "673"
+ },
+ "Wake Forest, North Carolina": {
+  "elevation_ft": "295"
+ },
+ "Mooresville, North Carolina": {
+  "nickname": "Race City USA",
+  "elevation_ft": "840"
+ },
+ "Rocky Mount, North Carolina": {
+  "nickname": "City On The Rise",
+  "elevation_ft": "85"
+ },
+ "Holly Springs, North Carolina": {
+  "elevation_ft": "423"
+ },
+ "Fargo, North Dakota": {
+  "elevation_ft": "906",
+  "elevation_m": "276"
+ },
+ "Bismarck, North Dakota": {
+  "elevation_ft": "1745",
+  "elevation_m": "532"
+ },
+ "Grand Forks, North Dakota": {
+  "nicknames": "\"The Grand Cities\", \"The Forks\"",
+  "elevation_ft": "837",
+  "elevation_m": "255"
+ },
+ "Minot, North Dakota": {
+  "nickname": "\"The Magic City\"",
+  "elevation_ft": "1549",
+  "elevation_m": "472"
+ },
+ "West Fargo, North Dakota": {
+  "elevation_ft": "899",
+  "elevation_m": "274"
+ },
+ "Williston, North Dakota": {
+  "elevation_ft": "1916",
+  "elevation_m": "584"
+ },
+ "Dickinson, North Dakota": {
+  "nickname": "Queen City",
+  "elevation_ft": "2461",
+  "elevation_m": "750"
+ },
+ "Mandan, North Dakota": {
+  "elevation_ft": "1647",
+  "elevation_m": "502"
+ },
+ "Jamestown, North Dakota": {
+  "nickname": "Pride of the Prairie",
+  "elevation_ft": "1427",
+  "elevation_m": "435"
+ },
+ "Wahpeton, North Dakota": {
+  "nickname": "Home of the '''[[Wahpper]]'''",
+  "elevation_ft": "965",
+  "elevation_m": "294"
+ },
+ "Columbus, Ohio": {
+  "elevation_ft": "791"
+ },
+ "Cleveland": {
+  "nicknames": "[[The Forest City]]<br />(for more, see [[Nicknames of Cleveland|full list]])",
+  "elevation_ft": "653"
+ },
+ "Cincinnati": {
+  "nicknames": "Cincy, The Queen City, Paris of America, [[Cincinnati nicknames|and others]]",
+  "elevation_ft": "742"
+ },
+ "Toledo, Ohio": {
+  "nickname": "The Glass City",
+  "elevation_ft": "604"
+ },
+ "Akron, Ohio": {
+  "nicknames": "{{nowrap|Rubber City}}, {{nowrap|City of Invention}}, {{nowrap|Rubber Capital of the World (''historical'')}}",
+  "elevation_ft": "945"
+ },
+ "Dayton, Ohio": {
+  "nicknames": "The Gem City, Birthplace of Aviation, The Land of Funk",
+  "elevation_ft": "742"
+ },
+ "Parma, Ohio": {
+  "nickname": "The Garden City",
+  "elevation_ft": "945",
+  "elevation_m": "288"
+ },
+ "Canton, Ohio": {
+  "nickname": "Hall of Fame City",
+  "elevation_ft": "1066",
+  "elevation_m": "325"
+ },
+ "Lorain, Ohio": {
+  "nicknames": "International City, Steel City",
+  "elevation_ft": "617"
+ },
+ "Hamilton, Ohio": {
+  "elevation_ft": "587"
+ },
+ "Youngstown, Ohio": {
+  "nickname": "Steel Town; The YO; Little Chicago; Y-Town",
+  "elevation_ft": "856",
+  "elevation_m": "261"
+ },
+ "Springfield, Ohio": {
+  "nicknames": "The Home City, The Rose City (City of Roses), The Champion City, The Field",
+  "elevation_ft": "929"
+ },
+ "Kettering, Ohio": {
+  "elevation_ft": "1007"
+ },
+ "Elyria, Ohio": {
+  "elevation_ft": "709"
+ },
+ "Middletown, Ohio": {
+  "elevation_ft": "742"
+ },
+ "Newark, Ohio": {
+  "elevation_ft": "853"
+ },
+ "Cuyahoga Falls, Ohio": {
+  "elevation_ft": "1040"
+ },
+ "Oklahoma City": {
+  "nicknames": "\"OKC\", \"The 405\", “Loud City”, \"Oklas\", \"Boomtown\", \"The Big Friendly\", \"The City\",",
+  "elevation_ft": "1198"
+ },
+ "Tulsa, Oklahoma": {
+  "nicknames": "\"Oil Capital of the World\", \"Tulsey Town\", \"T-Town\", \"[[Green Country]]\", \"Buckle of the [[Bible Belt]]\", \"The [[Area code 918|918]]\" \"The Town\"",
+  "elevation_ft": "722",
+  "elevation_m": "194"
+ },
+ "Norman, Oklahoma": {
+  "elevation_ft": "1125"
+ },
+ "Broken Arrow, Oklahoma": {
+  "elevation_ft": "755",
+  "elevation_m": "230"
+ },
+ "Edmond, Oklahoma": {
+  "elevation_ft": "1122",
+  "elevation_m": "342"
+ },
+ "Lawton, Oklahoma": {
+  "elevation_ft": "1145"
+ },
+ "Moore, Oklahoma": {
+  "elevation_ft": "1207"
+ },
+ "Midwest City, Oklahoma": {
+  "elevation_ft": "1221"
+ },
+ "Enid, Oklahoma": {
+  "nicknames": "\"Wheat Capital of the United States\", \"Queen Wheat City of Oklahoma\"",
+  "elevation_ft": "1250"
+ },
+ "Stillwater, Oklahoma": {
+  "nicknames": "\"Stilly\",\n\"America's Friendliest College Town\"",
+  "elevation_ft": "948"
+ },
+ "Portland, Oregon": {
+  "nicknames": "\"Rose City\"; \"Stumptown\"; \"PDX\"; see [[Nicknames of Portland, Oregon]] for a complete list.",
+  "elevation_ft": "161"
+ },
+ "Salem, Oregon": {
+  "nickname": "Cherry City",
+  "elevation_ft": "177",
+  "elevation_m": "54"
+ },
+ "Eugene, Oregon": {
+  "nicknames": "Emerald Valley, The Emerald City, Track Town USA",
+  "elevation_ft": "413"
+ },
+ "Gresham, Oregon": {
+  "elevation_ft": "384",
+  "elevation_m": "117"
+ },
+ "Hillsboro, Oregon": {
+  "nickname": "The Hub City",
+  "elevation_ft": "148",
+  "elevation_m": "45"
+ },
+ "Bend, Oregon": {
+  "elevation_ft": "3642"
+ },
+ "Beaverton, Oregon": {
+  "elevation_ft": "236"
+ },
+ "Medford, Oregon": {
+  "nickname": "\"Pear Blossom City\"",
+  "elevation_ft": "1434"
+ },
+ "Corvallis, Oregon": {
+  "elevation_ft": "256"
+ },
+ "Springfield, Oregon": {
+  "nicknames": "Simpson Land, Springtucky",
+  "elevation_ft": "476"
+ },
+ "Tigard, Oregon": {
+  "elevation_ft": "240"
+ },
+ "Albany, Oregon": {
+  "nickname": "Hub of the Valley, Grass Seed Capital, Rare Metals Capital",
+  "elevation_ft": "226"
+ },
+ "Aloha, Oregon": {
+  "elevation_ft": "200"
+ },
+ "Philadelphia": {
+  "nicknames": "\"Philly\", \"The City of Brotherly Love\", [[Nicknames of Philadelphia|others]]",
+  "elevation_ft": "39",
+  "elevation_m": "12"
+ },
+ "Pittsburgh": {
+  "nicknames": "[[Nicknames of Pittsburgh|City of Bridges, Steel City,<br />City of Champions, The 'Burgh, The Paris of Appalachia]]"
+ },
+ "Allentown, Pennsylvania": {
+  "nicknames": "\"The A\" \"The Queen City\", \"A-Town\", \"Band City USA\", \"Peanut City\", \"Silk City\".",
+  "elevation_ft": "338",
+  "elevation_m": "103"
+ },
+ "Reading, Pennsylvania": {
+  "nicknames": "Pretzel Capital of the World, Pretzel City",
+  "elevation_ft": "305",
+  "elevation_m": "93"
+ },
+ "Erie, Pennsylvania": {
+  "nicknames": "{{Nowrap|The Bay City}}, {{Nowrap|The Flagship City}}, {{Nowrap|The Gem City}}, {{Nowrap|The Lake City}}",
+  "elevation_ft": "728"
+ },
+ "Bethlehem, Pennsylvania": {
+  "nicknames": "The Christmas City and Steel City",
+  "elevation_ft": "360",
+  "elevation_m": "109.728"
+ },
+ "Scranton, Pennsylvania": {
+  "nicknames": "The Electric City, The All America City, Steamtown, The Anthracite Capital of the World",
+  "elevation_ft": "745",
+  "elevation_m": "227"
+ },
+ "Lancaster, Pennsylvania": {
+  "nickname": "The Red Rose City",
+  "elevation_ft": "368"
+ },
+ "Levittown, Pennsylvania": {
+  "elevation_ft": "30"
+ },
+ "Harrisburg, Pennsylvania": {
+  "nickname": "\"The Burg\", \"The Other Burg\"",
+  "elevation_ft": "335",
+  "elevation_m": "102"
+ },
+ "Providence, Rhode Island": {
+  "nicknames": "The Creative Capital, the Renaissance City, the Divine City, PVD, Prov",
+  "elevation_ft": "10"
+ },
+ "Cranston, Rhode Island": {
+  "elevation_ft": "66"
+ },
+ "Warwick, Rhode Island": {
+  "elevation_ft": "20"
+ },
+ "Pawtucket, Rhode Island": {
+  "elevation_ft": "39"
+ },
+ "East Providence, Rhode Island": {
+  "elevation_ft": "62"
+ },
+ "Woonsocket, Rhode Island": {
+  "elevation_ft": "194"
+ },
+ "Newport, Rhode Island": {
+  "nickname": "{{Plain list|\n* City by the Sea\n* Sailing Capital of the World\n* Queen of Summer Resort\n* America's Society Capital\n}}",
+  "elevation_ft": "26"
+ },
+ "Central Falls, Rhode Island": {
+  "elevation_ft": "85"
+ },
+ "Westerly (CDP), Rhode Island": {},
+ "Valley Falls, Rhode Island": {
+  "elevation_ft": "105",
+  "elevation_m": "32"
+ },
+ "Charleston, South Carolina": {
+  "nicknames": "The Holy City, Chucktown",
+  "elevation_ft": "3"
+ },
+ "Columbia, South Carolina": {
+  "nicknames": "Cola, Capital City, River City, Soda City",
+  "elevation_ft": "276"
+ },
+ "North Charleston, South Carolina": {
+  "elevation_ft": "39"
+ },
+ "Mount Pleasant, South Carolina": {
+  "elevation_ft": "13"
+ },
+ "Rock Hill, South Carolina": {
+  "nicknames": "The Gateway to South Carolina, Football City USA",
+  "elevation_ft": "620"
+ },
+ "Greenville, South Carolina": {
+  "nicknames": "G-Vegas/Green Vegas, GVL",
+  "elevation_ft": "955"
+ },
+ "Summerville, South Carolina": {
+  "nickname": "Flowertown",
+  "elevation_ft": "43"
+ },
+ "Goose Creek, South Carolina": {
+  "elevation_ft": "13"
+ },
+ "Greer, South Carolina": {
+  "elevation_ft": "974",
+  "elevation_m": "297"
+ },
+ "Sumter, South Carolina": {
+  "nickname": "The Gamecock City, King City of the East Midlands",
+  "elevation_ft": "154"
+ },
+ "Sioux Falls, South Dakota": {
+  "nicknames": "Best Little City in America, Queen City of the West, The Heart of America",
+  "elevation_ft": "1463"
+ },
+ "Rapid City, South Dakota": {
+  "nicknames": "Gateway to the Black Hills, City of Presidents",
+  "elevation_ft": "3356",
+  "elevation_m": "1023"
+ },
+ "Aberdeen, South Dakota": {
+  "elevation_ft": "1299"
+ },
+ "Brookings, South Dakota": {
+  "nickname": "Scoreboard Town",
+  "elevation_ft": "1660",
+  "elevation_m": "506"
+ },
+ "Watertown, South Dakota": {
+  "nickname": "South Dakota's Rising Star",
+  "elevation_ft": "1729"
+ },
+ "Yankton, South Dakota": {
+  "nickname": "\"Mother City of the Dakotas\"",
+  "elevation_ft": "1243"
+ },
+ "Mitchell, South Dakota": {
+  "nickname": "\"The Palace City\"",
+  "elevation_ft": "1299"
+ },
+ "Huron, South Dakota": {
+  "elevation_ft": "1280"
+ },
+ "Spearfish, South Dakota": {
+  "nickname": "Queen City",
+  "elevation_ft": "3921",
+  "elevation_m": "1195"
+ },
+ "Box Elder, South Dakota": {
+  "nickname": "Gateway to the Black Hills",
+  "elevation_ft": "3045",
+  "elevation_m": "928"
+ },
+ "Nashville, Tennessee": {
+  "nicknames": "Music City, Country Music Capital, Athens of the South",
+  "elevation_ft": "554",
+  "elevation_m": "169"
+ },
+ "Memphis, Tennessee": {
+  "nicknames": "Bluff City, Home of the Blues, Grind City, The 901",
+  "elevation_ft": "337",
+  "elevation_m": "103"
+ },
+ "Knoxville, Tennessee": {
+  "nicknames": "Marble City, Heart of the Valley, Queen City of the Mountains, K-Town, Scruffy City, Gateway to the Great Smoky Mountains, Knox Vegas.",
+  "elevation_ft": "886"
+ },
+ "Chattanooga, Tennessee": {
+  "nicknames": "Scenic City (official); Chatt, Chattown, Gig City, Nooga, and River City",
+  "elevation_ft": "676",
+  "elevation_m": "206"
+ },
+ "Clarksville, Tennessee": {
+  "nicknames": "Queen of the Cumberland<br />Gateway to the [[New South]]<br />Tennessee's Top Spot",
+  "elevation_ft": "476"
+ },
+ "Murfreesboro, Tennessee": {
+  "nickname": "The 'Boro",
+  "elevation_ft": "610",
+  "elevation_m": "186"
+ },
+ "Franklin, Tennessee": {
+  "elevation_ft": "643"
+ },
+ "Johnson City, Tennessee": {
+  "nickname": "Little Chicago",
+  "elevation_ft": "1634",
+  "elevation_m": "498"
+ },
+ "Jackson, Tennessee": {
+  "nickname": "Hub City",
+  "elevation_ft": "410",
+  "elevation_m": "125"
+ },
+ "Hendersonville, Tennessee": {
+  "elevation_m": "147"
+ },
+ "Smyrna, Tennessee": {
+  "elevation_ft": "545",
+  "elevation_m": "166"
+ },
+ "Spring Hill, Tennessee": {
+  "elevation_ft": "751",
+  "elevation_m": "229"
+ },
+ "Kingsport, Tennessee": {
+  "nickname": "The Model City",
+  "elevation_ft": "1211",
+  "elevation_m": "369"
+ },
+ "Bartlett, Tennessee": {
+  "elevation_ft": "322",
+  "elevation_m": "98"
+ },
+ "Gallatin, Tennessee": {
+  "elevation_m": "164"
+ },
+ "Lebanon, Tennessee": {
+  "nickname": "\"Cedar City\"",
+  "elevation_ft": "528",
+  "elevation_m": "161"
+ },
+ "Collierville, Tennessee": {
+  "elevation_ft": "381",
+  "elevation_m": "116"
+ },
+ "Cleveland, Tennessee": {
+  "nickname": "The City with Spirit",
+  "elevation_ft": "860"
+ },
+ "Columbia, Tennessee": {
+  "nickname": "Muletown",
+  "elevation_ft": "643",
+  "elevation_m": "196"
+ },
+ "Houston": {
+  "nicknames": "Space City (official), <small>[[Nicknames of Houston|more&nbsp;...]]</small>",
+  "elevation_ft": "80",
+  "elevation_m": "32"
+ },
+ "San Antonio": {
+  "nicknames": "San Antone Alamo City, Military City USA, River City, The 210, S.A., Countdown City, Something to Remember",
+  "elevation_ft": "722"
+ },
+ "Dallas": {
+  "nicknames": "Big D, D-Town, Triple D, 214",
+  "elevation_ft": "482"
+ },
+ "Fort Worth, Texas": {
+  "nicknames": "Cowtown, Panther City, Funkytown, Queen City of the Prairie",
+  "elevation_ft": "541"
+ },
+ "Austin, Texas": {
+  "nicknames": "Live Music Capital of the World, [[Silicon Hills]], ATX, City of the Violet Crown",
+  "elevation_ft": "607"
+ },
+ "El Paso, Texas": {
+  "nicknames": "The Sun City, El Chuco",
+  "elevation_ft": "3763"
+ },
+ "Arlington, Texas": {
+  "nicknames": "The American Dream City",
+  "elevation_ft": "604"
+ },
+ "Corpus Christi, Texas": {
+  "nicknames": "Corpus, Sparkling City by the Sea, [[Hampton Roads]] of the Southwest",
+  "elevation_ft": "7",
+  "elevation_m": "2"
+ },
+ "Plano, Texas": {
+  "elevation_ft": "715"
+ },
+ "Lubbock, Texas": {
+  "nickname": "Hub City",
+  "elevation_ft": "3202"
+ },
+ "Laredo, Texas": {
+  "nicknames": "The Gateway City, Gateway to Mexico, The City Under Seven Flags, The City of Saints and Generals",
+  "elevation_ft": "438",
+  "elevation_m": "137.2"
+ },
+ "Irving, Texas": {
+  "elevation_ft": "482",
+  "elevation_m": "147"
+ },
+ "Garland, Texas": {
+  "elevation_ft": "551"
+ },
+ "Frisco, Texas": {
+  "elevation_ft": "689"
+ },
+ "McKinney, Texas": {
+  "elevation_ft": "577"
+ },
+ "Grand Prairie, Texas": {
+  "nickname": "\"G.P.\" \"GPTX\"",
+  "elevation_ft": "528"
+ },
+ "Amarillo, Texas": {
+  "nicknames": "Bomb City, Rotor City, Yellow City",
+  "elevation_ft": "3662"
+ },
+ "Brownsville, Texas": {
+  "nickname": "Chess Capital of Texas",
+  "elevation_ft": "33",
+  "elevation_m": "10"
+ },
+ "Denton, Texas": {
+  "nicknames": "Little Austin, Little D, Redbud Capital of Texas",
+  "elevation_ft": "659"
+ },
+ "Killeen, Texas": {
+  "elevation_ft": "863"
+ },
+ "Mesquite, Texas": {
+  "nickname": "Rodeo Capital of Texas",
+  "elevation_ft": "495"
+ },
+ "McAllen, Texas": {
+  "nickname": "\"The City of Palms\"",
+  "elevation_ft": "121",
+  "elevation_m": "37"
+ },
+ "Pasadena, Texas": {
+  "elevation_ft": "30",
+  "elevation_m": "9.1"
+ },
+ "Waco, Texas": {
+  "nicknames": "\"Heart of Texas\"<br />\"Buckle of the Bible Belt\"",
+  "elevation_ft": "522"
+ },
+ "Midland, Texas": {
+  "nickname": "The Tall City",
+  "elevation_ft": "2782"
+ },
+ "Round Rock, Texas": {
+  "elevation_ft": "735"
+ },
+ "Lewisville, Texas": {
+  "elevation_ft": "463"
+ },
+ "Carrollton, Texas": {
+  "elevation_ft": "482"
+ },
+ "Abilene, Texas": {
+  "nicknames": "{{plainlist|\n*\"The Key City\"\n*\"The Friendly Frontier\"}}",
+  "elevation_ft": "1719",
+  "elevation_m": "527"
+ },
+ "Pearland, Texas": {
+  "elevation_ft": "49",
+  "elevation_m": "15"
+ },
+ "College Station, Texas": {
+  "elevation_ft": "289"
+ },
+ "Odessa, Texas": {
+  "nickname": "The Jackrabbit-Roping Capital of Texas",
+  "elevation_ft": "2900",
+  "elevation_m": "884"
+ },
+ "New Braunfels, Texas": {
+  "elevation_ft": "620"
+ },
+ "The Woodlands, Texas": {
+  "elevation_ft": "160"
+ },
+ "League City, Texas": {
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "Conroe, Texas": {
+  "elevation_ft": "205",
+  "elevation_m": "62.5"
+ },
+ "Richardson, Texas": {
+  "nickname": "\"The Telecom Corridor\"",
+  "elevation_ft": "633"
+ },
+ "Tyler, Texas": {
+  "nicknames": "Rose City, Rose Capital, Rose Capital of America",
+  "elevation_ft": "499"
+ },
+ "Allen, Texas": {
+  "elevation_ft": "656"
+ },
+ "Beaumont, Texas": {
+  "elevation_ft": "16"
+ },
+ "Edinburg, Texas": {
+  "nickname": "\"Gateway City to the Rio Grande Valley\"",
+  "elevation_ft": "95",
+  "elevation_m": "29"
+ },
+ "Sugar Land, Texas": {
+  "elevation_ft": "100"
+ },
+ "Georgetown, Texas": {
+  "nicknames": "Red Poppy Capital of Texas, G-Town, GTX, Takachue Pouetsu (Land of Good Water)",
+  "elevation_ft": "755",
+  "elevation_m": "230"
+ },
+ "Wichita Falls, Texas": {
+  "elevation_ft": "951"
+ },
+ "San Angelo, Texas": {
+  "elevation_ft": "1844"
+ },
+ "Atascocita, Texas": {
+  "elevation_ft": "72",
+  "elevation_m": "22"
+ },
+ "Temple, Texas": {
+  "elevation_ft": "607"
+ },
+ "Bryan, Texas": {
+  "nicknames": "The Good Life, Texas Style",
+  "elevation_ft": "361"
+ },
+ "Leander, Texas": {
+  "elevation_ft": "1017"
+ },
+ "Mission, Texas": {
+  "elevation_ft": "141",
+  "elevation_m": "43"
+ },
+ "Baytown, Texas": {
+  "elevation_ft": "23"
+ },
+ "Mansfield, Texas": {
+  "elevation_ft": "591"
+ },
+ "Longview, Texas": {
+  "nickname": "Balloon Race Capital of Texas",
+  "elevation_ft": "289",
+  "elevation_m": "88"
+ },
+ "Pharr, Texas": {
+  "elevation_ft": "112",
+  "elevation_m": "34"
+ },
+ "Flower Mound, Texas": {
+  "nicknames": "FloMo, The Mound",
+  "elevation_ft": "604"
+ },
+ "Cedar Park, Texas": {
+  "elevation_ft": "935"
+ },
+ "San Marcos, Texas": {
+  "nickname": "San Marvelous",
+  "elevation_ft": "574"
+ },
+ "Missouri City, Texas": {
+  "elevation_ft": "75"
+ },
+ "Harlingen, Texas": {
+  "nicknames": "\"Capital City of the Valley\", \"H-Town\"",
+  "elevation_ft": "39",
+  "elevation_m": "12"
+ },
+ "North Richland Hills, Texas": {
+  "nickname": "NRH",
+  "elevation_ft": "630"
+ },
+ "Kyle, Texas": {
+  "nickname": "Pie Capital of Texas",
+  "elevation_ft": "728",
+  "elevation_m": "222"
+ },
+ "Spring, Texas": {
+  "elevation_ft": "121"
+ },
+ "Pflugerville, Texas": {
+  "elevation_ft": "686"
+ },
+ "Rowlett, Texas": {
+  "elevation_ft": "459"
+ },
+ "Victoria, Texas": {
+  "elevation_ft": "95",
+  "elevation_m": "29"
+ },
+ "Fulshear, Texas": {
+  "elevation_ft": "131",
+  "elevation_m": "40"
+ },
+ "Celina, Texas": {
+  "elevation_ft": "673"
+ },
+ "Wylie, Texas": {
+  "elevation_ft": "518"
+ },
+ "Little Elm, Texas": {
+  "elevation_ft": "515"
+ },
+ "Euless, Texas": {
+  "elevation_ft": "581"
+ },
+ "Texas City, Texas": {
+  "elevation_ft": "10",
+  "elevation_m": "3"
+ },
+ "Burleson, Texas": {
+  "elevation_ft": "725"
+ },
+ "DeSoto, Texas": {
+  "elevation_ft": "666",
+  "elevation_m": "203"
+ },
+ "Port Arthur, Texas": {
+  "nicknames": "PA, PAT",
+  "elevation_ft": "0"
+ },
+ "Rockwall, Texas": {
+  "elevation_ft": "561"
+ },
+ "Galveston, Texas": {
+  "nickname": "\"The Oleander City\"",
+  "elevation_ft": "7",
+  "elevation_m": "2"
+ },
+ "Sherman, Texas": {
+  "elevation_ft": "686"
+ },
+ "Grapevine, Texas": {
+  "elevation_ft": "630"
+ },
+ "Waxahachie, Texas": {
+  "nickname": "The [[Crape Myrtle]] Capital of Texas",
+  "elevation_ft": "623"
+ },
+ "Salt Lake City": {
+  "nickname": "\"The Crossroads of the West\"",
+  "elevation_ft": "4265",
+  "elevation_m": "1300"
+ },
+ "West Valley City, Utah": {
+  "elevation_ft": "4304",
+  "elevation_m": "1312"
+ },
+ "West Jordan, Utah": {
+  "elevation_ft": "4373",
+  "elevation_m": "1333"
+ },
+ "Provo, Utah": {
+  "elevation_ft": "4551"
+ },
+ "St. George, Utah": {
+  "nicknames": "[[Utah's Dixie]], (the) STG",
+  "elevation_ft": "2530"
+ },
+ "Lehi, Utah": {
+  "elevation_ft": "4561"
+ },
+ "Orem, Utah": {
+  "nickname": "Family City USA",
+  "elevation_ft": "4767"
+ },
+ "Sandy, Utah": {
+  "elevation_ft": "4450",
+  "elevation_m": "1356"
+ },
+ "Ogden, Utah": {
+  "nickname": "Junction City",
+  "elevation_ft": "4341"
+ },
+ "South Jordan, Utah": {
+  "elevation_ft": "4439",
+  "elevation_m": "1353"
+ },
+ "Layton, Utah": {
+  "elevation_ft": "4459"
+ },
+ "Eagle Mountain, Utah": {
+  "elevation_ft": "4885"
+ },
+ "Millcreek, Utah": {
+  "elevation_ft": "4285",
+  "elevation_m": "1306"
+ },
+ "Herriman, Utah": {
+  "elevation_ft": "5000",
+  "elevation_m": "1524"
+ },
+ "Saratoga Springs, Utah": {
+  "elevation_ft": "4547"
+ },
+ "Taylorsville, Utah": {
+  "elevation_ft": "4295",
+  "elevation_m": "1309"
+ },
+ "Logan, Utah": {
+  "elevation_ft": "4534"
+ },
+ "Murray, Utah": {
+  "elevation_ft": "4301",
+  "elevation_m": "1311"
+ },
+ "Draper, Utah": {
+  "elevation_ft": "4751"
+ },
+ "Burlington, Vermont": {
+  "nicknames": "BTV, The Queen City; Burly",
+  "elevation_ft": "98"
+ },
+ "South Burlington, Vermont": {
+  "elevation_ft": "95"
+ },
+ "Rutland (city), Vermont": {
+  "nicknames": "Marble City, Gateway to Southern Vermont, Rutvegas",
+  "elevation_ft": "541"
+ },
+ "Essex Junction, Vermont": {
+  "elevation_ft": "361"
+ },
+ "Bennington (CDP), Vermont": {
+  "elevation_ft": "735"
+ },
+ "Winooski, Vermont": {
+  "nickname": "Onion City",
+  "elevation_ft": "249"
+ },
+ "Barre (city), Vermont": {
+  "nickname": "Granite Center of the World",
+  "elevation_ft": "600"
+ },
+ "Montpelier, Vermont": {
+  "elevation_ft": "528"
+ },
+ "Brattleboro (CDP), Vermont": {
+  "elevation_ft": "276"
+ },
+ "Middlebury (CDP), Vermont": {
+  "elevation_ft": "364"
+ },
+ "Virginia Beach, Virginia": {
+  "nicknames": "\"The Resort City\", VA Beach",
+  "elevation_ft": "10"
+ },
+ "Chesapeake, Virginia": {
+  "elevation_ft": "16"
+ },
+ "Richmond, Virginia": {
+  "nicknames": "\"RVA\", \"River City\"{{Failed verification|date=January 2019}}",
+  "elevation_ft": "213",
+  "elevation_m": "65"
+ },
+ "Arlington, Virginia": {},
+ "Norfolk, Virginia": {
+  "elevation_ft": "7",
+  "elevation_m": "2.1"
+ },
+ "Newport News, Virginia": {
+  "elevation_ft": "15"
+ },
+ "Alexandria, Virginia": {},
+ "Hampton, Virginia": {
+  "elevation_ft": "10"
+ },
+ "Suffolk, Virginia": {
+  "elevation_ft": "39"
+ },
+ "Roanoke, Virginia": {
+  "nicknames": "The Star City of [[Southern United States|The South]], Magic City, Star City",
+  "elevation_ft": "974",
+  "elevation_m": "297"
+ },
+ "Portsmouth, Virginia": {
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "Lynchburg, Virginia": {
+  "nicknames": "City of Seven Hills, The Hill City",
+  "elevation_ft": "630",
+  "elevation_m": "192"
+ },
+ "Centreville, Virginia": {
+  "elevation_ft": "384",
+  "elevation_m": "117"
+ },
+ "Dale City, Virginia": {
+  "elevation_ft": "230",
+  "elevation_m": "70"
+ },
+ "Reston, Virginia": {
+  "elevation_ft": "360",
+  "elevation_m": "110"
+ },
+ "Harrisonburg, Virginia": {
+  "nicknames": "The Friendly City, Rocktown, H'burg, The Burg, Friendly by Nature",
+  "elevation_ft": "1325",
+  "elevation_m": "404"
+ },
+ "Seattle": {
+  "nicknames": "The Emerald City, Jet City, Rain City",
+  "elevation_ft": "148"
+ },
+ "Spokane, Washington": {
+  "nickname": "The Lilac City",
+  "elevation_ft": "1843",
+  "elevation_m": "562"
+ },
+ "Tacoma, Washington": {
+  "nicknames": "City of Destiny, Grit City",
+  "elevation_ft": "387"
+ },
+ "Vancouver, Washington": {
+  "elevation_ft": "180"
+ },
+ "Bellevue, Washington": {
+  "elevation_ft": "341"
+ },
+ "Kent, Washington": {
+  "elevation_ft": "394",
+  "elevation_m": "120"
+ },
+ "Everett, Washington": {},
+ "Spokane Valley, Washington": {
+  "nickname": "The Valley",
+  "elevation_ft": "2038"
+ },
+ "Renton, Washington": {
+  "elevation_ft": "85"
+ },
+ "Federal Way, Washington": {
+  "elevation_ft": "417"
+ },
+ "Yakima, Washington": {
+  "nicknames": "The Palm Springs of Washington; The Heart of Central Washington",
+  "elevation_ft": "1207"
+ },
+ "Kirkland, Washington": {
+  "elevation_ft": "43"
+ },
+ "Bellingham, Washington": {
+  "nickname": "City of Subdued Excitement",
+  "elevation_ft": "66"
+ },
+ "Kennewick, Washington": {
+  "elevation_ft": "558",
+  "elevation_m": "170"
+ },
+ "Auburn, Washington": {
+  "elevation_ft": "92",
+  "elevation_m": "28"
+ },
+ "Pasco, Washington": {
+  "elevation_ft": "390"
+ },
+ "Redmond, Washington": {
+  "nickname": "Bicycle Capital of the Northwest",
+  "elevation_ft": "52"
+ },
+ "Marysville, Washington": {
+  "nickname": "The Strawberry City",
+  "elevation_ft": "20",
+  "elevation_m": "6"
+ },
+ "South Hill, Washington": {
+  "elevation_ft": "541"
+ },
+ "Shoreline, Washington": {
+  "elevation_ft": "472"
+ },
+ "Sammamish, Washington": {
+  "elevation_ft": "397"
+ },
+ "Richland, Washington": {
+  "nicknames": "The Windy City, City Of the Bombers, Atomic City",
+  "elevation_ft": "404"
+ },
+ "Lakewood, Washington": {
+  "elevation_ft": "207"
+ },
+ "Lacey, Washington": {
+  "elevation_ft": "177",
+  "elevation_m": "54"
+ },
+ "Olympia, Washington": {
+  "nickname": "Oly",
+  "elevation_ft": "95",
+  "elevation_m": "29"
+ },
+ "Bothell, Washington": {
+  "elevation_ft": "302"
+ },
+ "Burien, Washington": {
+  "elevation_ft": "374"
+ },
+ "Charleston, West Virginia": {
+  "nickname": "Charlie West",
+  "elevation_ft": "597",
+  "elevation_m": "182"
+ },
+ "Huntington, West Virginia": {
+  "nicknames": "The Jewel City, The River City, The River & Rail City, Train City",
+  "elevation_ft": "564",
+  "elevation_m": "172"
+ },
+ "Morgantown, West Virginia": {
+  "elevation_ft": "1161"
+ },
+ "Parkersburg, West Virginia": {
+  "elevation_ft": "633"
+ },
+ "Wheeling, West Virginia": {
+  "nickname": "The Friendly City",
+  "elevation_ft": "687–1300",
+  "elevation_m": "209–396"
+ },
+ "Martinsburg, West Virginia": {
+  "elevation_ft": "495"
+ },
+ "Weirton, West Virginia": {
+  "nickname": "\"Gateway To The Valley\"",
+  "elevation_ft": "755",
+  "elevation_m": "230"
+ },
+ "Fairmont, West Virginia": {
+  "nickname": "Friendly City",
+  "elevation_ft": "984",
+  "elevation_m": "300"
+ },
+ "Beckley, West Virginia": {
+  "nickname": "Smokeless Coal Capital",
+  "elevation_ft": "2405"
+ },
+ "Clarksburg, West Virginia": {
+  "nickname": "Jewel of the Hills",
+  "elevation_ft": "994",
+  "elevation_m": "303"
+ },
+ "Milwaukee": {
+  "nicknames": "Cream City, Brew City, MKE, City of Festivals, The Mil, The Good Land, [[Area code 414|The 414]]",
+  "elevation_ft": "617",
+  "elevation_m": "188"
+ },
+ "Madison, Wisconsin": {
+  "nicknames": "Madtown, Mad City, The City of Four Lakes, 77 Square Miles Surrounded by Reality",
+  "elevation_ft": "873"
+ },
+ "Green Bay, Wisconsin": {
+  "nicknames": "\"Titletown\", \"Bayland\", \"Bay City\", \"Packerland\", and \"Packer City\"",
+  "elevation_ft": "581",
+  "elevation_m": "177"
+ },
+ "Kenosha, Wisconsin": {
+  "nickname": "K-Town",
+  "elevation_ft": "604",
+  "elevation_m": "184"
+ },
+ "Racine, Wisconsin": {
+  "nicknames": "The Belle City of the Lakes, The Kringle Capital of America, Kringleville, Invention City",
+  "elevation_ft": "618",
+  "elevation_m": "188"
+ },
+ "Appleton, Wisconsin": {
+  "elevation_ft": "790"
+ },
+ "Eau Claire, Wisconsin": {
+  "elevation_ft": "787",
+  "elevation_m": "240"
+ },
+ "Waukesha, Wisconsin": {
+  "nicknames": "Spring City, Saratoga of the West, Guitartown"
+ },
+ "Oshkosh, Wisconsin": {
+  "nickname": "Sawdust City",
+  "elevation_ft": "790",
+  "elevation_m": "241"
+ },
+ "Janesville, Wisconsin": {
+  "nickname": "Wisconsin's Park Place, Bower City",
+  "elevation_ft": "850",
+  "elevation_m": "259"
+ },
+ "West Allis, Wisconsin": {
+  "elevation_ft": "728",
+  "elevation_m": "222"
+ },
+ "La Crosse, Wisconsin": {
+  "elevation_ft": "669",
+  "elevation_m": "204"
+ },
+ "Cheyenne, Wyoming": {
+  "nickname": "\"Magic City of the Plains\" (''historic'')",
+  "elevation_ft": "6086"
+ },
+ "Casper, Wyoming": {
+  "nickname": "\"The Oil City\"",
+  "elevation_ft": "5150"
+ },
+ "Gillette, Wyoming": {
+  "elevation_ft": "4554"
+ },
+ "Laramie, Wyoming": {
+  "elevation_ft": "7165",
+  "elevation_m": "2184"
+ },
+ "Rock Springs, Wyoming": {
+  "elevation_ft": "6388"
+ },
+ "Sheridan, Wyoming": {
+  "elevation_ft": "3757"
+ },
+ "Evanston, Wyoming": {
+  "elevation_ft": "6749"
+ },
+ "Green River, Wyoming": {
+  "elevation_ft": "6115"
+ },
+ "Riverton, Wyoming": {
+  "elevation_ft": "4951"
+ },
+ "Jackson, Wyoming": {
+  "nickname": "Jackson Hole, The Hole, JH",
+  "elevation_ft": "6237"
+ }
+}

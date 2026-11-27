@@ -1,0 +1,184 @@
+<div class="stage">
+	<div class="land">{{Map}}<div class="ring"></div></div>
+	<div class="details">
+		<div class="head">
+			<div class="name">{{Name}}</div>
+			<div class="abbr">{{Abbreviation}}</div>
+		</div>
+		<div class="region">{{State}}</div>
+		{{#Place Type}}<div class="as">{{Place Type}}</div>{{/Place Type}}
+		<table>
+			<tr>
+				<th></th>
+				<th></th>
+				<th class="r">{{Abbreviation}} rank</th>
+				<th class="r">U.S. rank</th>
+			</tr>
+			<tr>
+				<td class="k">Population</td>
+				<td>{{Population}}</td>
+				<td class="r">{{State Population Rank}}</td>
+				<td class="r">{{US Population Rank}}</td>
+			</tr>
+			{{#Land Area}}
+			<tr>
+				<td class="k">Land area</td>
+				<td>{{Land Area}}</td>
+				<td class="r">{{State Area Rank}}</td>
+				<td class="r">{{US Area Rank}}</td>
+			</tr>
+			{{/Land Area}}
+			{{#Density}}
+			<tr>
+				<td class="k">Density</td>
+				<td>{{Density}}</td>
+				<td class="r">{{State Density Rank}}</td>
+				<td class="r">{{US Density Rank}}</td>
+			</tr>
+			{{/Density}}
+			{{#Founded}}
+			<tr>
+				<td class="k">Founded</td>
+				<td>{{Founded}}<div class="as">{{Founded As}}</div></td>
+				<td class="r">{{State Founded Rank}}</td>
+				<td class="r">{{US Founded Rank}}</td>
+			</tr>
+			{{/Founded}}
+			{{#County}}
+			<tr>
+				<td class="k">County</td>
+				<td colspan="3">{{County}}</td>
+			</tr>
+			{{/County}}
+			{{#Elevation}}
+			<tr>
+				<td class="k">Elevation</td>
+				<td colspan="3">{{Elevation}}</td>
+			</tr>
+			{{/Elevation}}
+			{{#Nickname}}
+			<tr>
+				<td class="k">Nickname</td>
+				<td colspan="3">{{Nickname}}</td>
+			</tr>
+			{{/Nickname}}
+		</table>
+		<div class="asof">Population: {{As Of}}. Ranks compare all places; founding ranks compare this deck's. #1 is the largest, densest or oldest.</div>
+	</div>
+</div>
+<script>
+	(function () {
+		var s = document.querySelector(".stage");
+		if (!s) return;
+		// dh, dw: height of the details panel along the bottom, or width of the one floating at the side (0 when absent); the map is centred in the space left over.
+		function boxFit(vw, vh, b, k, dh, dw) {
+			var bw = b[2] - b[0],
+				bh = b[3] - b[1],
+				ev = vh - dh,
+				ew = vw - dw,
+				side = Math.min((ew * k) / bw, (ev * k) / bh);
+			if (b[4])
+				side = Math.min(
+					side,
+					(b[5] ? Math.min(vw, vh) : Math.max(vw, vh)) / b[4],
+				);
+			side = Math.max(side, vw, vh);
+			return {
+				side: side,
+				left: dw
+					? Math.min(0, Math.max(vw - side, ew / 2 - (b[0] + bw / 2) * side))
+					: vw / 2 - (b[0] + bw / 2) * side,
+				top: dh
+					? Math.min(0, Math.max(vh - side - dh, ev / 2 - (b[1] + bh / 2) * side))
+					: vh / 2 - (b[1] + bh / 2) * side,
+			};
+		}
+		// [height, width] the details panel takes from the stage: a full-width block at the bottom, or a card floating at the right.
+		function panelInset() {
+			var d = s.querySelector(".details");
+			if (!d) return [0, 0];
+			var q = d.getBoundingClientRect(),
+				p = s.getBoundingClientRect();
+			if (q.width >= s.clientWidth * 0.9)
+				return [q.top - p.top > s.clientHeight * 0.4 ? p.bottom - q.top : 0, 0];
+			return [0, q.left - p.left > s.clientWidth * 0.4 ? p.right - q.left : 0];
+		}
+		function g() {
+			var im = s.querySelector("img[data-box]");
+			if (!im) return;
+			var b = im.getAttribute("data-box").split(",").map(Number),
+				r = boxFit(s.clientWidth, s.clientHeight, b, 0.92, panelInset()[0], panelInset()[1]),
+				t = im.style;
+			s.style.overflow = "hidden";
+			t.position = "absolute";
+			t.maxWidth = "none";
+			t.maxHeight = "none";
+			t.objectFit = "fill";
+			t.width = t.height = r.side + "px";
+			t.left = r.left + "px";
+			t.top = r.top + "px";
+			// The city's own area lies exactly over the map.
+			var own = s.querySelector("img.city");
+			if (own) own.style.cssText = t.cssText;
+			// A ring around a city too small to spot: p is its centre and size, as shares of the map.
+			var p = im.getAttribute("data-city").split(",").map(Number),
+				m = s.querySelector(".ring").style;
+			m.left = r.left + p[0] * r.side + "px";
+			m.top = r.top + p[1] * r.side + "px";
+			m.display = p[2] * r.side < 30 ? "block" : "none";
+			// The zoom box starts top-left; if it would cover the place, it moves to another corner.
+			var z = s.querySelector("img.zoom");
+			if (!z) return;
+			z.style.top = z.style.left = "";
+			var x = r.left + p[0] * r.side,
+				y = r.top + p[1] * r.side,
+				w = z.offsetWidth,
+				h = z.offsetHeight,
+				e = z.offsetLeft,
+				corners = [[e, z.offsetTop], [s.clientWidth - w - e, 52], [e, s.clientHeight - panelInset()[0] - h - e]];
+			for (var i = 0; i < corners.length; i++) {
+				var c = corners[i];
+				if (x < c[0] - 24 || x > c[0] + w + 24 || y < c[1] - 24 || y > c[1] + h + 24) {
+					z.style.left = c[0] + "px";
+					z.style.top = c[1] + "px";
+					break;
+				}
+			}
+		}
+		if (s.querySelector(".details")) {
+			var n = /night/i.test(
+					document.body.className + document.documentElement.className,
+				),
+				c = n ? "#1c2228" : "#f7fafc";
+			document.documentElement.style.background = c;
+			document.body.style.background = c;
+		}
+		function f() {
+			var d =
+				window.matchMedia &&
+				window.matchMedia("(hover:hover) and (pointer:fine)").matches;
+			if (d) {
+				s.style.height = "";
+				s.style.paddingBottom = "";
+				return;
+			}
+			var h = Math.max(
+				window.innerHeight || 0,
+				document.documentElement.clientHeight || 0,
+				(window.visualViewport && window.visualViewport.height) || 0,
+			);
+			s.style.height = h + "px";
+			s.style.paddingBottom = "0";
+		}
+		function h() {
+			f();
+			g();
+		}
+		h();
+		window.addEventListener("resize", h);
+		window.addEventListener("orientationchange", h);
+		window.addEventListener("load", h);
+		setTimeout(h, 150);
+		setTimeout(h, 600);
+	})();
+</script>

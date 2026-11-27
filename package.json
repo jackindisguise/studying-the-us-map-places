@@ -1,0 +1,31 @@
+{
+	"name": "american-places-deck",
+	"version": "1.1.0",
+	"private": true,
+	"type": "module",
+	"description": "Scripts and data to generate the notes and map images for the Studying the US Map / Places Anki deck.",
+	"scripts": {
+		"fetch": "node scripts/fetch-all.js",
+		"fetch:refresh": "node scripts/fetch-all.js --refresh",
+		"records": "node scripts/build-records.js",
+		"render": "node scripts/render-all.js",
+		"notes": "node scripts/build-notes.js",
+		"build": "npm run records && npm run render && npm run notes",
+		"apkg": "npm run apkg:build && npm run apkg:describe",
+		"apkg:build": "node scripts/build-apkg.js",
+		"apkg:describe": "node scripts/add-deck-descriptions.js",
+		"examples": "node scripts/build-examples.js"
+	},
+	"dependencies": {
+		"anki-apkg-export": "^5.0.0",
+		"d3-geo": "^3.1.1",
+		"jszip": "^3.10.2",
+		"sql.js": "^1.16.0",
+		"topojson-client": "^3.1.0",
+		"us-atlas": "^3.0.1",
+		"world-atlas": "^2.0.2"
+	},
+	"engines": {
+		"node": ">=22.12"
+	}
+}

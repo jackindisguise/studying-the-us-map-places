@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Downloaded sources are kept byte for byte.
+data/raw/** -text
+*.png binary
