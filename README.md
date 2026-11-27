@@ -93,4 +93,4 @@ npm run apkg
 
 ## Releases
 
-The release-please workflow is carried over from *Studying the US Map*. It does nothing until this folder is a repository on GitHub.
+The release-please workflow is carried over from *Studying the US Map*.
