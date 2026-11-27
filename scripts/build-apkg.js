@@ -1,7 +1,7 @@
 // Builds the Anki package (.apkg) from build/notes.csv, build/media/ and templates/.
 // Run `npm run build` first: it writes build/notes.csv and the map images.
 // Usage: node scripts/build-apkg.js [output.apkg]
-// Default output: build/american-places-<version from package.json>.apkg
+// Default output: build/studying-the-us-map-places-<version from package.json>.apkg
 import fs from 'node:fs';
 import path from 'node:path';
 import AnkiExport from 'anki-apkg-export';
@@ -41,7 +41,7 @@ const parseNotes = (text) => {
 };
 
 const version = JSON.parse(fs.readFileSync('package.json', 'utf8')).version;
-const out = process.argv[2] || `build/american-places-${version}.apkg`;
+const out = process.argv[2] || `build/studying-the-us-map-places-${version}.apkg`;
 const { columns, rows } = parseNotes(fs.readFileSync('build/notes.csv', 'utf8'));
 const fields = columns.filter((c) => c !== 'Deck' && c !== 'Tags');
 
