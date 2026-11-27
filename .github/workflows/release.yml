@@ -43,4 +43,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TAG: ${{ needs.release-please.outputs.tag_name }}
           VERSION: ${{ needs.release-please.outputs.version }}
-        run: gh release upload "$TAG" "build/american-places-$VERSION.apkg" --clobber
+        run: gh release upload "$TAG" "build/studying-the-us-map-places-$VERSION.apkg" --clobber

@@ -75,7 +75,7 @@ npm run build
 npm run apkg
 ```
 
-`npm run build` writes the records, the maps and `build/notes.csv`. `npm run apkg` bundles them into `build/american-places-<version>.apkg`, ready to import into Anki. Maps are rendered on all processor cores (set `RENDER_JOBS` to use fewer).
+`npm run build` writes the records, the maps and `build/notes.csv`. `npm run apkg` bundles them into `build/studying-the-us-map-places-<version>.apkg`, ready to import into Anki. Maps are rendered on all processor cores (set `RENDER_JOBS` to use fewer).
 
 `npm run examples` renders the images in `docs/images/` (needs Edge or Chrome). Pass IDs such as `US-PLACE-0820000` to `node scripts/build-examples.js` for test screenshots in `build/examples/`.
 
@@ -93,4 +93,4 @@ npm run apkg
 
 ## Releases
 
-The release-please workflow is carried over from *Studying the US Map*. It does nothing until this folder is a repository on GitHub.
+The release-please workflow is carried over from *Studying the US Map*.

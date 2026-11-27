@@ -4,13 +4,13 @@
 // from package.json), turns on the decks' "Markdown" description option (md: true) and writes it back.
 // Descriptions are Markdown.
 // Usage: node scripts/add-deck-descriptions.js [input.apkg] [output.apkg]
-// Defaults: input build/american-places-<version>.apkg, output = the input (updated in place).
+// Defaults: input build/studying-the-us-map-places-<version>.apkg, output = the input (updated in place).
 import fs from 'node:fs';
 import JSZip from 'jszip';
 import initSqlJs from 'sql.js';
 
 const version = JSON.parse(fs.readFileSync('package.json', 'utf8')).version;
-const input = process.argv[2] || `build/american-places-${version}.apkg`;
+const input = process.argv[2] || `build/studying-the-us-map-places-${version}.apkg`;
 const output = process.argv[3] || input;
 const descriptions = JSON.parse(fs.readFileSync('data/deck-descriptions.json', 'utf8'));
 
