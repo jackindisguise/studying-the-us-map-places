@@ -1,6 +1,6 @@
 {
 	"name": "american-places-deck",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"private": true,
 	"type": "module",
 	"description": "Scripts and data to generate the notes and map images for the Studying the US Map / Places Anki deck.",
