@@ -1,6 +1,6 @@
 # 🏙️ Studying the US Map / Places
 
-![Version](https://img.shields.io/static/v1?label=version&message=1.0.0&color=blue) <!-- x-release-please-version -->
+![Version](https://img.shields.io/static/v1?label=version&message=1.0.1&color=blue) <!-- x-release-please-version -->
 ![Places](https://img.shields.io/static/v1?label=places&message=1023&color=blueviolet) ![Cards](https://img.shields.io/static/v1?label=cards&message=1023&color=orange) ![Maps](https://img.shields.io/static/v1?label=maps&message=SVG&color=informational)
 
 ![Cities](https://img.shields.io/static/v1?label=cities&message=872&color=brightgreen) ![Towns](https://img.shields.io/static/v1?label=towns&message=27&color=yellowgreen) ![Villages](https://img.shields.io/static/v1?label=villages&message=15&color=yellow) ![Census-designated places](https://img.shields.io/static/v1?label=census-designated&message=98&color=ff69b4) ![Consolidated governments](https://img.shields.io/static/v1?label=consolidated&message=11&color=8a2be2)
